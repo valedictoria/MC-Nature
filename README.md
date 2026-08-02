@@ -5,7 +5,6 @@ Nature uses a pre-installed open-source NNUE, as where BravoBlue (in development
 # Description of MC-Nature
 A chess engine written in C++, using an akimbo bullet NNUE net, Native 3·4·5 SyZyGy database, with HCE as a fallback.
 The engine is also known as PsiOmicron, named after the greek alphabet components, but mainly, this name is used to represent what generation the engine is, independently of the version.
-# ——————————————
 ## Version 2.0
 Fixed issues where HCE was most commonly used, because of a bucket failure in the NNUE
 Added GitHub repository
