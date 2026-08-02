@@ -1,0 +1,22 @@
+{
+  "RfpMargin": 76,
+  "RfpMarginImp": 54,
+  "NullBase": 5,
+  "NullDepthDiv": 5,
+  "NullEvalDiv": 162,
+  "ProbCutMargin": 250,
+  "ProbCutImp": 67,
+  "FutBase": 158,
+  "FutScale": 86,
+  "HistPruneMul": 4134,
+  "SeeCapMul": 64,
+  "SeeQuietMul": 60,
+  "LmrHistDiv": 7141,
+  "LmrDivX100": 216,
+  "AspDelta": 13,
+  "HistBonusMul": 5,
+  "HistBonusMax": 7051,
+  "SingularMul": 2,
+  "LmpBase": 4,
+  "LmpImpBase": 4
+}

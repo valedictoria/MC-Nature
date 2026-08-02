@@ -1,0 +1,2630 @@
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "3"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:00"]
+[GameStartTime "2026-07-30T22:46:30 +0200"]
+[GameEndTime "2026-07-30T22:47:31 +0200"]
+[PlyCount "76"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B24"]
+[Opening "Sicilian Defense: Closed"]
+
+1. e4 {book} c5 {book} 2. Nc3 {book} Nc6 {book} 3. g3 {book} g6 {book}
+4. Bg2 {book} Bg7 {book} 5. d3 {book} e5 {book} 6. Nge2 {book} Nge7 {book}
+7. O-O {book} d6 {book} 8. a3 {book} O-O {book} 9. Bg5 {-0.44/15 1.903s}
+h6 {+0.26/11 0.125s} 10. Bd2 {-0.39/19 1.902s} Bg4 {+0.21/11 0.118s}
+11. h3 {-0.11/17 1.900s} Bd7 {+0.19/11 0.084s} 12. Nd5 {-0.14/17 1.902s}
+Nxd5 {+0.27/14 0.088s} 13. exd5 {-0.38/19 1.902s} Nd4 {+0.31/16 0.078s}
+14. Nxd4 {-0.40/20 1.900s} cxd4 {+0.43/14 0.091s} 15. c3 {-0.48/19 1.900s}
+dxc3 {+0.43/12 0.105s} 16. bxc3 {-0.46/19 1.901s} b5 {+0.37/14 0.087s}
+17. Rb1 {-0.16/19 1.904s} f5 {+0.33/11 0.095s} 18. c4 {+0.17/17 1.899s}
+a6 {+0.24/9 0.068s} 19. Bb4 {-0.19/16 1.901s} Qf6 {+0.30/12 0.104s}
+20. cxb5 {-0.21/16 1.906s} axb5 {+0.39/11 0.095s} 21. Qf3 {-0.39/20 1.900s}
+h5 {+0.29/9 0.101s} 22. Rbc1 {-0.43/19 1.901s} Rf7 {+0.36/9 0.100s}
+23. Rc7 {-0.25/17 1.903s} Rd8 {+0.32/10 0.104s} 24. Rc6 {-0.40/15 1.903s}
+Bf8 {+0.31/10 0.061s} 25. Rfc1 {-0.30/17 1.906s} h4 {+0.24/14 0.059s}
+26. gxh4 {-0.32/19 1.901s} f4 {+0.22/14 0.091s} 27. Rb6 {0.00/17 1.899s}
+Bf5 {+0.30/12 0.234s} 28. Rcc6 {-0.50/19 1.901s} Rh7 {+0.47/14 0.223s}
+29. d4 {-0.48/20 1.904s} Qxh4 {+0.46/15 0.091s} 30. dxe5 {+1.69/15 1.910s}
+Qg5 {+0.55/13 0.339s} 31. Bd2 {-0.23/16 1.900s} dxe5 {+0.88/11 0.081s}
+32. Qg3 {-0.61/17 1.899s} Qh5 {+0.19/9 0.079s} 33. Qb3 {0.00/18 1.902s}
+Qg5 {0.00/13 0.071s} 34. d6+ {0.00/19 1.902s} Kh8 {+0.07/14 0.079s}
+35. Kh2 {0.00/21 1.900s} Qh4 {+0.06/12 0.059s} 36. Kg1 {0.00/23 1.900s}
+Qg5 {+0.09/10 0.038s} 37. Kh2 {0.00/25 1.902s} Qh4 {0.00/17 0.032s}
+38. Kg1 {0.00/26 1.904s} Qg5 {0.00/23 0.378s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "2"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:01:27"]
+[GameStartTime "2026-07-30T22:46:30 +0200"]
+[GameEndTime "2026-07-30T22:47:58 +0200"]
+[PlyCount "106"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. Bc4 {book} Nf6 {book}
+4. d3 {book} Nc6 {book} 5. Bb3 {book} e6 {book} 6. c3 {book} Be7 {book}
+7. O-O {book} b5 {book} 8. Re1 {book} d5 {book} 9. exd5 {+0.75/15 1.902s}
+Nxd5 {-0.16/11 0.089s} 10. c4 {+1.05/15 1.900s} bxc4 {+0.04/13 0.094s}
+11. dxc4 {+0.48/17 1.899s} Nb6 {-0.13/13 0.060s} 12. Qe2 {+1.24/19 1.900s}
+Bb7 {-0.53/9 0.053s} 13. Bf4 {+1.45/18 1.901s} Nd4 {-0.82/10 0.056s}
+14. Nxd4 {+1.61/18 1.902s} cxd4 {-0.75/11 0.096s} 15. c5 {+0.96/17 1.905s}
+Nd5 {-0.45/12 0.113s} 16. Be5 {+0.76/17 1.899s} O-O {-0.48/12 0.066s}
+17. Qb5 {+0.57/20 1.900s} Qc8 {-0.34/11 0.089s} 18. Nd2 {+0.71/21 1.901s}
+Qc6 {-0.24/12 0.071s} 19. Qxc6 {+0.64/21 1.902s} Bxc6 {-0.24/13 0.095s}
+20. Rac1 {+0.53/18 1.901s} Rfd8 {-0.04/9 0.078s} 21. a3 {+0.33/15 1.900s}
+d3 {+0.10/11 0.068s} 22. Bc4 {+0.65/15 1.900s} Bg5 {+0.01/11 0.091s}
+23. Rcd1 {+1.07/16 1.918s} Nf4 {-0.51/9 0.148s} 24. h4 {+1.10/18 1.902s}
+Bh6 {-0.19/9 0.084s} 25. f3 {+1.66/15 1.904s} Ne2+ {-0.70/12 0.067s}
+26. Kf2 {+2.35/17 1.901s} Nd4 {-0.84/11 0.083s} 27. f4 {+2.96/17 1.902s}
+Nc2 {-0.50/11 0.070s} 28. Rh1 {+2.59/17 1.900s} a6 {-1.63/11 0.107s}
+29. Rh3 {+4.39/16 1.904s} Bb5 {-2.27/11 0.067s} 30. g4 {+5.71/16 1.903s}
+Bxf4 {-1.78/11 0.153s} 31. Bxf4 {+6.98/18 1.903s} Bxc4 {-2.44/10 0.082s}
+32. Nxc4 {+9.46/20 1.902s} Rd4 {-2.96/13 0.078s} 33. Rhxd3 {+9.65/21 1.900s}
+Rxf4+ {-3.35/12 0.087s} 34. Kg3 {+9.72/23 1.902s} g5 {-3.42/13 0.087s}
+35. Nb6 {+9.82/20 1.902s} Re8 {-3.57/14 0.070s} 36. hxg5 {+14.22/18 1.905s}
+e5 {-3.53/13 0.052s} 37. Nd5 {+15.41/19 1.905s} Nd4 {-4.04/15 0.041s}
+38. Nxf4 {+15.73/19 1.901s} exf4+ {-5.06/15 0.027s} 39. Kxf4 {+15.95/18 1.901s}
+Ne6+ {-4.72/14 0.067s} 40. Kf5 {+15.67/19 1.901s} Ng7+ {-5.08/11 0.070s}
+41. Kf4 {+16.05/17 1.899s} Ne6+ {-4.95/14 0.037s} 42. Kg3 {+16.68/17 1.900s}
+Kf8 {-4.97/16 0.041s} 43. c6 {+17.13/16 1.901s} Kg7 {-5.39/15 0.034s}
+44. Rc1 {+18.96/17 1.900s} Kf8 {-5.21/16 0.027s} 45. Rd7 {+20.38/18 1.902s}
+Rc8 {-5.20/16 0.028s} 46. b4 {+21.22/19 1.900s} Nxg5 {-5.41/16 0.022s}
+47. Kf4 {+24.18/16 1.901s} Nh3+ {-5.37/16 0.080s} 48. Ke5 {+29.84/16 1.903s}
+Ng5 {-6.19/16 0.134s} 49. c7 {+31.18/17 1.906s} a5 {-6.26/15 0.082s}
+50. Rd8+ {+70.09/15 1.901s} Kg7 {-8.07/16 0.028s} 51. Rxc8 {+75.52/17 1.904s}
+f6+ {-8.19/15 0.036s} 52. Kd5 {+89.96/15 1.901s} Kf7 {-10.86/16 0.026s}
+53. Rf8+ {+M19/14 0.324s} Kxf8 {-11.11/13 0.029s, White wins by adjudication}
+1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "4"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:15"]
+[GameStartTime "2026-07-30T22:47:58 +0200"]
+[GameEndTime "2026-07-30T22:48:13 +0200"]
+[PlyCount "30"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. e3 {book} Nf6 {book}
+4. Nc3 {book} e6 {book} 5. Bd2 {book} Nbd7 {book} 6. Rc1 {book} Bd6 {book}
+7. cxd5 {book} exd5 {book} 8. Bd3 {book} O-O {book} 9. Nge2 {-0.16/12 0.171s}
+Re8 {+0.20/13 1.902s} 10. f3 {-0.23/10 0.101s} a6 {+0.20/13 1.918s}
+11. O-O {-0.20/12 0.138s} c5 {+0.55/14 1.915s} 12. a4 {-0.15/10 0.192s}
+b6 {+0.71/14 1.922s} 13. Nf4 {-0.49/8 0.147s} Bb7 {+0.81/11 1.934s}
+14. Re1 {-0.56/12 0.346s} Nf8 {+1.22/12 1.911s} 15. Bb1 {-0.63/12 0.368s}
+Rc8 {+1.22/9 2.011s, Black loses on time (11ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "1"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "0-1"]
+[GameDuration "00:01:47"]
+[GameStartTime "2026-07-30T22:46:30 +0200"]
+[GameEndTime "2026-07-30T22:48:18 +0200"]
+[PlyCount "123"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1. e4 {book} c6 {book} 2. d4 {book} d5 {book} 3. e5 {book} Bf5 {book}
+4. h4 {book} Na6 {book} 5. g4 {book} Bd7 {book} 6. h5 {book} f6 {book}
+7. f4 {book} Nh6 {book} 8. Bh3 {book} c5 {book} 9. f5 {+0.99/11 0.070s}
+e6 {-0.21/13 1.909s} 10. fxe6 {+0.68/10 0.148s} Bxe6 {+0.11/16 1.903s}
+11. g5 {+0.12/10 0.140s} Bxh3 {+1.23/15 1.899s} 12. Nxh3 {-0.37/12 0.106s}
+fxg5 {+0.50/17 1.902s} 13. c3 {-0.60/12 0.110s} Nc7 {+1.31/16 1.903s}
+14. Bxg5 {-0.42/13 0.195s} Be7 {+1.38/16 1.900s} 15. Bxh6 {-0.45/9 0.178s}
+gxh6 {+1.84/15 1.902s} 16. Qe2 {-0.68/12 0.141s} O-O {+0.99/15 1.901s}
+17. Nd2 {-0.63/10 0.199s} cxd4 {+1.12/16 1.899s} 18. Qg4+ {-0.82/12 0.104s}
+Kh8 {+1.66/19 1.903s} 19. Qxd4 {-0.77/12 0.208s} Ne6 {+1.21/15 1.901s}
+20. Qg4 {-0.67/12 0.089s} Qc8 {+1.72/18 1.903s} 21. O-O-O {-0.85/11 0.151s}
+d4 {+1.54/18 1.901s} 22. Rhg1 {-1.02/10 0.143s} dxc3 {+1.65/16 1.902s}
+23. Ne4 {-1.39/15 0.136s} c2 {+2.16/17 1.900s} 24. Rd2 {-1.39/13 0.111s}
+Qc4 {+2.17/19 1.902s} 25. Nc3 {-1.23/13 0.120s} Rac8 {+2.33/18 1.902s}
+26. Qxc4 {-1.30/13 0.105s} Rxc4 {+3.43/16 1.909s} 27. Kxc2 {-1.36/15 0.228s}
+Bc5 {+3.30/14 1.900s} 28. Rg3 {-1.33/13 0.124s} Rh4 {+2.60/15 1.904s}
+29. Rd7 {-1.10/13 0.158s} Rxh5 {+2.90/14 1.907s} 30. Rxb7 {-1.11/13 0.114s}
+a5 {+2.64/12 1.904s} 31. Rd7 {-1.13/14 0.107s} Rxe5 {+2.76/15 1.902s}
+32. Rgd3 {-1.13/11 0.076s} Re1 {+2.69/16 1.901s} 33. Rd1 {-1.06/12 0.116s}
+Re3 {+2.79/17 1.899s} 34. Ng1 {-1.28/13 0.092s} h5 {+3.53/16 1.900s}
+35. R7d5 {-1.13/15 0.095s} h4 {+3.95/17 1.902s} 36. Rh5 {-1.23/14 0.044s}
+Rf2+ {+3.52/16 1.901s} 37. Kb1 {-1.23/12 0.044s} Rh2 {+2.64/17 1.900s}
+38. Nge2 {-1.00/10 0.040s} h3 {+3.51/16 1.901s} 39. Rd7 {-1.17/15 0.140s}
+Bd4 {+3.69/16 1.899s} 40. Rdxh7+ {-1.00/11 0.090s} Kg8 {+3.24/18 1.902s}
+41. a4 {-1.43/11 0.060s} Bg7 {+4.68/19 1.902s} 42. Rh4 {-1.42/12 0.037s}
+Nc5 {+4.72/19 1.901s} 43. Nc1 {-1.53/11 0.038s} Nd3 {+7.21/19 1.900s}
+44. Nd1 {-3.14/14 0.028s} Rg3 {+7.58/21 1.900s} 45. R7h5 {-3.05/13 0.032s}
+Nxc1 {+8.94/16 1.899s} 46. Kxc1 {-3.39/15 0.040s} Bf6 {+9.11/18 1.900s}
+47. Rc4 {-3.73/13 0.031s} Rg1 {+9.38/16 1.903s} 48. Rc2 {-3.72/15 0.059s}
+Rhh1 {+9.26/14 1.906s} 49. Rc8+ {-4.30/16 0.061s} Kf7 {+10.63/15 1.901s}
+50. Rc7+ {-4.58/14 0.100s} Kg6 {+12.21/16 1.900s} 51. Rch7 {-4.40/15 0.049s}
+Rxd1+ {+12.75/17 1.903s} 52. Kc2 {-4.69/15 0.058s} Rc1+ {+12.74/15 1.908s}
+53. Kd3 {-4.67/17 0.079s} Bg5 {+20.60/14 1.918s} 54. Rh8 {-4.54/17 0.118s}
+Rhd1+ {+24.93/14 1.920s} 55. Ke4 {-5.88/14 0.151s} Rc4+ {+27.70/14 1.911s}
+56. Kf3 {-6.12/17 0.095s} Rd3+ {+28.78/14 1.906s} 57. Kf2 {-6.42/15 0.108s}
+Rd2+ {+33.27/13 1.912s} 58. Kg3 {-6.50/14 0.164s} Bf4+ {+42.86/12 1.926s}
+59. Kf3 {-7.72/14 0.423s} Rd3+ {+46.87/13 1.935s} 60. Ke2 {-7.45/16 0.174s}
+Re3+ {+54.89/14 1.917s} 61. Kd1 {-10.70/16 0.107s} Re7 {+83.94/14 1.911s}
+62. R8h6+ {-M12/25 0.093s, Black wins by adjudication} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "5"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:08"]
+[GameStartTime "2026-07-30T22:48:13 +0200"]
+[GameEndTime "2026-07-30T22:48:22 +0200"]
+[PlyCount "23"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. g3 {book} Bb4+ {book}
+4. Bd2 {book} c5 {book} 5. Bxb4 {book} cxb4 {book} 6. Bg2 {book} Qc7 {book}
+7. Nd2 {book} O-O {book} 8. Rc1 {book} d6 {book} 9. Ngf3 {+0.75/13 1.942s}
+b6 {-0.23/14 0.245s} 10. O-O {+0.49/13 1.903s} Bb7 {-0.21/13 0.137s}
+11. Qb3 {+0.54/14 1.935s} a5 {-0.11/11 0.183s}
+12. a3 {+0.49/16 2.081s, White loses on time (81ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "2"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:01:51"]
+[GameStartTime "2026-07-30T22:46:30 +0200"]
+[GameEndTime "2026-07-30T22:48:22 +0200"]
+[PlyCount "124"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. Bc4 {book} Nf6 {book}
+4. d3 {book} Nc6 {book} 5. Bb3 {book} e6 {book} 6. c3 {book} Be7 {book}
+7. O-O {book} b5 {book} 8. Re1 {book} d5 {book} 9. e5 {+0.41/14 0.072s}
+Nd7 {-0.54/16 1.904s} 10. d4 {+0.42/12 0.172s} a5 {-0.71/17 1.901s}
+11. Bc2 {+0.30/10 0.124s} cxd4 {-0.58/16 1.900s} 12. Nxd4 {+0.11/13 0.097s}
+Ncxe5 {-0.65/18 1.902s} 13. Bf4 {+0.04/13 0.104s} Bf6 {-0.40/17 1.906s}
+14. Nxb5 {+0.05/14 0.180s} Ba6 {-0.17/19 1.902s} 15. a4 {+0.07/14 0.168s}
+O-O {-0.62/19 1.905s} 16. N1a3 {+0.12/12 0.117s} Qb6 {-0.36/18 1.900s}
+17. Qh5 {+0.32/14 0.151s} g6 {0.00/19 1.903s} 18. Qe2 {+0.47/12 0.098s}
+Rac8 {0.00/22 1.902s} 19. Be3 {+0.13/12 0.069s} Qb7 {0.00/22 1.901s}
+20. Rad1 {+0.05/9 0.098s} Nb6 {+0.47/16 1.902s} 21. Bd4 {+0.29/11 0.095s}
+Ned7 {+0.21/17 1.901s} 22. Qf3 {+0.42/10 0.079s} Bxd4 {0.00/16 1.902s}
+23. Nd6 {+0.37/15 0.091s} Bxf2+ {-0.35/15 1.906s} 24. Qxf2 {+0.40/13 0.122s}
+Qc6 {-0.19/18 1.903s} 25. Nxc8 {+0.34/9 0.081s} Rxc8 {-0.61/18 1.903s}
+26. h4 {+0.06/12 0.080s} h5 {0.00/17 1.903s} 27. Nb5 {+0.26/13 0.076s}
+Bxb5 {-0.33/18 1.904s} 28. axb5 {+0.29/14 0.128s} Qd6 {0.00/16 1.925s}
+29. Ra1 {+0.33/10 0.106s} Nc4 {-0.75/17 1.899s} 30. Bd1 {+0.15/13 0.423s}
+Qb8 {0.00/14 1.903s} 31. Rf1 {-0.20/11 0.115s} Nde5 {+0.50/18 1.903s}
+32. b6 {-0.19/11 0.067s} Rc6 {+0.98/18 1.901s} 33. b3 {-0.32/13 0.065s}
+Nxb6 {+1.05/18 1.902s} 34. Rxa5 {-0.24/10 0.087s} Rxc3 {+1.24/20 1.900s}
+35. Rb5 {-0.63/10 0.085s} Rc6 {+1.98/19 1.901s} 36. Qf6 {-0.73/10 0.040s}
+Qc7 {+2.18/17 1.899s} 37. Ra5 {-0.74/11 0.043s} Rc1 {+2.53/17 1.900s}
+38. Ra6 {-0.54/12 0.029s} Rb1 {+2.46/17 1.907s} 39. Qf2 {-0.70/10 0.200s}
+Nbd7 {+2.46/20 1.900s} 40. Ra8+ {-0.91/13 0.154s} Kg7 {+2.52/22 1.902s}
+41. Ra7 {-0.86/13 0.153s} Qc5 {+2.12/23 1.901s} 42. Qxc5 {-1.01/16 0.075s}
+Nxc5 {+1.98/23 1.902s} 43. Rc7 {-1.03/14 0.076s} Nxb3 {+2.40/22 1.900s}
+44. Rb7 {-1.21/16 0.035s} Nd2 {+2.25/23 1.902s} 45. Rxb1 {-1.29/14 0.043s}
+Nxb1 {+2.10/23 1.902s} 46. Bxh5 {-1.12/16 0.043s} Nc3 {+2.11/24 1.900s}
+47. Re1 {-1.21/15 0.036s} Kf6 {+2.34/20 1.905s} 48. Bd1 {-0.93/13 0.069s}
+d4 {+2.27/17 1.902s} 49. Rf1+ {-1.01/13 0.098s} Ke7 {+2.92/17 1.902s}
+50. g4 {-0.82/13 0.064s} Kf8 {+2.40/15 1.902s} 51. Kf2 {-1.03/11 0.061s}
+Nc4 {+2.47/16 1.904s} 52. Be2 {-0.88/12 0.092s} Ne3 {+2.75/17 1.906s}
+53. Rg1 {-1.26/11 0.095s} e5 {+2.34/17 1.906s} 54. g5 {-1.12/11 0.151s}
+e4 {+3.03/16 1.921s} 55. Ra1 {-1.22/13 0.283s} Nxe2 {+2.68/16 1.916s}
+56. Kxe2 {-1.07/14 0.184s} Ke7 {+2.60/16 1.942s} 57. Ra7+ {-0.71/14 0.331s}
+Ke6 {+1.45/15 1.924s} 58. Ra6+ {-0.74/13 0.767s} Kf5 {+1.24/14 1.941s}
+59. Ra7 {-0.58/11 0.841s} Nc4 {+1.67/14 1.913s} 60. Rxf7+ {-0.26/14 0.278s}
+Kg4 {+0.42/15 1.904s} 61. Rf6 {-0.22/12 0.159s} d3+ {+0.28/12 1.920s}
+62. Ke1 {-0.15/14 0.252s}
+Ne5 {+0.24/13 2.248s, Black loses on time (248ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "1"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:01:51"]
+[GameStartTime "2026-07-30T22:46:30 +0200"]
+[GameEndTime "2026-07-30T22:48:23 +0200"]
+[PlyCount "125"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+
+1. e4 {book} c6 {book} 2. d4 {book} d5 {book} 3. e5 {book} Bf5 {book}
+4. h4 {book} Na6 {book} 5. g4 {book} Bd7 {book} 6. h5 {book} f6 {book}
+7. f4 {book} Nh6 {book} 8. Bh3 {book} c5 {book} 9. Nc3 {+0.50/14 1.908s}
+cxd4 {+0.21/13 0.122s} 10. Nce2 {+0.46/16 1.901s} Qb6 {+0.03/10 0.100s}
+11. Nxd4 {+0.37/15 1.899s} fxe5 {-0.17/12 0.050s} 12. fxe5 {+1.21/17 1.901s}
+e6 {-0.44/12 0.074s} 13. g5 {+0.91/16 1.899s} Nf7 {-0.45/11 0.054s}
+14. Ngf3 {+0.76/16 1.904s} Nc5 {-0.46/10 0.105s} 15. a4 {+0.62/16 1.902s}
+a5 {-0.56/13 0.087s} 16. Be3 {+0.94/16 1.902s} Ne4 {-0.32/13 0.049s}
+17. Qd3 {+1.01/15 1.902s} Qb4+ {-0.39/10 0.098s} 18. Kf1 {+1.01/15 1.903s}
+Nd8 {-0.20/12 0.086s} 19. Kg2 {+0.62/15 1.901s} Rc8 {-0.31/13 0.128s}
+20. Rhb1 {+1.77/15 1.910s} Bc5 {-0.37/10 0.087s} 21. c3 {+0.39/17 1.905s}
+Qb6 {-0.40/11 0.083s} 22. b4 {+0.62/15 1.906s} Be7 {-0.41/12 0.089s}
+23. Nf5 {+0.80/14 1.903s} Qc7 {-0.40/12 0.112s} 24. Nxg7+ {+1.37/15 1.900s}
+Kf7 {-0.53/16 0.077s} 25. Rc1 {+0.77/14 1.901s} Kxg7 {-0.13/13 0.077s}
+26. h6+ {+0.16/15 1.909s} Kf8 {0.00/12 0.111s} 27. c4 {-0.54/17 1.902s}
+d4 {-0.30/10 0.115s} 28. g6 {-0.61/16 1.906s} hxg6 {+0.19/15 0.122s}
+29. Qxd4 {-1.35/17 1.906s} Bc6 {+0.72/14 0.060s} 30. b5 {-0.57/18 1.900s}
+Bc5 {+0.78/11 0.155s} 31. Qd3 {-0.79/17 1.901s} Nf7 {+0.98/11 0.070s}
+32. bxc6 {-0.91/17 1.901s} Qxc6 {+0.93/11 0.098s} 33. Rf1 {-1.92/14 1.900s}
+Ke8 {+1.38/15 0.090s} 34. Rab1 {-2.06/14 1.902s} Rd8 {+1.64/13 0.096s}
+35. Qb3 {-2.55/15 1.901s} Bxe3 {+1.50/12 0.064s} 36. Qxe3 {-2.61/17 1.901s}
+Nd2 {+1.42/10 0.045s} 37. Bxe6 {-2.61/17 1.901s} Qxe6 {+1.41/12 0.048s}
+38. Nxd2 {-2.45/17 1.904s} Qg4+ {+1.20/11 0.164s} 39. Kf2 {-2.37/16 1.901s}
+Rxh6 {+1.00/13 0.069s} 40. Rh1 {-2.49/17 1.900s} Ng5 {+1.25/11 0.072s}
+41. Rxh6 {-2.57/19 1.900s} Rxd2+ {+0.89/13 0.046s} 42. Ke1 {-2.92/19 1.901s}
+Nf3+ {+0.87/10 0.051s} 43. Qxf3 {-2.56/21 1.901s} Qxf3 {+0.83/14 0.031s}
+44. Rh8+ {-2.79/19 1.901s} Kd7 {+0.80/13 0.033s} 45. Rh7+ {-2.77/20 1.900s}
+Kc8 {+0.81/16 0.034s} 46. Kxd2 {-2.62/19 1.903s} Qf4+ {+0.84/16 0.023s}
+47. Kc3 {-2.74/20 1.902s} Qxe5+ {+0.83/12 0.037s} 48. Kb3 {-2.74/19 1.899s}
+Qc5 {+0.92/13 0.066s} 49. Rh3 {-2.82/20 1.903s} Kb8 {+0.85/14 0.048s}
+50. Kc3 {-2.87/20 1.903s} Qe5+ {+1.04/15 0.057s} 51. Kd2 {-1.93/13 1.904s}
+Qd4+ {+0.90/12 0.041s} 52. Rd3 {-2.02/13 1.902s} Qxc4 {+0.63/11 0.075s}
+53. Rdb3 {-1.40/13 1.902s} Qd4+ {+0.82/11 0.105s} 54. Ke2 {-1.36/14 1.912s}
+Ka8 {+1.24/11 0.173s} 55. Rb5 {-1.31/13 1.918s} Qxa4 {+0.52/11 0.202s}
+56. Kd3 {-0.70/13 1.912s} Qa3+ {+0.24/10 0.115s} 57. Kc4 {-0.84/15 1.917s}
+Qa2+ {0.00/13 0.109s} 58. Kc3 {-0.87/14 1.928s} Qa3+ {0.00/18 0.546s}
+59. Kc4 {0.00/28 1.968s} Qa4+ {0.00/15 0.588s} 60. Kd3 {-0.74/13 1.942s}
+Qa2 {+0.20/14 0.243s} 61. Kc3 {0.00/31 1.907s} g5 {+0.24/13 0.185s}
+62. Rxb7 {-1.12/14 1.905s} Qh2 {+0.30/13 0.420s}
+63. R7b5 {-1.18/13 2.123s, White loses on time (123ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "6"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:04"]
+[GameStartTime "2026-07-30T22:48:22 +0200"]
+[GameEndTime "2026-07-30T22:48:27 +0200"]
+[PlyCount "19"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1. d4 {book} d5 {book} 2. Bf4 {book} Nf6 {book} 3. e3 {book} c5 {book}
+4. c3 {book} Nc6 {book} 5. Nd2 {book} Bf5 {book} 6. Qb3 {book} Qd7 {book}
+7. Ngf3 {book} c4 {book} 8. Qd1 {book} e6 {book} 9. Nh4 {-0.16/11 1.920s}
+a6 {-0.01/10 0.255s}
+10. Nxf5 {+0.62/10 2.071s, White loses on time (71ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "7"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:04"]
+[GameStartTime "2026-07-30T22:48:23 +0200"]
+[GameEndTime "2026-07-30T22:48:27 +0200"]
+[PlyCount "19"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with a6"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. d3 {book} a6 {book} 6. Bb3 {book} Ba7 {book}
+7. h3 {book} d5 {book} 8. Qe2 {book} dxe4 {book} 9. dxe4 {+0.07/13 1.904s}
+Qe7 {+0.19/13 0.216s}
+10. Be3 {+0.04/11 2.152s, White loses on time (152ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "5"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:10"]
+[GameStartTime "2026-07-30T22:48:18 +0200"]
+[GameEndTime "2026-07-30T22:48:29 +0200"]
+[PlyCount "24"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+
+1. d4 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. g3 {book} Bb4+ {book}
+4. Bd2 {book} c5 {book} 5. Bxb4 {book} cxb4 {book} 6. Bg2 {book} Qc7 {book}
+7. Nd2 {book} O-O {book} 8. Rc1 {book} d6 {book} 9. Nf1 {+0.41/9 0.244s}
+Qa5 {+0.80/13 1.927s} 10. Qd2 {-0.01/10 0.424s} e5 {+0.59/11 1.912s}
+11. Nf3 {-0.60/13 0.952s} Re8 {+1.05/12 1.955s} 12. dxe5 {-0.66/11 1.120s}
+dxe5 {+1.34/11 2.080s, Black loses on time (80ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "8"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:02"]
+[GameStartTime "2026-07-30T22:48:29 +0200"]
+[GameEndTime "2026-07-30T22:48:33 +0200"]
+[PlyCount "18"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A13"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1. c4 {book} e6 {book} 2. Nf3 {book} Nf6 {book} 3. g3 {book} a6 {book}
+4. Bg2 {book} b5 {book} 5. b3 {book} Bb7 {book} 6. O-O {book} c5 {book}
+7. d3 {book} d6 {book} 8. Bb2 {book} Nbd7 {book} 9. e4 {+0.15/9 0.730s}
+Be7 {-0.32/10 2.025s, Black loses on time (25ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "7"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:06"]
+[GameStartTime "2026-07-30T22:48:27 +0200"]
+[GameEndTime "2026-07-30T22:48:34 +0200"]
+[PlyCount "20"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with a6"]
+
+1. e4 {book} e5 {book} 2. Nf3 {book} Nc6 {book} 3. Bc4 {book} Bc5 {book}
+4. c3 {book} Nf6 {book} 5. d3 {book} a6 {book} 6. Bb3 {book} Ba7 {book}
+7. h3 {book} d5 {book} 8. Qe2 {book} dxe4 {book} 9. dxe4 {+0.03/12 1.031s}
+Qe7 {-0.10/10 1.974s} 10. Be3 {-0.12/11 0.863s}
+Bxe3 {+0.15/10 2.018s, Black loses on time (18ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "9"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:02"]
+[GameStartTime "2026-07-30T22:48:33 +0200"]
+[GameEndTime "2026-07-30T22:48:35 +0200"]
+[PlyCount "17"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1. d4 {book} Nf6 {book} 2. Nf3 {book} g6 {book} 3. g3 {book} Bg7 {book}
+4. Bg2 {book} d5 {book} 5. O-O {book} O-O {book} 6. Be3 {book} Nbd7 {book}
+7. h3 {book} Ne4 {book} 8. Qc1 {book} c5 {book}
+9. c4 {+0.05/9 2.126s, White loses on time (126ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "9"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:03"]
+[GameStartTime "2026-07-30T22:48:34 +0200"]
+[GameEndTime "2026-07-30T22:48:38 +0200"]
+[PlyCount "18"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+
+1. d4 {book} Nf6 {book} 2. Nf3 {book} g6 {book} 3. g3 {book} Bg7 {book}
+4. Bg2 {book} d5 {book} 5. O-O {book} O-O {book} 6. Be3 {book} Nbd7 {book}
+7. h3 {book} Ne4 {book} 8. Qc1 {book} c5 {book} 9. dxc5 {-0.02/11 1.147s}
+Ndxc5 {+0.14/9 2.114s, Black loses on time (114ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "6"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:15"]
+[GameStartTime "2026-07-30T22:48:22 +0200"]
+[GameEndTime "2026-07-30T22:48:38 +0200"]
+[PlyCount "26"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+
+1. d4 {book} d5 {book} 2. Bf4 {book} Nf6 {book} 3. e3 {book} c5 {book}
+4. c3 {book} Nc6 {book} 5. Nd2 {book} Bf5 {book} 6. Qb3 {book} Qd7 {book}
+7. Ngf3 {book} c4 {book} 8. Qd1 {book} e6 {book} 9. a4 {-0.03/12 0.424s}
+Bd6 {+0.24/13 1.967s} 10. Bxd6 {-0.23/11 0.873s} Qxd6 {+0.34/12 1.939s}
+11. Nh4 {-0.25/13 1.071s} O-O {+0.51/13 1.979s} 12. Be2 {-0.26/11 1.429s}
+Na5 {+0.52/11 1.980s} 13. O-O {-0.26/10 0.913s}
+Be4 {+0.59/10 2.077s, Black loses on time (77ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "10"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:19"]
+[GameStartTime "2026-07-30T22:48:35 +0200"]
+[GameEndTime "2026-07-30T22:48:55 +0200"]
+[PlyCount "31"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+
+1. d4 {book} d5 {book} 2. Bg5 {book} h6 {book} 3. Bh4 {book} c5 {book}
+4. Nc3 {book} Nc6 {book} 5. e3 {book} cxd4 {book} 6. exd4 {book} Nf6 {book}
+7. Nf3 {book} Bg4 {book} 8. Be2 {book} e6 {book} 9. Ne5 {-0.93/10 1.916s}
+Bxe2 {+0.35/12 1.764s} 10. Nxe2 {-1.04/13 1.910s} Nxe5 {+0.58/11 0.284s}
+11. dxe5 {-1.08/14 1.909s} g5 {+0.52/11 0.219s} 12. exf6 {-1.08/14 1.908s}
+gxh4 {+0.78/15 0.222s} 13. Qd4 {-1.26/14 1.914s} Qa5+ {+0.95/13 0.201s}
+14. c3 {-1.04/15 1.925s} h3 {+0.94/13 0.273s} 15. g3 {-0.88/14 1.934s}
+O-O-O {+0.95/13 0.862s}
+16. O-O {-1.35/13 2.027s, White loses on time (27ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "4"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:01:27"]
+[GameStartTime "2026-07-30T22:47:31 +0200"]
+[GameEndTime "2026-07-30T22:48:59 +0200"]
+[PlyCount "89"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. e3 {book} Nf6 {book}
+4. Nc3 {book} e6 {book} 5. Bd2 {book} Nbd7 {book} 6. Rc1 {book} Bd6 {book}
+7. cxd5 {book} exd5 {book} 8. Bd3 {book} O-O {book} 9. Nge2 {-0.51/16 1.901s}
+Re8 {+0.29/10 0.144s} 10. Qc2 {-0.67/15 1.899s} a6 {+0.28/11 0.103s}
+11. O-O {-0.25/15 1.904s} c5 {+0.32/12 0.047s} 12. dxc5 {-0.40/16 1.902s}
+Nxc5 {+0.30/11 0.034s} 13. Rfd1 {-0.26/17 1.903s} h6 {+0.22/9 0.030s}
+14. Be1 {+0.75/16 1.902s} b5 {-0.10/10 0.022s} 15. Bf5 {+0.44/16 1.901s}
+b4 {-0.03/10 0.032s} 16. Bxc8 {+0.48/17 1.902s} Rxc8 {-0.21/11 0.036s}
+17. Na4 {+0.16/18 1.901s} g6 {-0.29/11 0.049s} 18. Nxc5 {+0.91/15 1.903s}
+Rxc5 {-0.31/12 0.064s} 19. Qa4 {+1.19/16 1.905s} Qb6 {-0.61/9 0.041s}
+20. Rxc5 {+1.32/17 1.900s} Bxc5 {-0.60/15 0.063s} 21. Nf4 {+1.16/17 1.910s}
+Rb8 {-0.61/13 0.081s} 22. Nxd5 {+1.48/15 1.914s} Nxd5 {-0.61/13 0.094s}
+23. Rxd5 {+1.60/17 1.909s} Be7 {-0.61/12 0.138s} 24. Qc2 {+1.70/15 1.927s}
+Qe6 {-0.69/13 0.275s} 25. Qd1 {+1.78/17 1.918s} Rc8 {-0.74/14 0.142s}
+26. b3 {+1.91/15 1.942s} Rc7 {-0.60/11 0.110s} 27. h3 {+1.40/13 1.913s}
+Kg7 {-0.66/12 0.258s} 28. Ra5 {+2.09/11 1.957s} Qc8 {-0.63/10 0.986s}
+29. Qg4 {+1.58/11 1.919s} Qb7 {-0.58/13 0.262s} 30. Qe2 {+1.78/13 1.922s}
+Rc6 {-0.53/10 0.180s} 31. g3 {+1.47/13 1.916s} Qc7 {-0.43/14 0.325s}
+32. Rd5 {+1.18/14 1.910s} a5 {-0.37/12 1.578s} 33. Bd2 {+0.96/14 1.910s}
+Rc2 {-0.23/14 0.586s} 34. e4 {+0.97/13 1.950s} Bg5 {-0.16/14 1.183s}
+35. h4 {+0.95/13 1.946s} Rxd2 {-0.16/13 0.882s} 36. Rxd2 {+0.85/15 1.966s}
+Bxd2 {-0.24/11 1.351s} 37. Qxd2 {+0.75/16 1.976s} Qe5 {-0.15/13 2.149s}
+38. Qe2 {+0.71/16 1.920s} f5 {-0.07/13 0.360s} 39. Qd2 {+0.84/13 1.910s}
+fxe4 {0.00/18 0.174s} 40. Qd7+ {+0.58/16 1.924s} Kf8 {0.00/17 0.173s}
+41. Qc6 {+0.36/17 1.911s} Kg7 {0.00/17 0.114s} 42. Qb7+ {+0.33/17 1.907s}
+Kg8 {0.00/19 0.242s} 43. Qa8+ {+0.30/18 1.911s} Kf7 {0.00/23 0.658s}
+44. Qa7+ {+0.31/17 1.927s} Kg8 {0.00/21 1.962s}
+45. Qa6 {+0.31/14 2.161s, White loses on time (161ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "8"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:32"]
+[GameStartTime "2026-07-30T22:48:27 +0200"]
+[GameEndTime "2026-07-30T22:49:00 +0200"]
+[PlyCount "39"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A13"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1. c4 {book} e6 {book} 2. Nf3 {book} Nf6 {book} 3. g3 {book} a6 {book}
+4. Bg2 {book} b5 {book} 5. b3 {book} Bb7 {book} 6. O-O {book} c5 {book}
+7. d3 {book} d6 {book} 8. Bb2 {book} Nbd7 {book} 9. Ne1 {+0.34/9 1.925s}
+Bxg2 {-0.06/12 0.786s} 10. Kxg2 {+0.46/10 1.988s} Be7 {+0.03/12 1.329s}
+11. e4 {+0.02/10 1.960s} Qc7 {+0.01/10 1.990s} 12. Qe2 {+0.03/10 1.924s}
+Qb7 {-0.01/12 0.492s} 13. f4 {+0.17/12 1.920s} bxc4 {+0.20/13 0.166s}
+14. bxc4 {+0.66/14 1.912s} Nb6 {-0.15/9 0.209s} 15. Nc3 {+0.70/13 1.902s}
+d5 {-0.09/12 0.154s} 16. Bc1 {+0.58/15 1.904s} dxe4 {-0.19/9 0.199s}
+17. dxe4 {+0.90/16 1.928s} Nfd7 {-0.46/10 0.328s} 18. Nf3 {+1.28/14 1.936s}
+O-O {-0.57/13 1.093s} 19. Rb1 {+1.01/11 1.964s} Qc6 {-0.41/13 1.683s}
+20. e5 {+1.42/12 2.057s, White loses on time (57ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "11"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:06"]
+[GameStartTime "2026-07-30T22:48:55 +0200"]
+[GameEndTime "2026-07-30T22:49:03 +0200"]
+[PlyCount "20"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A48"]
+[Opening "London System"]
+
+1. d4 {book} Nf6 {book} 2. Nf3 {book} g6 {book} 3. Bf4 {book} Bg7 {book}
+4. e3 {book} d6 {book} 5. h3 {book} O-O {book} 6. c3 {book} Nbd7 {book}
+7. Be2 {book} Qe8 {book} 8. Na3 {book} e5 {book} 9. Bh2 {+0.16/13 0.421s}
+a6 {+0.37/11 1.905s} 10. O-O {+0.19/13 1.979s}
+b5 {0.00/10 2.026s, Black loses on time (26ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "12"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:18"]
+[GameStartTime "2026-07-30T22:48:59 +0200"]
+[GameEndTime "2026-07-30T22:49:19 +0200"]
+[PlyCount "29"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+
+1. d4 {book} e6 {book} 2. Nf3 {book} f5 {book} 3. g3 {book} Nf6 {book}
+4. Bg2 {book} Be7 {book} 5. O-O {book} O-O {book} 6. Nbd2 {book} c6 {book}
+7. c4 {book} d5 {book} 8. Ne5 {book} Nbd7 {book} 9. Nd3 {+1.53/10 1.928s}
+dxc4 {-0.55/10 1.218s} 10. Nxc4 {+2.20/12 1.931s} Nb6 {-0.96/12 0.713s}
+11. Nde5 {+1.85/12 1.930s} Nxc4 {-0.84/14 0.788s} 12. Nxc4 {+1.81/13 1.921s}
+Nd5 {-0.85/14 0.632s} 13. a4 {+1.76/13 1.917s} Bd7 {-0.84/13 0.451s}
+14. a5 {+2.03/13 1.916s} Be8 {-0.79/12 0.572s}
+15. Qd3 {+1.67/10 2.001s, White loses on time (1ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "3"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:03:47"]
+[GameStartTime "2026-07-30T22:46:30 +0200"]
+[GameEndTime "2026-07-30T22:50:18 +0200"]
+[PlyCount "221"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B24"]
+[Opening "Sicilian Defense: Closed"]
+
+1. e4 {book} c5 {book} 2. Nc3 {book} Nc6 {book} 3. g3 {book} g6 {book}
+4. Bg2 {book} Bg7 {book} 5. d3 {book} e5 {book} 6. Nge2 {book} Nge7 {book}
+7. O-O {book} d6 {book} 8. a3 {book} O-O {book} 9. Rb1 {-0.13/11 0.051s}
+b6 {+0.21/16 1.905s} 10. f4 {-0.02/11 0.167s} exf4 {-0.02/16 1.901s}
+11. Bxf4 {+0.07/11 0.145s} h6 {-0.11/17 1.902s} 12. Qd2 {-0.01/10 0.098s}
+Kh7 {+0.13/16 1.900s} 13. Rf2 {-0.04/10 0.110s} Be6 {+0.19/17 1.899s}
+14. Rbf1 {-0.13/9 0.200s} d5 {+1.27/16 1.901s} 15. exd5 {-0.27/11 0.162s}
+Nxd5 {+1.25/17 1.901s} 16. Nb5 {-0.33/13 0.127s} a6 {+0.82/17 1.900s}
+17. Bxd5 {-0.55/13 0.167s} Bxd5 {+0.99/18 1.901s} 18. Bc7 {-0.53/12 0.115s}
+Qd7 {+1.02/18 1.901s} 19. Nbc3 {-0.32/13 0.202s} Ne5 {+0.83/18 1.899s}
+20. Bxe5 {-0.32/9 0.099s} Bxe5 {+1.46/19 1.902s} 21. Nxd5 {-0.45/9 0.178s}
+Qxd5 {+1.48/19 1.911s} 22. c3 {-0.41/10 0.157s} Rad8 {+1.50/17 1.901s}
+23. Qe3 {-0.39/10 0.142s} Bg7 {+1.24/16 1.900s} 24. Qe4 {-0.36/10 0.113s}
+Rfe8 {+1.19/21 1.904s} 25. Qxd5 {-0.30/10 0.104s} Rxd5 {+1.16/21 1.900s}
+26. d4 {-0.25/13 0.095s} cxd4 {+1.12/18 1.901s} 27. Rd1 {-0.22/12 0.228s}
+g5 {+1.09/19 1.901s} 28. Nxd4 {-0.23/10 0.112s} Kg6 {+1.09/18 1.901s}
+29. Kg2 {-0.38/10 0.185s} Red8 {+1.51/18 1.902s} 30. g4 {-0.32/11 0.099s}
+R8d6 {+1.06/15 1.903s} 31. Rfd2 {-0.28/12 0.146s} b5 {+0.74/17 1.900s}
+32. h3 {-0.19/12 0.089s} h5 {+0.77/18 1.901s} 33. Kf3 {-0.21/13 0.111s}
+Bh8 {+1.00/17 1.904s} 34. Ke4 {-0.02/11 0.119s} Rc5 {+1.27/16 1.905s}
+35. Kf3 {-0.14/13 0.090s} Bxd4 {+1.18/20 1.903s} 36. cxd4 {-0.24/12 0.050s}
+Rcd5 {+1.25/18 1.903s} 37. Kg2 {-0.25/11 0.048s} hxg4 {+1.84/18 1.901s}
+38. hxg4 {-0.13/11 0.042s} Re6 {+1.37/21 1.900s} 39. Kf3 {-0.22/15 0.111s}
+Rf6+ {+1.09/22 1.901s} 40. Kg3 {-0.18/13 0.169s} Rf4 {+1.00/26 1.902s}
+41. Rc2 {-0.18/16 0.068s} Rfxd4 {+0.91/26 1.900s} 42. Rxd4 {-0.13/16 0.026s}
+Rxd4 {+0.64/26 1.903s} 43. Rc6+ {-0.13/18 0.024s} Kg7 {+0.66/27 1.900s}
+44. Rxa6 {-0.11/17 0.021s} Rd3+ {+0.69/27 1.900s} 45. Kf2 {-0.09/16 0.029s}
+Rb3 {+0.76/30 1.901s} 46. Rb6 {-0.12/14 0.027s} Rxb2+ {+0.73/29 1.901s}
+47. Kg3 {-0.08/15 0.037s} Rb1 {+0.63/26 1.901s} 48. Kf3 {-0.10/15 0.042s}
+Rb3+ {+0.70/29 1.904s} 49. Kg2 {-0.09/14 0.046s} Kf8 {+0.65/25 1.900s}
+50. Rb7 {-0.05/16 0.048s} Rb2+ {+0.57/26 1.901s} 51. Kf3 {-0.07/19 0.047s}
+Kg7 {+0.73/27 1.904s} 52. Rb6 {-0.09/17 0.064s} Rb1 {+0.53/25 1.900s}
+53. Ke3 {-0.08/18 0.067s} Rb3+ {+0.65/26 1.910s} 54. Kf2 {-0.08/18 0.131s}
+f6 {+0.64/27 1.914s} 55. Rb7+ {-0.10/17 0.146s} Kf8 {+0.64/28 1.912s}
+56. Kg2 {-0.10/16 0.119s} Ke8 {+0.63/27 1.902s} 57. Kf2 {-0.07/16 0.119s}
+Rxa3 {+0.61/24 1.953s} 58. Rb8+ {0.00/14 0.296s} Ke7 {+0.58/21 1.926s}
+59. Rb7+ {-0.01/17 0.983s} Ke8 {+0.59/26 1.918s} 60. Rb8+ {-0.01/15 0.196s}
+Kd7 {+0.60/27 1.899s} 61. Rxb5 {-0.01/13 0.113s} Ra4 {+0.60/28 1.911s}
+62. Kg3 {-0.01/15 0.114s} Ra3+ {+0.45/20 1.927s} 63. Kf2 {-0.04/13 0.390s}
+Ra2+ {+0.48/18 1.919s} 64. Kg3 {-0.16/12 0.665s} Ra4 {+0.46/21 1.923s}
+65. Rb7+ {-0.22/10 0.478s} Kc6 {+0.43/20 1.907s} 66. Rf7 {-0.03/13 0.910s}
+Rf4 {+0.44/21 1.937s} 67. Ra7 {-0.07/14 1.247s} Kd5 {+0.44/17 1.964s}
+68. Ra3 {-0.16/10 1.124s} Kd6 {+0.44/18 1.967s} 69. Ra6+ {-0.20/11 1.442s}
+Kc7 {+0.43/25 1.906s} 70. Re6 {-0.21/11 0.301s} Kd7 {+0.43/26 1.905s}
+71. Re3 {-0.27/12 0.164s} Rd4 {+0.43/26 1.916s} 72. Kh3 {-0.29/12 0.172s}
+Kd6 {+0.43/27 1.903s} 73. Re1 {-0.12/12 0.177s} Rc4 {+0.43/24 1.911s}
+74. Kg3 {-0.15/10 0.322s} Rc3+ {+0.42/23 1.919s} 75. Kg2 {-0.06/12 0.665s}
+Rc2+ {+0.42/23 1.912s} 76. Kg3 {-0.07/10 1.714s} Rc4 {+0.43/22 1.997s}
+77. Rb1 {-0.13/12 1.684s} Rc3+ {+0.43/18 1.934s} 78. Kg2 {-0.17/12 0.758s}
+Re3 {+0.43/19 1.928s} 79. Rb6+ {-0.06/13 0.846s} Ke7 {+0.43/25 1.914s}
+80. Rb4 {-0.15/12 0.887s} Rd3 {+0.43/24 1.919s} 81. Kf2 {-0.09/10 0.462s}
+Kd7 {+0.43/25 1.924s} 82. Rb6 {-0.22/11 0.810s} Rd6 {+0.43/25 1.904s}
+83. Rb3 {-0.18/10 0.396s} Rd4 {+0.43/24 1.909s} 84. Kf3 {-0.16/12 0.670s}
+Ke7 {+0.43/27 1.922s} 85. Kg3 {-0.01/12 0.716s} Ke6 {+0.43/27 1.902s}
+86. Kf3 {-0.24/12 0.175s} Ke5 {+0.43/27 1.901s} 87. Rb6 {-0.20/12 0.169s}
+Rf4+ {+0.43/26 1.915s} 88. Kg3 {-0.14/13 0.350s} Re4 {+0.42/27 1.901s}
+89. Rc6 {-0.07/12 0.568s} Re3+ {+0.43/29 1.904s} 90. Kf2 {-0.20/11 0.324s}
+Rb3 {+0.42/28 1.902s} 91. Ra6 {-0.28/12 0.320s} Rd3 {+0.43/30 1.904s}
+92. Ra1 {-0.14/11 1.186s} Ke6 {+0.42/28 1.906s} 93. Rb1 {-0.07/11 0.184s}
+Rd4 {+0.42/30 1.901s} 94. Kf3 {0.00/14 0.177s} Ke7 {+0.42/29 1.901s}
+95. Kg3 {0.00/16 0.321s} Rf4 {+0.42/28 1.900s} 96. Kh3 {0.00/15 0.128s}
+Kf7 {+0.42/26 1.900s} 97. Rb3 {0.00/14 0.144s} Rf1 {+0.42/26 1.901s}
+98. Rb4 {-0.01/12 0.119s} Ke7 {+0.40/23 1.900s} 99. Kg2 {-0.14/11 0.136s}
+Rc1 {+0.39/22 1.900s} 100. Rb6 {-0.16/10 0.158s} Rc7 {+0.30/21 1.900s}
+101. Kf2 {-0.25/12 0.341s} Kf7 {+0.30/21 1.905s} 102. Rb2 {-0.21/10 0.177s}
+Rd7 {+0.21/20 1.901s} 103. Kf3 {-0.22/10 0.174s} Rd6 {+0.29/23 1.900s}
+104. Rc2 {-0.02/12 0.161s} Rd3+ {+0.33/18 1.902s} 105. Kg2 {0.00/11 0.182s}
+Rd1 {+0.09/20 1.902s} 106. Rc7+ {0.00/13 0.162s} Ke6 {+0.14/23 1.902s}
+107. Rc2 {0.00/15 0.306s} Rd4 {+0.15/22 1.900s} 108. Kg3 {0.00/15 0.213s}
+Rd3+ {0.00/24 1.904s} 109. Kg2 {0.00/20 0.512s} Ke5 {0.00/32 1.902s}
+110. Re2+ {0.00/47 0.184s} Kf4 {0.00/94 1.904s}
+111. Re4+ {0.00/245 0.006s, Draw by fifty moves rule} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "10"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:47"]
+[GameStartTime "2026-07-30T22:48:38 +0200"]
+[GameEndTime "2026-07-30T22:50:26 +0200"]
+[PlyCount "107"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+
+1. d4 {book} d5 {book} 2. Bg5 {book} h6 {book} 3. Bh4 {book} c5 {book}
+4. Nc3 {book} Nc6 {book} 5. e3 {book} cxd4 {book} 6. exd4 {book} Nf6 {book}
+7. Nf3 {book} Bg4 {book} 8. Be2 {book} e6 {book} 9. O-O {-0.39/10 0.523s}
+Bxf3 {+0.67/12 1.920s} 10. Bxf3 {-0.74/13 0.310s} g5 {+0.71/13 1.903s}
+11. Bg3 {-0.58/14 0.194s} Qb6 {+1.47/13 1.922s} 12. a4 {-0.50/11 0.225s}
+a6 {+0.92/14 1.916s} 13. Re1 {-0.45/15 0.181s} O-O-O {+0.90/14 1.929s}
+14. a5 {+0.54/11 0.273s} Qxd4 {+0.56/15 1.915s} 15. Qxd4 {+0.07/14 0.714s}
+Nxd4 {+0.10/16 1.921s} 16. Be5 {+0.07/13 1.798s} Nxf3+ {+0.28/12 1.942s}
+17. gxf3 {0.00/16 1.991s} Bg7 {+0.10/14 1.915s} 18. Na4 {-0.02/13 1.092s}
+Kd7 {0.00/15 1.913s} 19. Nb6+ {+0.07/15 1.109s} Ke7 {-0.01/13 1.918s}
+20. Rad1 {-0.01/11 0.687s} Kf8 {+0.38/12 1.971s} 21. c4 {-0.07/10 0.682s}
+Nd7 {+0.89/12 1.937s} 22. Bd6+ {+0.43/13 0.523s} Kg8 {+0.82/15 1.908s}
+23. Bc7 {+0.04/13 0.398s} Nxb6 {-0.19/15 1.925s} 24. axb6 {+0.10/16 0.637s}
+Rd7 {-0.04/15 1.942s} 25. c5 {+0.07/13 0.914s} Kh7 {-0.01/17 1.900s}
+26. c6 {+0.25/13 0.112s} bxc6 {0.00/18 1.902s} 27. Rc1 {+0.09/14 0.387s}
+d4 {+0.25/19 1.909s} 28. b4 {+0.05/16 0.444s} d3 {+0.05/19 1.905s}
+29. Rxc6 {-0.07/14 0.364s} Rd4 {+0.25/18 1.901s} 30. Bd6 {-0.02/17 0.345s}
+Rd5 {-0.07/18 1.914s} 31. Rd1 {0.00/16 0.851s} Be5 {0.00/19 1.915s}
+32. Bxe5 {+0.05/15 0.838s} Rxe5 {0.00/22 1.905s} 33. Rxd3 {0.00/16 0.154s}
+Rb5 {0.00/23 1.900s} 34. Rd7 {+0.03/16 0.351s} Kg6 {0.00/24 1.907s}
+35. b7 {0.00/16 0.185s} Rb8 {0.00/25 1.904s} 36. Rcc7 {+0.04/12 0.171s}
+f6 {0.00/25 1.900s} 37. Rg7+ {+0.08/16 0.137s} Kh5 {0.00/27 1.901s}
+38. Rcf7 {+0.08/13 0.196s} f5 {0.00/26 1.904s} 39. Rh7 {0.00/17 0.142s}
+Kg6 {0.00/26 1.904s} 40. Rhg7+ {0.00/23 0.238s} Kh5 {0.00/30 1.902s}
+41. Rf6 {+0.03/16 0.189s} R8xb7 {0.00/23 1.905s} 42. Rgg6 {+0.03/16 0.262s}
+Rh7 {0.00/26 1.902s} 43. Rxe6 {+0.08/17 0.172s} f4 {0.00/26 1.905s}
+44. Rxa6 {+0.08/11 0.206s} Rxb4 {0.00/27 1.904s} 45. Kg2 {0.00/13 0.196s}
+Ra4 {0.00/27 1.903s} 46. Rac6 {0.00/14 0.357s} Ra1 {0.00/28 1.935s}
+47. Rge6 {0.00/17 0.502s} Rb1 {0.00/29 1.905s} 48. Ra6 {0.00/15 0.385s}
+Rc1 {0.00/30 1.906s} 49. Rf6 {0.00/17 0.203s} Rb1 {0.00/31 1.906s}
+50. Rae6 {0.00/18 0.082s} Ra1 {0.00/29 1.904s} 51. Rc6 {0.00/17 0.145s}
+Re1 {0.00/31 1.901s} 52. Rfd6 {0.00/18 0.241s} Rb1 {0.00/31 1.905s}
+53. Rf6 {0.00/20 0.175s} Re1 {0.00/34 1.903s}
+54. Rcd6 {0.00/22 0.124s, Draw by adjudication} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "14"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:00:29"]
+[GameStartTime "2026-07-30T22:50:26 +0200"]
+[GameEndTime "2026-07-30T22:50:56 +0200"]
+[PlyCount "42"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1. Nf3 {book} Nf6 {book} 2. c4 {book} c5 {book} 3. Nc3 {book} b6 {book}
+4. e4 {book} Nc6 {book} 5. d4 {book} cxd4 {book} 6. Nxd4 {book} Bb7 {book}
+7. Be2 {book} e6 {book} 8. Bf4 {book} Nxd4 {book} 9. Qxd4 {+0.57/12 0.358s}
+Bb4 {-0.74/14 1.904s} 10. a3 {+0.69/12 0.241s} Bxc3+ {-0.59/16 1.904s}
+11. Qxc3 {+0.55/14 0.242s} O-O {-0.40/16 1.904s} 12. f3 {+0.52/12 0.260s}
+d5 {-0.62/16 1.903s} 13. Be5 {+0.60/11 0.224s} Re8 {-0.26/14 1.901s}
+14. O-O {+0.28/11 0.127s} Qe7 {-0.57/15 1.906s} 15. Qb4 {+0.20/9 0.495s}
+dxe4 {+0.07/17 1.900s} 16. f4 {+0.22/12 0.558s} Rac8 {0.00/17 1.914s}
+17. Rfd1 {+0.26/8 0.274s} h5 {0.00/17 1.900s} 18. Bd6 {0.00/15 0.316s}
+Qd8 {-0.25/16 1.900s} 19. Be5 {0.00/17 0.471s} Qe7 {0.00/20 1.901s}
+20. Bd6 {0.00/20 0.593s} Qd8 {0.00/26 1.907s} 21. Be5 {0.00/23 0.358s}
+Qe7 {0.00/25 1.901s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "13"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "0-1"]
+[GameDuration "00:01:55"]
+[GameStartTime "2026-07-30T22:49:19 +0200"]
+[GameEndTime "2026-07-30T22:51:15 +0200"]
+[PlyCount "123"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A11"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+
+1. c4 {book} c6 {book} 2. Nf3 {book} d5 {book} 3. e3 {book} Nf6 {book}
+4. Nc3 {book} a6 {book} 5. b3 {book} Bf5 {book} 6. Bb2 {book} e6 {book}
+7. Be2 {book} h6 {book} 8. O-O {book} Nbd7 {book} 9. d4 {0.00/9 0.298s}
+Bb4 {+0.14/12 1.963s} 10. Bd3 {-0.15/10 0.977s} Bxd3 {+0.10/13 1.903s}
+11. Qxd3 {-0.09/12 0.184s} O-O {+0.21/15 1.904s} 12. Rfd1 {-0.07/13 0.384s}
+Re8 {+0.27/14 1.918s} 13. Rac1 {-0.04/13 0.476s} Qe7 {+0.20/15 1.908s}
+14. g3 {-0.03/10 0.345s} a5 {+0.26/13 1.903s} 15. Qc2 {-0.11/9 0.285s}
+Bxc3 {+0.33/13 1.931s} 16. Bxc3 {-0.18/12 1.230s} b5 {+0.13/12 1.908s}
+17. cxb5 {-0.06/12 0.722s} cxb5 {+0.11/16 1.902s} 18. Be1 {-0.18/10 0.142s}
+Qa3 {+0.33/16 1.909s} 19. Qb1 {-0.03/12 0.361s} Rec8 {0.00/17 1.906s}
+20. Rc2 {-0.12/12 0.170s} a4 {+0.07/18 1.904s} 21. b4 {-0.03/12 0.162s}
+Rxc2 {-1.05/16 1.901s} 22. Qxc2 {+0.55/13 0.155s} Ra7 {-0.98/18 1.901s}
+23. h3 {+0.90/12 0.162s} Kh8 {-1.53/16 1.901s} 24. Kg2 {+0.98/11 0.142s}
+Kg8 {-2.08/15 1.903s} 25. Kg1 {+0.85/11 0.300s} g5 {-1.16/16 1.902s}
+26. Ne5 {+0.86/11 0.222s} Nxe5 {-1.09/17 1.907s} 27. dxe5 {+0.99/13 0.263s}
+Ne8 {-1.07/17 1.902s} 28. Qe2 {+1.35/10 0.207s} Ra8 {-0.63/18 1.899s}
+29. Qc2 {+0.86/10 0.161s} Ra7 {-0.32/20 1.905s} 30. Qc8 {+0.64/12 0.359s}
+Re7 {-0.43/19 1.922s} 31. Qc5 {+0.64/11 0.308s} Rb7 {0.00/20 1.901s}
+32. Qc6 {+0.63/14 0.395s} Rb8 {0.00/19 1.900s} 33. Qc2 {+0.92/10 0.240s}
+Rb7 {0.00/19 1.902s} 34. Qe2 {+0.28/10 0.328s} Rb8 {-0.80/19 1.903s}
+35. Qc2 {+0.48/14 0.251s} Rb7 {0.00/35 1.906s} 36. Qc8 {+0.63/14 0.254s}
+Re7 {0.00/33 1.902s} 37. Bc3 {+0.53/15 0.232s} Qxa2 {0.00/17 1.903s}
+38. Bd4 {+0.59/14 0.132s} Kh7 {-0.95/17 1.900s} 39. Rc1 {+0.69/12 0.179s}
+Qd2 {-0.50/17 1.904s} 40. Kg2 {+0.64/12 0.236s} a3 {-1.52/17 1.905s}
+41. Rc5 {+0.71/11 0.265s} Ng7 {-0.59/19 1.902s} 42. Qf8 {+0.82/12 0.220s}
+Re8 {-0.31/21 1.911s} 43. Qxf7 {+0.75/12 0.303s} Qxb4 {-0.56/21 1.899s}
+44. Rc7 {+0.56/16 0.204s} Qf8 {-0.51/19 1.908s} 45. Qf6 {+0.47/13 0.577s}
+Qg8 {-1.05/16 1.903s} 46. Rf7 {+0.98/14 0.408s} b4 {-0.07/16 1.902s}
+47. f4 {+1.82/15 0.410s} b3 {0.00/15 1.909s} 48. f5 {+1.17/11 0.333s}
+Kh8 {-0.91/16 1.907s} 49. Qxh6+ {+0.20/10 0.409s} Qh7 {0.00/16 1.906s}
+50. Qxh7+ {+0.24/13 1.191s} Kxh7 {-0.16/17 1.915s} 51. f6 {+0.05/13 0.743s}
+Rb8 {0.00/17 1.909s} 52. fxg7 {+0.12/12 0.606s} Rb4 {+6.31/14 1.923s}
+53. Bc3 {-1.40/9 1.143s} b2 {+7.09/13 1.915s} 54. Rf1 {-2.57/9 0.982s}
+b1=Q {+13.59/14 1.901s} 55. Bxb4 {-5.09/15 0.723s} Qxb4 {+16.69/12 1.914s}
+56. Rf7 {-5.31/15 1.066s} Qb2+ {+18.50/12 1.935s} 57. Kf3 {-4.95/14 0.869s}
+a2 {+27.24/14 1.904s} 58. g4 {-5.17/15 0.693s} a1=Q {+M9/6 0.102s}
+59. g8=Q+ {-M8/80 0.095s} Kxg8 {+M7/6 0.003s} 60. Rg7+ {-M6/150 0.012s}
+Kxg7 {+M5/6 0.004s} 61. Kg3 {-M4/245 0.011s} Qe1+ {+M3/6 0.003s}
+62. Kf3 {-M2/245 0.003s, Black wins by adjudication} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "11"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:02:58"]
+[GameStartTime "2026-07-30T22:48:38 +0200"]
+[GameEndTime "2026-07-30T22:51:38 +0200"]
+[PlyCount "163"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A48"]
+[Opening "London System"]
+
+1. d4 {book} Nf6 {book} 2. Nf3 {book} g6 {book} 3. Bf4 {book} Bg7 {book}
+4. e3 {book} d6 {book} 5. h3 {book} O-O {book} 6. c3 {book} Nbd7 {book}
+7. Be2 {book} Qe8 {book} 8. Na3 {book} e5 {book} 9. Bh2 {+0.17/12 1.914s}
+a6 {0.00/9 0.178s} 10. Nc4 {+0.34/15 1.907s} e4 {+0.01/12 0.258s}
+11. Nfd2 {+0.56/15 1.908s} b5 {-0.17/12 0.159s} 12. Na5 {+0.45/17 1.920s}
+Nd5 {-0.06/15 0.149s} 13. Qb3 {+0.12/13 1.913s} N7b6 {-0.15/12 0.139s}
+14. c4 {-0.04/14 1.919s} bxc4 {-0.18/13 0.953s} 15. Ndxc4 {+0.60/14 1.928s}
+Be6 {-0.08/13 1.798s} 16. Nxb6 {+0.13/12 1.960s} Nxb6 {-0.18/12 1.817s}
+17. Qc2 {+0.91/12 1.972s} Nd5 {-0.24/12 1.188s} 18. O-O {+0.59/13 1.905s}
+f5 {-0.08/11 0.932s} 19. Bc4 {+0.33/14 1.937s} Rc8 {-0.05/11 0.858s}
+20. a3 {+1.31/12 1.917s} g5 {-0.03/14 0.634s} 21. Rac1 {+1.02/10 1.917s}
+Kh8 {-0.01/14 0.511s} 22. Kh1 {+0.22/12 1.969s} Rf6 {+0.67/14 0.434s}
+23. Qb3 {-0.98/9 1.909s} Qf7 {+0.64/10 0.693s} 24. Nc6 {-0.88/11 1.929s}
+f4 {+0.46/12 0.954s} 25. Nb4 {-1.61/16 1.907s} c6 {+0.52/11 0.121s}
+26. Bxd5 {0.00/16 1.902s} cxd5 {+0.39/14 0.411s} 27. Rxc8+ {0.00/16 1.914s}
+Bxc8 {+0.37/12 0.457s} 28. Rc1 {0.00/17 1.903s} Be6 {+0.52/13 0.402s}
+29. Nc6 {0.00/16 1.910s} fxe3 {+0.94/11 0.255s} 30. Qb8+ {+1.27/14 1.918s}
+Bf8 {+1.58/11 1.350s} 31. Nd8 {+1.17/14 1.916s} Qe8 {+1.72/12 0.703s}
+32. fxe3 {-4.21/14 1.907s} Bxh3 {+2.01/14 0.194s} 33. Nc6 {-4.23/15 1.905s}
+Qh5 {+2.30/14 0.318s} 34. Ne5 {-4.19/17 1.902s} Rf2 {+2.24/13 0.219s}
+35. Rg1 {-4.79/17 1.902s} dxe5 {+2.31/15 0.160s} 36. Qxe5+ {-5.06/17 1.901s}
+Bg7 {+2.58/15 0.258s} 37. Qg3 {-4.26/18 1.909s} Bxg2+ {+2.64/15 0.152s}
+38. Rxg2 {-4.36/17 1.902s} Rf3 {+2.85/14 0.285s} 39. Qb8+ {-4.28/17 1.903s}
+Rf8 {+2.87/11 0.193s} 40. Qg3 {-4.18/17 1.903s} Rf1+ {+2.38/14 0.203s}
+41. Rg1 {-4.22/16 1.901s} Rf5 {+2.43/15 0.169s} 42. Qg4 {-4.92/16 1.909s}
+Qxg4 {+2.74/17 0.180s} 43. Rxg4 {-4.64/16 1.907s} h5 {+2.52/15 0.156s}
+44. Rg1 {-5.05/15 1.900s} Bh6 {+2.93/15 0.280s} 45. Rb1 {-5.14/13 1.909s}
+g4 {+3.62/14 0.336s} 46. Bg1 {-6.40/17 1.901s} Kh7 {+2.62/14 0.479s}
+47. b4 {-6.59/14 1.903s} h4 {+2.75/16 0.444s} 48. a4 {-8.97/15 1.904s}
+Rf6 {+2.80/16 0.455s} 49. b5 {-5.81/17 1.903s} axb5 {+2.77/16 0.419s}
+50. axb5 {-6.17/17 1.900s} Rb6 {+2.68/16 0.265s} 51. Rb3 {-6.32/22 1.902s}
+Kg6 {+3.31/16 0.348s} 52. Bh2 {-7.38/21 1.902s} g3 {+4.24/15 0.249s}
+53. Bxg3 {-7.34/22 1.900s} hxg3 {+3.94/15 0.134s} 54. Kg2 {-7.89/22 1.900s}
+Kf5 {+3.79/17 0.213s} 55. Kxg3 {-8.22/21 1.899s} Bxe3 {+3.96/16 0.119s}
+56. Rxe3 {-8.33/22 1.906s} Rxb5 {+4.05/15 0.188s} 57. Ra3 {-8.41/20 1.902s}
+Rb4 {+3.94/15 0.181s} 58. Ra8 {-9.16/19 1.901s} Rxd4 {+4.22/13 0.345s}
+59. Rf8+ {-9.20/17 1.900s} Ke6 {+4.28/13 0.486s} 60. Re8+ {-8.91/16 1.907s}
+Kd6 {+4.40/11 0.326s} 61. Kf2 {-9.19/17 1.899s} Rd3 {+4.50/15 0.330s}
+62. Ke2 {-9.04/17 1.903s} Rb3 {+4.46/14 0.270s} 63. Ra8 {-9.36/18 1.904s}
+Kc5 {+4.25/14 0.370s} 64. Kd2 {-9.68/15 1.900s} Rf3 {+4.14/14 0.591s}
+65. Rb8 {-9.98/17 1.905s} Ra3 {+4.42/15 0.583s} 66. Ke2 {-9.60/17 1.900s}
+Kd4 {+4.68/15 0.990s} 67. Rb4+ {-9.83/16 1.903s} Ke5 {+4.86/14 1.599s}
+68. Rb5 {-10.05/16 1.906s} Ra2+ {+4.74/12 0.770s} 69. Ke3 {-9.36/20 1.909s}
+Rc2 {+5.06/16 0.728s} 70. Ra5 {-10.19/15 1.903s} Rb2 {+5.25/13 1.359s}
+71. Rc5 {-10.37/14 1.903s} Rb3+ {+5.29/15 1.217s} 72. Ke2 {-11.15/14 1.904s}
+Kd4 {+5.20/12 1.016s} 73. Rc2 {-12.11/14 1.913s} e3 {+5.21/16 0.505s}
+74. Kd1 {-13.70/15 1.916s} Rb1+ {+5.80/13 0.496s} 75. Ke2 {-14.66/17 1.918s}
+Ke4 {+5.94/14 0.376s} 76. Ra2 {-17.07/17 1.916s} d4 {+6.76/16 0.460s}
+77. Ra4 {-18.49/17 1.904s} Rh1 {+6.78/15 0.319s} 78. Rb4 {-20.32/16 1.919s}
+Rc1 {+7.26/15 0.801s} 79. Ra4 {-50.01/19 1.911s} Rb1 {+7.90/15 0.425s}
+80. Rc4 {-63.15/18 1.916s} Rb2+ {+9.21/17 0.355s} 81. Kf1 {-50.12/17 1.910s}
+Kf3 {+10.33/17 0.288s} 82. Rc1 {-M20/15 0.627s, Black wins by adjudication} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "13"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:02:44"]
+[GameStartTime "2026-07-30T22:49:03 +0200"]
+[GameEndTime "2026-07-30T22:51:48 +0200"]
+[PlyCount "158"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A11"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+
+1. c4 {book} c6 {book} 2. Nf3 {book} d5 {book} 3. e3 {book} Nf6 {book}
+4. Nc3 {book} a6 {book} 5. b3 {book} Bf5 {book} 6. Bb2 {book} e6 {book}
+7. Be2 {book} h6 {book} 8. O-O {book} Nbd7 {book} 9. d3 {-0.14/11 1.920s}
+Bg6 {+0.26/12 0.826s} 10. e4 {-0.03/11 1.912s} dxe4 {+0.38/13 0.687s}
+11. Nxe4 {-0.35/13 1.926s} Bxe4 {+0.38/14 0.608s} 12. dxe4 {-0.27/13 1.907s}
+Nxe4 {+0.45/13 0.382s} 13. Bd3 {-0.25/15 1.903s} Nef6 {+0.41/12 0.519s}
+14. Bc2 {-0.53/13 1.933s} Bc5 {+0.37/11 0.695s} 15. Qe2 {-0.62/11 1.946s}
+a5 {+0.41/13 1.104s} 16. Rad1 {-0.71/12 1.906s} Qe7 {+0.50/13 0.240s}
+17. Kh1 {-0.74/14 1.903s} O-O-O {+0.60/13 0.295s} 18. Nd4 {-0.68/12 1.911s}
+Rhe8 {+0.48/10 0.390s} 19. f4 {-0.75/11 1.914s} g5 {+0.59/11 0.278s}
+20. Bb1 {-1.28/12 1.914s} Ba3 {+0.88/13 0.248s} 21. Bc3 {-1.34/13 1.913s}
+Bb4 {+0.88/13 1.376s} 22. Bb2 {-1.86/12 1.918s} Bd6 {+1.14/12 0.640s}
+23. Bc1 {-1.68/13 1.907s} g4 {+0.97/12 0.148s} 24. Bd2 {-0.36/15 1.905s}
+Bb4 {+0.33/11 0.219s} 25. Be3 {0.00/16 1.903s} h5 {+0.51/15 0.177s}
+26. Bf2 {-0.55/18 1.908s} h4 {+0.52/12 0.217s} 27. Bxh4 {-0.68/18 1.903s}
+Rh8 {+0.80/12 0.153s} 28. g3 {-0.59/19 1.899s} Rxh4 {+0.43/12 0.247s}
+29. gxh4 {-0.46/17 1.903s} Rh8 {+0.55/13 0.183s} 30. Qf2 {-0.46/17 1.901s}
+Qc5 {+0.58/12 0.256s} 31. Qg3 {-0.70/17 1.905s} Qh5 {+0.60/14 0.208s}
+32. Ne2 {-0.63/18 1.904s} Bc5 {+0.65/13 0.322s} 33. Qe1 {-0.50/16 1.899s}
+Qh6 {+0.60/12 0.168s} 34. Kg2 {-0.46/17 1.907s} Bb4 {+0.69/10 0.247s}
+35. Qf2 {-0.63/14 1.912s} Be7 {+0.66/12 0.223s} 36. Kh1 {-0.86/16 1.913s}
+Qg7 {+0.65/10 0.462s} 37. Bc2 {-0.76/16 1.913s} Bc5 {+0.99/15 0.514s}
+38. Qg3 {-1.10/15 1.905s} Nh5 {+0.87/13 0.395s} 39. Qe1 {-0.73/17 1.913s}
+Bb4 {+0.98/14 0.323s} 40. Qf2 {-0.60/16 1.904s} f5 {+0.92/10 0.327s}
+41. Qa7 {-0.93/13 1.914s} g3 {+1.09/10 0.155s} 42. Rg1 {+0.84/15 1.902s}
+Bc5 {+0.30/10 0.319s} 43. Qa8+ {+1.52/15 1.907s} Nb8 {+0.28/12 0.226s}
+44. Rg2 {+1.25/16 1.906s} b6 {+1.31/12 0.181s} 45. b4 {+1.89/16 1.901s}
+axb4 {0.00/17 0.361s} 46. Ba4 {+2.42/15 1.899s} Qc7 {0.00/18 0.270s}
+47. Nxg3 {+3.26/16 1.902s} Nxf4 {+0.06/9 0.157s} 48. Rgd2 {+4.88/16 1.900s}
+Rg8 {-0.69/10 0.341s} 49. Rd7 {+6.50/17 1.912s} Qxd7 {-2.07/14 0.826s}
+50. Rxd7 {+6.69/16 1.920s} Kxd7 {-2.36/11 0.779s} 51. Bxc6+ {+6.48/17 1.904s}
+Kd6 {-1.63/13 1.179s} 52. Ba4 {+7.02/15 1.902s} Kc7 {-1.96/16 0.363s}
+53. Qa7+ {+7.48/15 1.908s} Kc8 {-2.38/14 0.318s} 54. Qh7 {+7.86/16 1.917s}
+Rd8 {-2.45/14 0.562s} 55. Nxf5 {+7.93/16 1.917s} b3 {-2.82/14 1.250s}
+56. Bxb3 {+8.52/14 1.939s} exf5 {-3.10/14 1.523s} 57. Qxf5+ {+8.35/11 1.940s}
+Nd7 {-3.09/15 1.656s} 58. Qxf4 {+8.19/15 1.901s} Rf8 {-3.11/17 0.682s}
+59. Qe4 {+8.24/12 1.901s} Rf1+ {-3.05/14 1.863s} 60. Kg2 {+8.55/12 1.914s}
+Rf2+ {-2.92/16 1.585s} 61. Kg3 {+8.95/12 1.899s} Rd2 {-3.20/15 1.347s}
+62. Qf5 {+8.54/11 1.939s} Bd6+ {-3.14/14 0.753s} 63. Kf3 {+9.01/12 1.908s}
+Bc5 {-3.09/15 0.352s} 64. Qe6 {+9.53/12 1.920s} Kc7 {-3.35/15 0.480s}
+65. Ba4 {+9.85/12 1.928s} Nf6 {-3.67/14 0.467s} 66. Bb5 {+10.13/12 1.910s}
+Rf2+ {-3.36/15 0.307s} 67. Kg3 {+10.30/13 1.904s} Rf1 {-3.57/15 0.346s}
+68. a4 {+10.35/14 1.916s} Rf2 {-3.66/14 0.719s} 69. Qc6+ {+10.05/13 1.918s}
+Kd8 {-3.40/13 0.664s} 70. Qe6 {+9.72/13 1.928s} Rf1 {-4.06/15 0.527s}
+71. Qe5 {+12.84/11 1.908s} Rg1+ {-3.50/14 0.329s} 72. Kf4 {+13.85/13 1.907s}
+Rf1+ {-3.79/15 0.197s} 73. Kg5 {+13.29/14 1.901s} Kc8 {-4.13/15 0.284s}
+74. a5 {+19.25/12 1.905s} Kb7 {-5.20/15 0.280s} 75. a6+ {+43.63/12 1.905s}
+Ka8 {-5.51/13 0.278s} 76. Qc7 {+M27/15 0.531s} Ne4+ {-7.77/13 0.147s}
+77. Kh5 {+M25/6 0.001s} Nf6+ {-M14/29 0.091s} 78. Kg6 {+M23/6 0.001s}
+Rg1+ {-M10/41 0.039s} 79. Kxf6 {+M21/6 0.000s}
+Bd4+ {-M10/38 0.026s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "12"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:03:05"]
+[GameStartTime "2026-07-30T22:49:00 +0200"]
+[GameEndTime "2026-07-30T22:52:07 +0200"]
+[PlyCount "190"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+
+1. d4 {book} e6 {book} 2. Nf3 {book} f5 {book} 3. g3 {book} Nf6 {book}
+4. Bg2 {book} Be7 {book} 5. O-O {book} O-O {book} 6. Nbd2 {book} c6 {book}
+7. c4 {book} d5 {book} 8. Ne5 {book} Nbd7 {book} 9. Nd3 {+0.52/10 0.310s}
+Ne4 {-0.97/10 1.930s} 10. Qc2 {+0.58/13 1.024s} a5 {-1.51/10 1.927s}
+11. Nf3 {+0.53/11 0.480s} g5 {-1.60/11 1.927s} 12. b3 {+0.83/11 0.623s}
+Rf7 {-1.69/11 1.900s} 13. Be3 {+0.65/12 0.423s} Rg7 {-1.53/13 1.938s}
+14. Rac1 {+0.63/9 0.552s} h5 {-1.07/13 1.907s} 15. Rcd1 {+0.48/12 0.587s}
+b5 {-1.05/10 1.905s} 16. Nfe5 {+0.61/11 0.656s} Nxe5 {-0.99/12 1.967s}
+17. Nxe5 {+0.58/12 0.726s} Bb7 {-0.94/15 1.904s} 18. h4 {+0.76/13 0.128s}
+Nd6 {-1.16/12 1.902s} 19. hxg5 {+0.76/11 0.434s} Bxg5 {-1.55/13 1.908s}
+20. Qc1 {+0.78/12 0.588s} bxc4 {-1.78/13 1.905s} 21. bxc4 {+0.85/12 0.458s}
+Nf7 {-1.57/13 1.913s} 22. Bxg5 {+0.91/12 0.407s} Qxg5 {-1.82/13 1.912s}
+23. Qxg5 {+0.89/13 1.434s} Rxg5 {-1.13/13 1.915s} 24. Nd7 {+0.80/11 0.379s}
+Bc8 {-1.58/15 1.900s} 25. Nb6 {+1.08/14 0.241s} Rb8 {-2.05/14 1.901s}
+26. Rb1 {+1.10/12 0.244s} Ba6 {-2.27/15 1.906s} 27. Nd7 {+1.00/13 0.254s}
+Rxb1 {-2.34/18 1.906s} 28. Rxb1 {+1.13/14 0.187s} Bxc4 {-2.63/19 1.906s}
+29. Rb8+ {+0.88/12 0.152s} Kg7 {-2.02/17 1.905s} 30. Nf8 {+1.04/16 0.129s}
+Kh8 {-1.96/18 1.900s} 31. Nxe6+ {+1.06/14 0.321s} Rg8 {-2.05/18 1.901s}
+32. Rb7 {+1.04/11 0.401s} Nd8 {-2.28/17 1.904s} 33. Nxd8 {+1.10/13 0.359s}
+Rxd8 {-2.41/17 1.905s} 34. Bf3 {+1.01/14 0.291s} Bxa2 {-2.61/19 1.902s}
+35. Ra7 {+1.11/15 0.315s} Bc4 {-2.63/19 1.902s} 36. Bxh5 {+1.17/14 0.156s}
+Rc8 {-2.61/20 1.904s} 37. Rxa5 {+1.26/12 0.624s} Kg7 {-2.63/20 1.911s}
+38. f4 {+1.23/13 0.186s} Kf6 {-2.51/17 1.903s} 39. Kf2 {+1.27/14 0.574s}
+Rh8 {-2.54/19 1.905s} 40. Bf3 {+1.15/15 0.186s} Rc8 {-2.36/17 1.903s}
+41. Ra7 {+1.34/12 0.352s} c5 {-2.18/20 1.910s} 42. dxc5 {+1.20/11 0.233s}
+Rxc5 {-2.22/20 1.901s} 43. g4 {+1.09/10 0.188s} fxg4 {-2.09/18 1.906s}
+44. Bxg4 {+1.09/12 0.556s} Rc6 {-2.05/18 1.904s} 45. Rb7 {+1.20/10 0.452s}
+Ra6 {-1.93/21 1.903s} 46. Rb4 {+1.00/13 0.211s} Ra2 {-2.07/21 1.902s}
+47. Rb6+ {+1.13/12 0.239s} Kg7 {-1.89/20 1.902s} 48. Rd6 {+1.11/12 0.138s}
+Ra4 {-1.89/19 1.906s} 49. f5 {+1.98/12 0.134s} Ra6 {-2.98/17 1.903s}
+50. f6+ {+2.26/13 0.101s} Kh6 {-4.06/20 1.899s} 51. Rxa6 {+2.78/15 1.004s}
+Bxa6 {-3.06/22 1.902s} 52. Bf5 {+3.64/13 0.672s} d4 {-4.65/23 1.904s}
+53. Kf3 {+4.10/15 0.353s} Bc4 {-3.94/24 1.905s} 54. Bd3 {+4.31/13 0.313s}
+Bb3 {-6.65/19 1.904s} 55. Kf4 {+4.75/15 0.370s} Bf7 {-9.39/20 1.916s}
+56. Ke5 {+4.95/14 0.612s} Kg5 {-9.82/21 1.905s} 57. Be4 {+5.03/14 0.467s}
+Bb3 {-9.76/19 1.903s} 58. Bd5 {+5.89/12 0.932s} Bxd5 {-9.72/24 1.905s}
+59. Kxd5 {+5.92/13 1.413s} Kxf6 {-11.00/22 1.910s} 60. Kxd4 {+5.61/13 0.727s}
+Ke6 {-23.62/25 1.900s} 61. Ke4 {+5.52/12 0.215s} Kf6 {-23.86/25 1.904s}
+62. Kd5 {+5.27/15 0.557s} Ke7 {-25.44/24 1.909s} 63. Ke5 {+5.29/11 1.477s}
+Kf7 {-25.20/21 1.920s} 64. Kd6 {+5.44/16 0.958s} Kg7 {-23.79/20 1.911s}
+65. Ke6 {+5.51/16 0.503s} Kg6 {-29.41/20 1.906s} 66. e4 {+5.51/16 0.366s}
+Kg5 {-30.93/20 1.903s} 67. e5 {+5.40/15 0.162s} Kh4 {-30.99/19 1.913s}
+68. Kf5 {+6.25/13 0.206s} Kh3 {-30.99/20 1.905s} 69. Ke4 {+6.25/14 0.259s}
+Kh4 {-30.99/18 1.900s} 70. Kf5 {+6.27/14 0.266s} Kh3 {0.00/93 1.904s}
+71. Kf4 {+6.13/14 0.277s} Kg2 {-31.34/17 1.911s} 72. Kg4 {+6.11/14 0.215s}
+Kf2 {-31.02/15 1.926s} 73. Kf4 {+6.10/17 0.180s} Kg2 {0.00/102 1.926s}
+74. e6 {+6.08/16 0.358s} Kf2 {-31.48/15 1.909s} 75. Kg4 {+5.92/13 0.224s}
+Ke2 {-30.99/15 1.903s} 76. Kf4 {+5.87/13 0.127s} Kd1 {-30.87/16 1.905s}
+77. Ke3 {+6.01/14 0.210s} Kc2 {-30.97/21 1.899s} 78. Kd4 {+6.01/13 0.085s}
+Kd2 {-31.37/17 1.933s} 79. Ke4 {+5.96/15 0.326s} Ke2 {-33.50/17 1.900s}
+80. Kd4 {+5.90/13 0.084s} Kd2 {0.00/122 1.902s} 81. Kd5 {+5.87/14 0.073s}
+Kc3 {-32.79/18 1.902s} 82. Ke5 {+5.90/15 0.099s} Kd2 {-33.79/18 1.901s}
+83. Kd6 {+5.85/14 0.042s} Ke2 {-33.60/16 1.900s} 84. Ke5 {+5.86/15 0.045s}
+Kd2 {0.00/127 0.405s} 85. Kd4 {+5.86/14 0.087s} Kc2 {-33.55/17 1.902s}
+86. Ke3 {+5.86/15 0.071s} Kb3 {-33.66/19 1.900s} 87. Kd3 {+5.86/14 0.094s}
+Kb4 {-M68/19 1.271s} 88. Kd4 {+5.93/16 0.184s} Ka5 {-M82/17 1.579s}
+89. Kc5 {+5.71/14 0.112s} Ka6 {-M86/13 0.068s} 90. Kd4 {+5.73/14 0.084s}
+Ka5 {0.00/74 1.904s} 91. Kc5 {+5.86/15 0.171s} Ka6 {0.00/127 0.050s}
+92. e7 {+M11/20 0.090s} Ka7 {-M84/6 0.002s} 93. e8=Q {+M7/34 0.219s}
+Kb7 {-M82/6 0.003s} 94. Qd7+ {+M5/43 0.010s} Kb8 {-M80/6 0.004s}
+95. Kb6 {+M3/245 0.006s} Ka8 {-M2/6 0.000s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "14"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:02:30"]
+[GameStartTime "2026-07-30T22:50:18 +0200"]
+[GameEndTime "2026-07-30T22:52:49 +0200"]
+[PlyCount "144"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Three Knights Variation"]
+
+1. Nf3 {book} Nf6 {book} 2. c4 {book} c5 {book} 3. Nc3 {book} b6 {book}
+4. e4 {book} Nc6 {book} 5. d4 {book} cxd4 {book} 6. Nxd4 {book} Bb7 {book}
+7. Be2 {book} e6 {book} 8. Bf4 {book} Nxd4 {book} 9. Qxd4 {+1.11/14 1.901s}
+Bc5 {-0.52/10 0.293s} 10. Qd3 {+1.36/16 1.904s} O-O {-0.65/12 0.252s}
+11. O-O {+1.47/14 1.908s} d6 {-0.61/12 0.241s} 12. a3 {+1.30/16 1.899s}
+a5 {-0.55/11 0.128s} 13. Rad1 {+1.12/17 1.901s} e5 {-0.56/13 0.170s}
+14. Be3 {+1.13/17 1.900s} a4 {-0.55/12 0.217s} 15. Bf3 {+1.38/16 1.901s}
+Bc6 {-0.39/11 0.163s} 16. Rd2 {+1.33/17 1.900s} Re8 {-0.52/13 0.251s}
+17. Rfd1 {+1.42/17 1.903s} Re6 {-0.57/10 0.304s} 18. g3 {+1.30/16 1.913s}
+h6 {-0.67/11 0.574s} 19. h4 {+1.31/15 1.901s} Qe7 {-0.54/11 0.350s}
+20. Bg2 {+1.75/13 1.906s} Qb7 {-0.79/11 0.314s} 21. Bxc5 {+2.44/14 1.901s}
+dxc5 {-0.98/10 0.388s} 22. Qe2 {+1.83/14 1.905s} Rb8 {-1.10/11 0.744s}
+23. Bh3 {+1.74/13 1.913s} Ree8 {-1.07/12 1.072s} 24. Nd5 {+1.71/14 1.909s}
+Nxd5 {-0.81/12 0.374s} 25. cxd5 {+2.62/16 1.904s} Bd7 {-0.71/11 0.765s}
+26. Bxd7 {+2.39/16 1.908s} Qxd7 {-0.79/14 1.077s} 27. d6 {+2.06/18 1.916s}
+Rbc8 {-0.79/13 0.698s} 28. Qa6 {+2.09/16 1.913s} Rb8 {-0.83/13 0.626s}
+29. Rd5 {+2.12/17 1.932s} f6 {-0.81/14 1.161s} 30. Qc4 {+2.02/15 1.916s}
+Kh8 {-0.81/12 0.758s} 31. Qe2 {+2.06/15 1.902s} Rbc8 {-0.79/11 0.648s}
+32. Qa6 {+2.09/15 1.902s} Rb8 {-0.81/15 0.721s} 33. Qd3 {+2.21/17 1.911s}
+Kg8 {-0.79/11 0.324s} 34. Qf3 {+2.04/14 1.921s} Red8 {-0.82/13 0.388s}
+35. R1d2 {+2.32/14 1.903s} c4 {-0.82/13 0.316s} 36. g4 {+2.45/15 1.914s}
+Rf8 {-0.78/13 0.424s} 37. Qg3 {+2.15/14 1.908s} Rbc8 {-0.83/11 0.544s}
+38. Kf1 {+2.18/12 1.920s} Rc6 {-0.75/13 0.522s} 39. Kg2 {+2.27/14 1.914s}
+g5 {-0.76/15 0.844s} 40. Qh3 {+1.80/11 1.932s} Kg7 {-0.77/13 0.664s}
+41. Rd1 {+1.52/14 1.913s} Rh8 {-0.84/12 0.413s} 42. Qf3 {+1.56/17 1.905s}
+Rd8 {-0.92/13 0.243s} 43. Kg3 {+2.06/15 1.905s} Rb8 {-0.98/13 0.309s}
+44. Qc3 {+2.34/16 1.906s} b5 {-0.92/12 0.249s} 45. Qd2 {+1.64/14 1.902s}
+Rbc8 {-0.98/12 0.308s} 46. Qc3 {+1.97/14 1.903s} Rb8 {-1.17/10 0.246s}
+47. f3 {+2.28/16 1.906s} Kf7 {-1.40/9 0.149s} 48. hxg5 {+2.43/16 1.906s}
+hxg5 {-1.23/13 0.198s} 49. Rh1 {+2.51/17 1.906s} Kg7 {-1.28/12 0.199s}
+50. Qd2 {+5.33/15 1.904s} Rh8 {-1.40/14 0.308s} 51. Rxh8 {+5.40/16 1.900s}
+Kxh8 {-1.35/14 0.157s} 52. Rxb5 {+5.36/19 1.903s} Kg7 {-0.86/11 0.300s}
+53. Rb8 {+5.68/18 1.900s} Kg6 {-2.56/12 0.185s} 54. Qd5 {+10.91/21 1.915s}
+Rxd6 {-2.45/15 0.264s} 55. Rg8+ {+11.11/20 1.903s} Kh7 {-4.07/14 0.405s}
+56. Qa8 {+12.12/23 1.913s} Qf7 {-4.21/12 0.766s} 57. Rf8 {+12.14/21 1.901s}
+Qg7 {-4.97/12 0.360s} 58. Qe8 {+12.57/20 1.900s} Rb6 {-5.10/16 1.036s}
+59. Rf7 {+13.06/23 1.899s} Rb7 {-4.84/17 0.619s} 60. Rxg7+ {+13.47/17 1.916s}
+Kxg7 {-5.00/17 0.352s} 61. Qxa4 {+13.37/17 1.943s} c3 {-4.94/15 0.593s}
+62. bxc3 {+16.30/16 1.907s} Rb2 {-5.41/16 0.491s} 63. Qa7+ {+17.91/15 1.903s}
+Kg6 {-5.26/16 0.268s} 64. a4 {+20.02/18 1.899s} Rc2 {-5.38/16 0.112s}
+65. Qc5 {+21.10/18 1.902s} Rb2 {-5.77/15 0.184s} 66. a5 {+27.32/19 1.906s}
+Rb1 {-5.61/15 0.514s} 67. a6 {+44.53/19 1.906s} Ra1 {-6.27/16 0.413s}
+68. a7 {+45.86/21 1.904s} Ra2 {-6.38/15 0.448s} 69. Qe7 {+48.26/20 1.902s}
+Ra1 {-8.00/16 0.159s} 70. Qe8+ {+67.11/15 1.900s} Kg7 {-8.25/15 0.227s}
+71. a8=Q {+94.17/17 1.902s} Rxa8 {-8.36/15 0.163s} 72. Qxa8 {+97.87/17 1.902s}
+Kf7 {-8.15/15 0.193s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "15"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:02:10"]
+[GameStartTime "2026-07-30T22:51:15 +0200"]
+[GameEndTime "2026-07-30T22:53:25 +0200"]
+[PlyCount "126"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Normal Variation"]
+
+1. c4 {book} c5 {book} 2. Nc3 {book} g6 {book} 3. Nf3 {book} Bg7 {book}
+4. d4 {book} cxd4 {book} 5. Nxd4 {book} Nc6 {book} 6. Nb3 {book} b6 {book}
+7. e4 {book} d6 {book} 8. Bd2 {book} Nf6 {book} 9. Be2 {+0.11/10 0.923s}
+O-O {+0.03/11 1.912s} 10. Be3 {+0.08/14 0.428s} Bb7 {0.00/15 1.913s}
+11. O-O {+0.09/14 0.632s} Rc8 {0.00/16 1.911s} 12. f4 {+0.11/13 0.290s}
+Nd7 {+0.08/13 1.907s} 13. Qc2 {+0.15/13 0.318s} Ba6 {+0.30/13 1.902s}
+14. Rad1 {+0.12/13 0.736s} Nb4 {+0.51/12 1.916s} 15. Qd2 {+0.45/11 0.435s}
+Bxc4 {+0.08/12 1.917s} 16. Bxc4 {0.00/9 0.456s} Rxc4 {+0.10/13 1.907s}
+17. e5 {0.00/11 0.631s} Qb8 {-0.09/12 1.911s} 18. a3 {+1.38/16 0.378s}
+Nc6 {-1.93/14 1.909s} 19. Qd3 {+1.51/14 0.160s} b5 {-3.36/13 1.905s}
+20. Nd2 {+1.64/13 0.354s} Nb6 {-3.78/14 1.909s} 21. Nxb5 {+1.74/13 0.173s}
+Ra4 {-3.41/16 1.934s} 22. b3 {+1.61/15 0.449s} Ra5 {-3.80/17 1.905s}
+23. b4 {+1.73/12 0.231s} Nd5 {-3.50/17 1.902s} 24. Qxd5 {+1.67/14 0.253s}
+Qxb5 {-2.99/18 1.910s} 25. Qc4 {+1.76/14 0.226s} d5 {-3.02/15 1.906s}
+26. Qxb5 {+1.78/11 0.267s} Rxb5 {-3.03/15 1.901s} 27. Nf3 {+1.76/13 0.310s}
+d4 {-2.80/14 1.909s} 28. Bf2 {+2.04/14 0.254s} f6 {-3.24/16 1.913s}
+29. Rc1 {+1.96/16 0.343s} Nd8 {-2.99/16 1.900s} 30. Nxd4 {+1.77/12 0.230s}
+Rd5 {-2.55/16 1.901s} 31. e6 {+1.34/11 0.267s} f5 {-2.58/16 1.909s}
+32. Nc6 {+1.31/13 0.257s} Bf6 {-2.23/16 1.917s} 33. Nxa7 {+1.61/14 0.751s}
+Nxe6 {-2.43/15 1.915s} 34. Rfd1 {+1.52/14 0.782s} Nxf4 {-2.03/16 1.907s}
+35. Rxd5 {+1.48/11 1.171s} Nxd5 {-2.21/16 1.906s} 36. b5 {+1.67/11 0.954s}
+Nc3 {-2.11/15 1.903s} 37. Kh1 {+1.49/10 1.257s} Rd8 {-1.88/13 1.917s}
+38. b6 {+1.30/13 0.628s} Rd2 {-2.88/14 1.922s} 39. Bc5 {+1.31/12 0.721s}
+Rb2 {-2.36/16 1.906s} 40. Bb4 {+1.89/11 0.427s} Na2 {-3.78/17 1.914s}
+41. b7 {+1.72/12 0.593s} Be5 {-3.52/17 1.910s} 42. Nc6 {+1.91/13 0.744s}
+Bc7 {-4.14/14 1.901s} 43. Re1 {+1.79/13 0.591s} Nxb4 {-4.58/14 1.923s}
+44. axb4 {+1.53/10 1.268s} h5 {-4.53/15 1.915s} 45. Nxe7+ {+2.45/15 0.350s}
+Kg7 {-4.11/15 1.903s} 46. Nc6 {+2.19/13 0.249s} g5 {-4.15/19 1.902s}
+47. g3 {+3.05/15 0.354s} Kf6 {-11.12/12 1.900s} 48. Re7 {+3.58/11 0.346s}
+Rb1+ {-11.86/12 1.901s} 49. Kg2 {+4.59/15 0.278s} Rb2+ {-13.00/14 1.904s}
+50. Kf1 {+4.70/15 0.343s} Rb1+ {-14.43/15 1.902s} 51. Ke2 {+5.05/15 0.241s}
+Bb8 {-15.14/15 1.900s} 52. Nxb8 {+5.10/15 0.322s} Kxe7 {-15.24/15 1.906s}
+53. Nc6+ {+5.48/16 0.235s} Kd6 {-16.21/17 1.903s} 54. b8=Q+ {+5.39/15 0.389s}
+Kxc6 {-16.08/16 1.902s} 55. Qc8+ {+5.50/15 0.160s} Kb6 {-16.25/16 1.906s}
+56. Qc3 {+5.54/14 0.117s} g4 {-14.61/14 1.902s} 57. Kd2 {+5.61/15 0.227s}
+Kb7 {-14.76/14 1.903s} 58. Qd4 {+5.75/16 0.587s} Kb8 {-15.18/14 1.902s}
+59. Qe5+ {+6.85/16 0.237s} Kb7 {-14.81/12 1.915s} 60. Kc2 {+7.07/16 0.279s}
+f4 {-29.51/13 1.902s} 61. Kxb1 {+7.30/16 0.541s} f3 {-33.46/11 1.903s}
+62. Qf6 {+7.38/14 0.207s} Kc7 {-34.26/14 1.900s} 63. Kc1 {+8.16/15 0.213s}
+f2 {-40.55/15 1.901s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "16"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:01:50"]
+[GameStartTime "2026-07-30T22:51:38 +0200"]
+[GameEndTime "2026-07-30T22:53:29 +0200"]
+[PlyCount "116"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+
+1. d4 {book} e6 {book} 2. e4 {book} d5 {book} 3. Nd2 {book} Nf6 {book}
+4. e5 {book} Nfd7 {book} 5. f4 {book} c5 {book} 6. c3 {book} Nc6 {book}
+7. Ndf3 {book} f5 {book} 8. Bd3 {book} Be7 {book} 9. a3 {+1.48/13 1.902s}
+cxd4 {-0.68/11 0.520s} 10. cxd4 {+1.29/15 1.910s} Nb6 {-0.64/12 0.339s}
+11. Ne2 {+1.11/15 1.904s} Bd7 {-0.64/12 0.354s} 12. h3 {+1.31/16 1.906s}
+a5 {-0.58/13 0.336s} 13. O-O {+1.24/15 1.908s} O-O {-0.82/13 0.308s}
+14. Kh1 {+1.41/16 1.906s} a4 {-0.53/15 0.146s} 15. g4 {+1.21/16 1.900s}
+Na5 {-0.46/12 0.170s} 16. Rb1 {+1.24/14 1.900s} Nbc4 {-0.59/10 0.179s}
+17. Rg1 {+1.27/14 1.900s} Nb3 {-0.67/11 0.162s} 18. Qf1 {+1.08/14 1.900s}
+Nxc1 {-0.72/14 0.215s} 19. Qxc1 {+1.52/17 1.902s} b5 {-0.74/12 0.299s}
+20. Qe1 {+1.04/13 1.908s} Kh8 {-0.84/14 0.202s} 21. gxf5 {+1.26/16 1.905s}
+exf5 {-0.91/12 0.229s} 22. Qg3 {+1.13/17 1.904s} g6 {-0.84/12 0.261s}
+23. h4 {+1.09/16 1.911s} Rg8 {-0.72/12 0.601s} 24. Qh3 {+1.52/15 1.941s}
+h6 {-0.53/10 0.710s} 25. h5 {+2.16/12 1.907s} g5 {-0.83/11 1.697s}
+26. Bxf5 {+1.82/17 1.903s} Bxf5 {-0.98/12 0.794s} 27. Qxf5 {+1.60/15 1.906s}
+Ne3 {-0.99/10 0.828s} 28. Qe6 {+2.90/13 1.902s} Qf8 {-0.99/9 0.313s}
+29. Nh2 {+2.89/14 1.915s} b4 {-1.08/12 0.816s} 30. axb4 {+2.56/14 1.905s}
+Bxb4 {-1.22/11 0.259s} 31. Rbc1 {+3.23/15 1.911s} Bd2 {-1.56/11 0.642s}
+32. Rc6 {+3.49/14 1.942s} Nf5 {-1.82/13 1.081s} 33. Nf1 {+4.70/14 1.903s}
+Rb8 {-1.97/11 0.602s} 34. Nfg3 {+6.22/13 1.906s} Nh4 {-2.12/13 0.574s}
+35. f5 {+7.60/15 1.899s} g4 {-2.88/11 0.452s} 36. Rf1 {+7.52/14 1.907s}
+Qg7 {-2.44/14 0.504s} 37. f6 {+4.39/14 1.903s} Qg5 {-1.68/11 0.159s}
+38. f7 {+4.43/16 1.899s} Rgf8 {-1.70/13 0.582s} 39. Qf6+ {+3.49/15 1.900s}
+Qxf6 {-2.03/16 0.525s} 40. Rcxf6 {+4.96/17 1.905s} Bg5 {-2.15/13 0.307s}
+41. Ra6 {+3.07/14 1.906s} Rxb2 {-1.25/13 0.211s} 42. e6 {+3.36/15 1.903s}
+Nf3 {-1.07/13 0.271s} 43. Ra1 {+4.02/14 1.901s} Rfb8 {-0.96/11 0.250s}
+44. R6xa4 {+4.78/16 1.903s} Kg7 {-1.59/13 0.217s} 45. Ra8 {+4.94/15 1.904s}
+Rb1+ {-1.72/11 0.328s} 46. Kg2 {+4.73/15 1.899s} Nh4+ {-2.23/11 0.212s}
+47. Kf2 {+5.91/16 1.904s} R1b2 {-2.67/14 0.310s} 48. R1a7 {+6.44/14 1.903s}
+Rb1 {-2.96/13 0.756s} 49. Rxb8 {+9.91/13 1.903s} Rxb8 {-3.11/13 0.376s}
+50. Nc3 {+9.47/15 1.912s} Bd2 {-3.86/14 0.486s} 51. Nxd5 {+14.34/14 1.901s}
+Bg5 {-4.67/15 1.326s} 52. Ke2 {+15.83/13 1.942s} Bd8 {-4.90/15 0.972s}
+53. Ne4 {+34.55/16 1.904s} Rb2+ {-6.13/16 1.111s} 54. Kd3 {+41.17/18 1.901s}
+Be7 {-6.29/16 0.215s} 55. Rxe7 {+M17/13 0.280s} Rb3+ {-8.00/16 0.069s}
+56. Kc4 {+M15/6 0.001s} Nf3 {-13.09/14 0.029s} 57. f8=R+ {+M7/6 0.004s}
+Kxf8 {-M6/53 0.007s} 58. Rf7+ {+M5/6 0.001s}
+Kg8 {-M4/245 0.004s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "15"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1/2-1/2"]
+[GameDuration "00:02:57"]
+[GameStartTime "2026-07-30T22:50:56 +0200"]
+[GameEndTime "2026-07-30T22:53:54 +0200"]
+[PlyCount "159"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Normal Variation"]
+
+1. c4 {book} c5 {book} 2. Nc3 {book} g6 {book} 3. Nf3 {book} Bg7 {book}
+4. d4 {book} cxd4 {book} 5. Nxd4 {book} Nc6 {book} 6. Nb3 {book} b6 {book}
+7. e4 {book} d6 {book} 8. Bd2 {book} Nf6 {book} 9. Be2 {+0.10/14 1.917s}
+O-O {-0.04/10 1.017s} 10. O-O {-0.32/12 1.910s} Ba6 {-0.13/11 0.511s}
+11. Be3 {-0.27/14 1.913s} Rc8 {-0.08/13 0.389s} 12. f4 {+0.21/14 1.903s}
+Nd7 {-0.13/12 0.928s} 13. Rc1 {-0.24/12 1.907s} Nc5 {-0.04/13 1.388s}
+14. Nxc5 {-0.09/13 1.905s} dxc5 {+0.14/13 1.012s} 15. e5 {-0.33/14 1.904s}
+Nd4 {+0.09/13 0.889s} 16. b3 {-0.26/13 1.915s} Bb7 {+0.12/10 0.436s}
+17. Bxd4 {+0.72/13 1.910s} cxd4 {-0.39/10 0.396s} 18. Nb5 {+0.41/14 1.924s}
+d3 {-0.19/12 0.407s} 19. Qxd3 {+0.45/15 1.918s} Qxd3 {-0.09/11 0.550s}
+20. Bxd3 {+0.82/14 1.906s} f6 {-0.13/12 0.520s} 21. Rce1 {+0.43/14 1.937s}
+fxe5 {-0.17/11 0.849s} 22. fxe5 {+0.97/13 1.905s} Rxf1+ {-0.27/13 1.162s}
+23. Kxf1 {+0.68/15 1.937s} a6 {-0.31/10 0.762s} 24. Nc3 {+1.01/14 1.933s}
+Rc5 {-0.31/11 0.468s} 25. Be4 {+0.58/16 1.900s} Bxe4 {-0.34/13 0.479s}
+26. Rxe4 {+0.45/17 1.908s} Rxe5 {-0.28/11 0.407s} 27. Rxe5 {+0.72/19 1.905s}
+Bxe5 {-0.25/12 0.392s} 28. Ne4 {+0.78/19 1.912s} a5 {-0.16/13 0.513s}
+29. h3 {+0.47/18 1.911s} h5 {-0.25/13 0.399s} 30. Ke2 {+0.75/17 1.902s}
+Kf7 {-0.24/11 0.363s} 31. g4 {+0.71/18 1.901s} Ke6 {-0.31/14 0.368s}
+32. Ng5+ {+0.59/21 1.902s} Kd7 {-0.29/11 0.361s} 33. Ke3 {+1.02/18 1.903s}
+Bc3 {-0.36/11 0.220s} 34. Nf3 {+0.74/19 1.907s} hxg4 {-0.37/10 0.487s}
+35. hxg4 {+0.74/22 1.901s} Kd6 {-0.29/13 0.276s} 36. Nh4 {+1.12/21 1.902s}
+g5 {-0.15/13 0.332s} 37. Nf5+ {+1.29/20 1.917s} Ke5 {-0.08/14 0.487s}
+38. Nxe7 {+0.45/20 1.921s} Bd4+ {-0.08/16 0.915s} 39. Kd3 {+0.51/22 1.912s}
+Bf2 {-0.07/16 0.828s} 40. Nd5 {+0.41/21 1.900s} Bg1 {-0.05/16 1.702s}
+41. a3 {+0.36/20 1.902s} Bf2 {-0.04/15 0.771s} 42. Nc3 {+0.22/22 1.912s}
+Kf4 {-0.06/13 1.154s} 43. Ne4 {+0.20/20 1.908s} Bg1 {-0.08/16 1.251s}
+44. Nf6 {+0.08/21 1.902s} Ke5 {-0.07/13 0.470s} 45. Nd5 {0.00/23 1.901s}
+Bc5 {-0.11/15 0.584s} 46. b4 {+0.90/22 1.901s} axb4 {-0.14/15 0.295s}
+47. axb4 {+0.59/22 1.909s} Bf2 {-0.16/14 0.604s} 48. Nc7 {+0.71/22 1.902s}
+Bg1 {-0.15/15 0.245s} 49. Nb5 {+0.61/24 1.902s} Kf4 {-0.08/13 0.901s}
+50. Nd4 {+0.57/21 1.900s} Kxg4 {-0.34/13 0.384s} 51. c5 {+0.36/21 1.901s}
+bxc5 {-0.35/12 0.244s} 52. bxc5 {+0.16/19 1.902s} Kh5 {-0.37/14 0.351s}
+53. c6 {+0.04/15 1.913s} Bh2 {-0.35/15 0.462s} 54. Kc4 {+0.24/17 1.901s}
+g4 {+0.11/13 0.402s} 55. Kb5 {+0.06/12 1.905s} Bd6 {+0.01/11 0.352s}
+56. Nc2 {0.00/24 1.900s} Kg5 {+0.02/12 0.267s} 57. Kb6 {0.00/24 1.900s}
+Kf4 {+0.11/13 0.232s} 58. Kb7 {0.00/25 1.908s} Kf3 {+0.05/12 0.287s}
+59. Nd4+ {0.00/24 1.907s} Ke4 {0.00/20 0.527s} 60. Ne6 {0.00/25 1.903s}
+g3 {+0.07/14 0.309s} 61. Ng5+ {0.00/26 1.899s} Kd5 {+0.17/11 0.330s}
+62. Nh3 {0.00/28 1.903s} Kc5 {+0.14/14 0.273s} 63. Ng1 {0.00/27 1.908s}
+Bb8 {+0.31/13 0.565s} 64. Nh3 {-0.33/20 1.904s} g2 {+0.36/16 1.474s}
+65. Ng1 {-0.27/18 1.906s} Bh2 {+0.33/13 0.742s} 66. Nf3 {-0.21/18 1.902s}
+Kd5 {+0.44/13 1.273s} 67. Ng1 {-0.24/20 1.902s} Kc5 {+0.32/13 1.561s}
+68. Nf3 {0.00/39 1.900s} Kd5 {+0.33/16 0.383s} 69. Ng1 {0.00/41 1.902s}
+Bxg1 {+0.37/16 0.121s} 70. c7 {-0.34/19 1.910s} Be3 {+0.35/15 0.320s}
+71. c8=Q {0.00/22 1.900s} g1=Q {0.00/17 0.261s} 72. Qc6+ {0.00/23 1.928s}
+Ke5 {0.00/20 0.512s} 73. Qe8+ {0.00/24 1.900s} Kd4 {0.00/25 0.158s}
+74. Qa4+ {0.00/26 1.902s} Kc3 {0.00/25 0.129s} 75. Qa5+ {0.00/26 1.901s}
+Kb3 {0.00/27 0.121s} 76. Qb5+ {0.00/28 1.901s} Kc3 {0.00/26 0.111s}
+77. Qa5+ {0.00/30 1.901s} Kd4 {0.00/28 0.310s} 78. Qa4+ {0.00/29 1.903s}
+Ke5 {0.00/26 0.316s} 79. Qe8+ {0.00/29 1.901s} Kd4 {0.00/26 0.464s}
+80. Qa4+ {0.00/32 1.900s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "17"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:48"]
+[GameStartTime "2026-07-30T22:52:49 +0200"]
+[GameEndTime "2026-07-30T22:54:37 +0200"]
+[PlyCount "113"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be2 {book} e5 {book}
+7. Nb3 {book} Be7 {book} 8. g4 {book} h6 {book} 9. Be3 {+0.11/10 0.398s}
+Be6 {-0.19/14 1.901s} 10. Rg1 {0.00/11 0.442s} Nc6 {0.00/14 1.903s}
+11. Qd2 {-0.11/12 0.210s} Rc8 {+0.30/14 1.903s} 12. O-O-O {+0.29/14 0.267s}
+Nb4 {0.00/16 1.908s} 13. Kb1 {+0.06/15 0.227s} d5 {+0.04/16 1.907s}
+14. a3 {+0.04/14 0.281s} d4 {-0.39/16 1.903s} 15. axb4 {+0.01/14 0.245s}
+dxc3 {-0.16/17 1.902s} 16. Qxd8+ {-0.04/14 0.246s} Rxd8 {-0.22/19 1.900s}
+17. Rxd8+ {-0.06/14 0.215s} Kxd8 {-0.15/18 1.902s} 18. bxc3 {-0.01/15 0.245s}
+Nxe4 {+0.29/15 1.904s} 19. Kb2 {0.00/15 0.597s} Kc8 {0.00/16 1.913s}
+20. Bd3 {+0.03/11 0.389s} Ng5 {0.00/15 1.914s} 21. Bf5 {+0.09/11 1.065s}
+Nf3 {+0.41/14 1.900s} 22. Rg3 {+0.09/15 0.332s} Nxh2 {-0.48/13 1.919s}
+23. Nd2 {+0.10/15 0.618s} e4 {-0.60/16 1.902s} 24. Bd4 {-0.04/9 0.420s}
+Bd6 {0.00/16 1.901s} 25. Bxe6+ {-0.11/12 0.494s} fxe6 {-0.40/17 1.910s}
+26. Rg1 {+0.03/13 0.277s} Bf4 {-0.35/20 1.900s} 27. Nxe4 {+0.16/12 0.206s}
+Rd8 {-0.40/18 1.907s} 28. Bb6 {+0.16/11 0.214s} Nf3 {-0.34/18 1.908s}
+29. Ra1 {+0.07/11 0.275s} Bc7 {+0.11/16 1.905s} 30. Be3 {-0.03/15 0.464s}
+Ne5 {-0.09/18 1.905s} 31. Rg1 {-0.04/13 0.243s} Nc4+ {0.00/20 1.905s}
+32. Kb3 {-0.09/11 0.266s} Nxe3 {0.00/24 1.902s} 33. fxe3 {0.00/13 0.278s}
+Rf8 {0.00/22 1.903s} 34. Kc4 {+0.02/12 0.338s} Bd8 {0.00/18 1.907s}
+35. Kd4 {+0.08/12 0.413s} Bf6+ {0.00/20 1.900s} 36. Nxf6 {+0.18/13 0.257s}
+Rxf6 {0.00/23 1.905s} 37. Ke5 {+0.16/12 0.245s} Kd7 {0.00/23 1.905s}
+38. c4 {+0.12/12 0.246s} Rg6 {0.00/20 1.906s} 39. Kf4 {+0.06/13 0.138s}
+Rf6+ {0.00/22 1.907s} 40. Ke4 {+0.06/15 0.173s} Rg6 {0.00/22 1.900s}
+41. Kf4 {+0.09/13 0.195s} Rf6+ {0.00/27 1.902s} 42. Ke5 {+0.08/14 0.137s}
+Rg6 {0.00/25 1.906s} 43. c3 {+0.09/15 0.370s} b6 {-0.28/17 1.899s}
+44. e4 {+0.11/14 0.316s} Kc6 {0.00/21 1.900s} 45. Rg2 {+0.21/10 0.124s}
+a5 {0.00/21 1.902s} 46. c5 {+0.02/12 0.151s} axb4 {0.00/25 1.900s}
+47. cxb4 {-0.02/16 0.183s} bxc5 {0.00/27 1.905s} 48. bxc5 {0.00/17 0.705s}
+Kc7 {0.00/28 1.901s} 49. Kf4 {0.00/18 0.202s} Rf6+ {0.00/27 1.906s}
+50. Ke3 {0.00/19 0.322s} Kc6 {0.00/27 1.902s} 51. Kd4 {0.00/20 0.197s}
+Rg6 {0.00/30 1.902s} 52. Ra2 {0.00/20 0.277s} Rxg4 {0.00/30 1.904s}
+53. Ra6+ {0.00/21 0.390s} Kd7 {0.00/29 1.900s} 54. Ra7+ {0.00/23 0.499s}
+Kc6 {0.00/30 1.902s} 55. Ra6+ {0.00/27 0.130s} Kd7 {0.00/34 1.905s}
+56. Ra7+ {0.00/29 0.196s} Kc6 {0.00/33 1.902s}
+57. Ra6+ {0.00/39 1.414s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "17"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1/2-1/2"]
+[GameDuration "00:02:33"]
+[GameStartTime "2026-07-30T22:52:07 +0200"]
+[GameEndTime "2026-07-30T22:54:41 +0200"]
+[PlyCount "144"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} a6 {book} 6. Be2 {book} e5 {book}
+7. Nb3 {book} Be7 {book} 8. g4 {book} h6 {book} 9. h4 {+0.47/13 1.907s}
+Be6 {-0.06/13 0.511s} 10. g5 {+0.39/14 1.908s} hxg5 {+0.15/12 0.783s}
+11. Bxg5 {+0.02/14 1.906s} Nc6 {+0.17/12 0.673s} 12. Qd2 {+0.13/13 1.901s}
+a5 {+0.20/12 0.972s} 13. Bb5 {+0.10/15 1.904s} a4 {+0.26/13 1.061s}
+14. Bxa4 {-0.04/15 1.927s} Rxa4 {+0.30/16 1.701s} 15. Nxa4 {+0.63/14 1.946s}
+Nxe4 {+0.19/14 1.656s} 16. Bxe7 {0.00/15 1.906s} Qa8 {+0.08/16 0.471s}
+17. Nb6 {-0.50/15 1.903s} Nxd2 {+0.10/14 0.811s} 18. Nxa8 {-0.30/14 1.910s}
+Nf3+ {+0.13/16 1.104s} 19. Ke2 {-0.07/14 1.902s} Kxe7 {+0.11/12 0.286s}
+20. Nb6 {0.00/17 1.913s} e4 {+0.03/12 0.805s} 21. h5 {+0.09/12 1.920s}
+f5 {+0.01/14 0.288s} 22. c3 {+0.83/12 1.905s} Bf7 {+0.23/10 0.533s}
+23. Rad1 {+0.25/14 1.903s} Ke6 {+0.10/9 0.154s} 24. h6 {+2.31/15 1.914s}
+gxh6 {-0.96/14 0.384s} 25. Nc4 {+1.83/15 1.904s} d5 {+0.41/11 0.478s}
+26. Nc5+ {+1.70/15 1.903s} Ke7 {-0.44/12 0.287s} 27. Ne3 {+1.59/16 1.903s}
+Kd6 {-0.44/13 0.274s} 28. b4 {+1.04/15 1.902s} Ke5 {0.00/14 0.378s}
+29. Nd7+ {+0.86/13 1.904s} Kd6 {0.00/18 0.417s} 30. Nf6 {+0.46/15 1.906s}
+Ne7 {-0.69/10 0.286s} 31. Nfxd5 {+0.09/15 1.899s} Nxd5 {-0.47/11 0.258s}
+32. Nxd5 {+1.67/16 1.900s} h5 {-0.32/14 0.258s} 33. Ne3+ {+0.30/14 1.906s}
+Ke6 {0.00/13 0.519s} 34. Nc4 {0.00/15 1.934s} h4 {+0.29/13 1.021s}
+35. Ke3 {0.00/19 1.911s} Kf6 {+0.38/11 1.232s} 36. Nd2 {-0.44/12 1.908s}
+Ne5 {+0.60/13 0.358s} 37. Rh3 {-0.83/12 1.911s} Rc8 {+0.69/12 0.796s}
+38. Rxh4 {-1.48/12 1.907s} Rxc3+ {+1.09/10 1.612s} 39. Ke2 {-1.67/16 1.903s}
+Rc2 {+0.93/14 0.498s} 40. Ke3 {-1.58/14 1.901s} Rc3+ {+1.14/10 0.235s}
+41. Ke2 {-1.21/14 1.901s} Be8 {+1.00/12 0.164s} 42. Rg1 {-1.06/14 1.920s}
+Bb5+ {+0.47/12 0.300s} 43. Kd1 {-0.49/17 1.903s} Nd3 {+0.44/14 0.224s}
+44. Nxe4+ {-0.36/15 1.902s} fxe4 {+0.41/11 0.145s} 45. Rh6+ {-0.35/16 1.903s}
+Kf7 {+0.35/15 0.131s} 46. Rh7+ {-0.30/18 1.902s} Ke6 {+0.46/12 0.159s}
+47. Kd2 {-0.33/21 1.901s} Ra3 {+0.34/11 0.181s} 48. Rg5 {-0.31/19 1.902s}
+Ba4 {+0.25/12 0.129s} 49. Rxb7 {-0.23/17 1.904s} Ne5 {+0.37/11 0.345s}
+50. Re7+ {-0.27/17 1.902s} Kxe7 {+0.06/8 0.206s} 51. Rxe5+ {-0.29/18 1.901s}
+Kf6 {0.00/13 0.279s} 52. Rxe4 {-0.20/16 1.899s} Rxa2+ {-0.04/12 0.225s}
+53. Kc3 {-0.15/17 1.899s} Ra1 {+0.05/9 0.136s} 54. Kd4 {-0.13/18 1.902s}
+Bc6 {+0.28/9 0.218s} 55. Re3 {-0.10/17 1.902s} Rb1 {-0.09/10 0.180s}
+56. Kc5 {-0.10/19 1.903s} Ba8 {-0.11/10 0.173s} 57. b5 {0.00/20 1.905s}
+Rg1 {-0.01/9 0.305s} 58. Kb6 {+0.09/15 1.899s} Rg5 {-0.16/9 0.341s}
+59. Ra3 {0.00/17 1.902s} Be4 {-0.18/12 0.164s} 60. Rc3 {0.00/20 1.900s}
+Rg8 {-0.17/12 0.153s} 61. Re3 {+0.05/16 1.903s} Bf5 {-0.11/11 0.144s}
+62. Kc7 {+0.21/14 1.901s} Rg7+ {-0.14/11 0.360s} 63. Kd6 {0.00/17 1.901s}
+Rd7+ {-0.16/14 0.186s} 64. Kc6 {0.00/19 1.903s} Rd2 {-0.07/12 0.520s}
+65. b6 {0.00/19 1.903s} Rxf2 {0.00/13 0.493s} 66. Kb7 {0.00/20 1.901s}
+Bh7 {-0.02/10 0.368s} 67. Kc7 {0.00/19 1.903s} Bf5 {-0.12/12 0.461s}
+68. b7 {0.00/19 1.900s} Rc2+ {0.00/16 0.512s} 69. Kb6 {0.00/22 1.910s}
+Rb2+ {-0.20/12 0.311s} 70. Kc7 {0.00/25 1.950s} Rc2+ {-0.20/13 0.758s}
+71. Kb6 {0.00/27 1.908s} Rb2+ {-0.21/15 0.783s} 72. Kc7 {0.00/29 1.903s}
+Rc2+ {0.00/37 1.155s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "19"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:00:05"]
+[GameStartTime "2026-07-30T22:54:37 +0200"]
+[GameEndTime "2026-07-30T22:54:43 +0200"]
+[PlyCount "20"]
+[Termination "time forfeit"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B89"]
+[Opening "Sicilian Defense: Sozin Attack, Main Line"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} Nc6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} d6 {book} 6. Bc4 {book} e6 {book}
+7. Be3 {book} Be7 {book} 8. Bb3 {book} Bd7 {book} 9. Qe2 {+0.53/10 0.674s}
+O-O {-0.93/12 1.907s} 10. O-O-O {+0.67/13 0.940s}
+Qb8 {-0.85/12 2.021s, Black loses on time (21ms overrun)} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "16"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "0-1"]
+[GameDuration "00:03:02"]
+[GameStartTime "2026-07-30T22:51:48 +0200"]
+[GameEndTime "2026-07-30T22:54:51 +0200"]
+[PlyCount "182"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+
+1. d4 {book} e6 {book} 2. e4 {book} d5 {book} 3. Nd2 {book} Nf6 {book}
+4. e5 {book} Nfd7 {book} 5. f4 {book} c5 {book} 6. c3 {book} Nc6 {book}
+7. Ndf3 {book} f5 {book} 8. Bd3 {book} Be7 {book} 9. Be3 {+0.77/10 0.131s}
+cxd4 {-0.97/13 1.906s} 10. Nxd4 {+0.30/12 0.178s} Nc5 {-0.69/15 1.912s}
+11. Ngf3 {+0.24/13 0.313s} O-O {-0.74/16 1.912s} 12. Bc2 {+0.23/11 0.235s}
+Ne4 {-0.66/13 1.913s} 13. Nb3 {+0.08/11 0.274s} b5 {-0.06/15 1.899s}
+14. Nfd4 {+0.01/11 0.171s} Nxd4 {+0.72/15 1.918s} 15. Nxd4 {0.00/12 0.350s}
+b4 {+0.69/16 1.905s} 16. Nc6 {-0.42/10 0.173s} Qc7 {+1.67/15 1.900s}
+17. Nxe7+ {-0.61/11 0.203s} Qxe7 {+1.56/16 1.916s} 18. Bxe4 {-0.57/15 0.241s}
+dxe4 {+1.56/15 1.912s} 19. Qd6 {-0.38/13 1.173s} Qxd6 {+1.06/16 1.964s}
+20. exd6 {-0.35/13 1.199s} bxc3 {+0.98/18 1.902s} 21. bxc3 {-0.35/13 2.359s}
+Rd8 {+0.74/17 1.903s} 22. Kf2 {-0.35/11 0.656s} Ba6 {+0.67/15 1.920s}
+23. Bc5 {-0.45/12 1.135s} Rac8 {+1.14/15 1.967s} 24. Bb4 {-0.49/12 1.197s}
+Bd3 {+1.19/15 1.927s} 25. h4 {-0.52/14 0.384s} Kf7 {+1.51/14 1.901s}
+26. a4 {-0.63/13 0.809s} e5 {+1.38/16 1.912s} 27. g3 {-0.53/12 0.702s}
+exf4 {+1.80/16 1.920s} 28. gxf4 {-1.22/14 0.526s} a5 {+1.14/16 1.901s}
+29. Bxa5 {-1.06/13 0.349s} Rxd6 {+1.63/16 1.908s} 30. Bb4 {-0.98/14 0.325s}
+e3+ {+1.47/15 1.914s} 31. Kxe3 {-1.02/17 0.347s} Re8+ {+1.47/18 1.903s}
+32. Kf2 {-1.16/13 0.196s} Re2+ {+1.48/16 1.915s} 33. Kf3 {-1.12/13 0.334s}
+Rde6 {+1.85/17 1.913s} 34. Bc5 {-1.09/15 0.662s} Rc2 {+1.84/17 1.903s}
+35. Rhc1 {-0.98/13 0.168s} Be4+ {+2.07/16 1.911s} 36. Ke3 {-0.73/16 0.249s}
+Rh2 {+1.76/17 1.905s} 37. Bd4 {-0.71/14 0.195s} Rxh4 {+2.04/18 1.905s}
+38. Rg1 {-0.63/16 0.226s} Rh3+ {+1.99/17 1.905s} 39. Kd2 {-0.64/15 0.288s}
+g6 {+2.02/19 1.899s} 40. a5 {-0.66/14 0.189s} Ra6 {+1.89/19 1.903s}
+41. Ra4 {-0.58/12 0.243s} h5 {+2.39/14 1.902s} 42. Bb6 {-0.43/12 0.221s}
+Rd3+ {+1.12/15 1.904s} 43. Ke2 {-0.40/12 0.310s} h4 {+1.53/16 1.957s}
+44. Rc4 {-0.46/12 0.257s} Rd7 {+1.76/17 1.904s} 45. Rc8 {-0.64/12 0.641s}
+Ra8 {+1.69/16 1.906s} 46. Rxa8 {-0.53/14 0.269s} Bxa8 {+2.32/16 1.932s}
+47. Re1 {-0.58/13 0.836s} h3 {+2.14/15 1.906s} 48. Bg1 {-0.41/13 0.905s}
+Rc7 {+2.36/17 1.902s} 49. Kf2 {-0.53/15 0.775s} Rxc3 {+2.69/17 1.928s}
+50. Re3 {-0.74/14 0.346s} Rc4 {+2.94/16 1.903s} 51. Bh2 {-0.39/12 0.122s}
+Bg2 {+3.34/18 1.918s} 52. Ra3 {-1.27/10 0.259s} Rc2+ {+4.96/18 1.903s}
+53. Ke1 {-1.53/11 0.242s} Rc1+ {+5.58/19 1.901s} 54. Kf2 {-1.27/14 0.699s}
+Rh1 {+5.27/21 1.902s} 55. Kg3 {-1.13/12 0.136s} g5 {+5.27/20 1.901s}
+56. fxg5 {-2.02/12 0.184s} Kg6 {+6.03/21 1.900s} 57. Kh4 {-2.65/14 0.194s}
+Rxh2 {+6.76/21 1.902s} 58. a6 {-2.71/16 0.162s} Rh1 {+7.33/20 1.912s}
+59. a7 {-2.89/12 0.404s} Ba8 {+7.81/18 1.899s} 60. Ra6+ {-2.90/11 0.227s}
+Kg7 {+7.58/19 1.912s} 61. Rf6 {-3.20/15 0.287s} h2 {+8.56/21 1.900s}
+62. Kg3 {-3.06/13 0.168s} Ra1 {+8.89/22 1.901s} 63. Kxh2 {-3.26/13 0.127s}
+Be4 {+9.80/25 1.901s} 64. Kg3 {-3.25/11 0.117s} Rxa7 {+9.74/20 1.909s}
+65. Rd6 {-3.56/11 0.264s} Ra1 {+10.49/25 1.903s} 66. Kh4 {-3.56/14 0.132s}
+Rh1+ {+10.75/22 1.902s} 67. Kg3 {-3.71/15 0.092s} Rf1 {+10.97/25 1.899s}
+68. Re6 {-3.91/13 0.189s} Rf3+ {+11.95/20 1.901s} 69. Kg2 {-3.88/16 0.196s}
+Rf4+ {+12.38/20 1.902s} 70. Kg3 {-4.02/13 0.106s} Rg4+ {+12.82/19 1.900s}
+71. Kf2 {-4.07/15 0.084s} Rxg5 {+12.93/21 1.899s} 72. Ke3 {-4.30/12 0.107s}
+Rg4 {+12.80/20 1.900s} 73. Rb6 {-4.13/12 0.188s} Rg6 {+13.20/20 1.907s}
+74. Rb5 {-4.31/13 0.176s} Kf6 {+13.74/16 1.901s} 75. Rb6+ {-4.53/14 0.238s}
+Ke5 {+13.76/19 1.901s} 76. Rb5+ {-4.77/15 0.348s} Bd5 {+14.57/19 1.905s}
+77. Kd3 {-4.96/14 0.206s} Rg3+ {+14.97/19 1.903s} 78. Ke2 {-5.13/14 0.338s}
+Rg2+ {+15.15/20 1.908s} 79. Kd3 {-5.28/14 0.737s} f4 {+16.89/15 1.900s}
+80. Kc3 {-5.52/14 0.254s} f3 {+18.88/15 1.937s} 81. Rb1 {-5.61/15 0.696s}
+Be4 {+21.57/15 1.903s} 82. Rf1 {-5.90/15 0.377s} Rc2+ {+23.43/15 1.906s}
+83. Kb3 {-6.02/15 0.798s} f2 {+25.05/17 1.908s} 84. Kb4 {-6.11/15 0.819s}
+Bg2 {+25.79/15 1.902s} 85. Rd1 {-6.15/15 1.404s} f1=Q {+26.69/14 1.910s}
+86. Rxf1 {-7.11/13 1.487s} Bxf1 {+M21/16 0.433s} 87. Ka3 {-6.72/14 0.543s}
+Rf2 {+M29/10 0.030s} 88. Kb3 {-6.31/15 0.467s} Kd4 {+M27/8 0.009s}
+89. Ka4 {-6.49/15 0.260s} Kc4 {+M5/6 0.004s} 90. Ka5 {-M4/245 0.017s}
+Rf6 {+M3/6 0.009s} 91. Ka4 {-M2/245 0.005s} Ra6# {+M1/6 0.003s, Black mates} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "21"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:07"]
+[GameStartTime "2026-07-30T22:54:52 +0200"]
+[GameEndTime "2026-07-30T22:55:00 +0200"]
+[PlyCount "21"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+
+1. Nf3 {book} d5 {book} 2. g3 {book} c6 {book} 3. Bg2 {book} Bg4 {book}
+4. b3 {book} Nd7 {book} 5. Bb2 {book} e6 {book} 6. O-O {book} Ngf6 {book}
+7. d3 {book} Bb4 {book} 8. a3 {book} Ba5 {book} 9. Nbd2 {+0.69/13 1.908s}
+Bc7 {-0.27/12 1.633s} 10. e4 {+0.70/15 1.915s} O-O {-0.32/9 0.394s}
+11. Re1 {+0.70/13 2.071s, White loses on time (71ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "20"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:00:17"]
+[GameStartTime "2026-07-30T22:54:43 +0200"]
+[GameEndTime "2026-07-30T22:55:01 +0200"]
+[PlyCount "31"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A46"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1. d4 {book} Nf6 {book} 2. Nf3 {book} c5 {book} 3. c3 {book} d5 {book}
+4. Bf4 {book} e6 {book} 5. e3 {book} Bd6 {book} 6. Bb5+ {book} Nc6 {book}
+7. Qa4 {book} Bxf4 {book} 8. exf4 {book} Qb6 {book} 9. dxc5 {+0.20/11 0.954s}
+Qxc5 {+0.16/13 1.987s} 10. Nbd2 {0.00/10 0.741s} O-O {0.00/16 1.904s}
+11. O-O {-0.03/11 0.380s} Qb6 {0.00/19 1.915s} 12. Qb3 {0.00/14 0.506s}
+Na5 {0.00/21 1.901s} 13. Qb4 {+0.01/16 0.706s} Nc6 {0.00/21 1.916s}
+14. Qb3 {0.00/15 0.172s} Na5 {0.00/24 1.906s} 15. Qa4 {0.00/20 0.330s}
+Nc6 {0.00/22 1.901s} 16. Qb3 {0.00/24 0.218s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "18"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "0-1"]
+[GameDuration "00:02:09"]
+[GameStartTime "2026-07-30T22:53:29 +0200"]
+[GameEndTime "2026-07-30T22:55:39 +0200"]
+[PlyCount "129"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. Nc3 {book} Nf6 {book}
+4. e3 {book} a6 {book} 5. Bd2 {book} e6 {book} 6. Nf3 {book} Nbd7 {book}
+7. Qc2 {book} Be7 {book} 8. Be2 {book} dxc4 {book} 9. Bxc4 {-0.19/10 0.104s}
+b5 {+0.12/16 1.902s} 10. Be2 {-0.13/11 0.106s} Bb7 {+0.19/17 1.904s}
+11. Ne4 {-0.09/12 0.145s} Nxe4 {+0.18/17 1.903s} 12. Qxe4 {-0.08/13 0.210s}
+Qb6 {+0.24/15 1.913s} 13. Rc1 {-0.01/11 0.331s} c5 {+0.45/17 1.908s}
+14. Qg4 {+0.02/11 0.151s} Bf6 {+0.43/17 1.902s} 15. dxc5 {-0.13/11 0.145s}
+Nxc5 {0.00/16 1.916s} 16. Bc3 {-0.30/12 0.192s} Bxc3+ {+0.34/17 1.900s}
+17. Rxc3 {-0.15/13 0.196s} O-O {+0.15/19 1.910s} 18. Qb4 {-0.12/11 0.190s}
+Bxf3 {+0.37/19 1.906s} 19. Bxf3 {+0.11/11 0.309s} Rac8 {+0.69/18 1.899s}
+20. O-O {-0.40/12 0.274s} a5 {+0.60/19 1.911s} 21. Qd4 {-0.22/14 0.171s}
+Rfd8 {+0.66/20 1.903s} 22. Rfc1 {+0.30/11 0.114s} Rxd4 {+1.70/20 1.904s}
+23. exd4 {+0.50/12 0.082s} e5 {+1.83/18 1.911s} 24. dxc5 {+0.14/10 0.246s}
+Qe6 {+2.13/18 1.907s} 25. c6 {+0.11/9 0.158s} e4 {+2.16/18 1.904s}
+26. Be2 {-0.47/11 0.143s} b4 {+1.96/19 1.901s} 27. R3c2 {-0.61/9 0.153s}
+Rc7 {+2.20/20 1.902s} 28. Bc4 {-0.60/14 0.183s} Qf6 {+2.56/18 1.901s}
+29. Bb5 {-0.67/10 0.140s} Qd4 {+2.35/21 1.902s} 30. Be2 {-0.90/12 0.160s}
+g6 {+2.33/16 1.906s} 31. g3 {-0.98/13 0.293s} h5 {+2.67/16 1.905s}
+32. h4 {-0.88/12 0.210s} a4 {+2.67/18 1.900s} 33. b3 {-0.92/12 0.563s}
+axb3 {+2.33/18 1.907s} 34. axb3 {-0.95/13 0.228s} Kg7 {+2.63/19 1.901s}
+35. Kf1 {-1.22/9 0.274s} e3 {+4.67/15 1.902s} 36. f3 {-1.33/12 0.432s}
+Qd5 {+7.00/17 1.904s} 37. Rc4 {-2.21/10 0.257s} Qe5 {+6.49/15 1.912s}
+38. Kg2 {-3.19/14 0.325s} Qb2 {+8.01/19 1.902s} 39. R4c2 {-3.31/16 0.100s}
+Qxb3 {+7.68/20 1.901s} 40. Kh2 {-3.42/15 0.904s} Qa4 {+8.59/19 1.914s}
+41. Kg2 {-3.71/18 0.597s} b3 {+10.20/19 1.903s} 42. Rb2 {-3.83/16 1.260s}
+Qd4 {+9.62/19 1.957s} 43. Rcb1 {-3.89/15 1.301s} Rxc6 {+9.65/20 1.919s}
+44. Rxb3 {-4.23/14 3.230s} Rc2 {+9.78/23 1.904s} 45. Re1 {-4.75/15 1.363s}
+Qd2 {+9.86/22 1.908s} 46. Kf1 {-4.53/12 0.566s} Qd6 {+9.77/18 1.917s}
+47. Rxe3 {-4.63/14 0.357s} Qxg3 {+12.58/15 1.906s} 48. Re4 {-5.11/16 1.175s}
+Qh3+ {+12.73/15 1.958s} 49. Kg1 {-5.24/17 0.506s} f5 {+13.64/16 1.906s}
+50. Ra4 {-5.19/16 0.345s} Qg3+ {+13.45/15 1.907s} 51. Kf1 {-5.45/17 0.347s}
+Qh2 {+14.47/17 1.900s} 52. Rd4 {-5.54/15 0.347s} f4 {+17.50/14 1.913s}
+53. Rc4 {-5.43/16 0.306s} Qh1+ {+19.23/18 1.901s} 54. Kf2 {-5.96/14 0.390s}
+Qxh4+ {+19.71/17 1.907s} 55. Kf1 {-5.97/16 0.851s} Qh3+ {+20.25/20 1.905s}
+56. Kg1 {-5.59/15 0.246s} Qg3+ {+23.11/20 1.904s} 57. Kf1 {-5.63/13 0.465s}
+Rxc4 {+23.93/21 1.903s} 58. Bxc4 {-5.39/14 0.413s} Qxf3+ {+24.87/20 1.908s}
+59. Kg1 {-5.96/12 0.152s} Qg3+ {+25.68/20 1.909s} 60. Kf1 {-6.23/11 0.188s}
+f3 {+27.06/20 1.903s} 61. Re2 {-6.61/15 0.167s} fxe2+ {+34.06/17 1.903s}
+62. Bxe2 {-7.80/16 0.167s} Kh6 {+43.37/19 1.902s} 63. Ba6 {-7.19/16 0.113s}
+Qf4+ {+57.79/20 1.902s} 64. Kg2 {-7.29/15 0.190s} Qe4+ {+59.33/19 1.901s}
+65. Kf2 {-7.97/16 0.110s, Black wins by adjudication} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "18"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:02:18"]
+[GameStartTime "2026-07-30T22:53:26 +0200"]
+[GameEndTime "2026-07-30T22:55:45 +0200"]
+[PlyCount "144"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. Nc3 {book} Nf6 {book}
+4. e3 {book} a6 {book} 5. Bd2 {book} e6 {book} 6. Nf3 {book} Nbd7 {book}
+7. Qc2 {book} Be7 {book} 8. Be2 {book} dxc4 {book} 9. a4 {-0.05/16 1.908s}
+b6 {+0.22/14 0.494s} 10. e4 {+0.09/16 1.902s} Bb7 {+0.23/12 0.135s}
+11. e5 {+0.23/18 1.906s} Nd5 {-0.02/15 0.276s} 12. Bxc4 {+0.23/17 1.904s}
+Nb4 {-0.04/11 0.269s} 13. Qe4 {+0.67/16 1.939s} b5 {-0.16/11 0.561s}
+14. Bb3 {+0.67/14 1.905s} Qb6 {-0.39/9 0.183s} 15. O-O {+0.04/14 1.906s}
+c5 {-0.62/12 0.216s} 16. dxc5 {+0.58/15 1.902s} Bxc5 {-0.43/15 0.225s}
+17. Qe2 {-0.17/15 1.905s} O-O {-0.20/14 0.180s} 18. Ne4 {-0.22/15 1.903s}
+Rfd8 {-0.30/11 0.417s} 19. axb5 {-0.19/14 1.902s} Qxb5 {+0.17/12 0.215s}
+20. Bc4 {+0.26/12 1.922s} Qb6 {-0.01/13 0.277s} 21. Bc3 {-0.32/14 1.905s}
+h6 {+0.19/13 0.246s} 22. Rfd1 {-0.37/15 1.903s} Bxe4 {+0.18/10 0.124s}
+23. Qxe4 {0.00/17 1.902s} Nf8 {+0.04/11 0.194s} 24. Be1 {+0.17/16 1.899s}
+Rxd1 {-0.07/12 0.182s} 25. Rxd1 {+0.16/18 1.907s} Rd8 {-0.05/12 0.172s}
+26. Rxd8 {+0.92/17 1.905s} Qxd8 {-0.08/15 0.283s} 27. Bxb4 {+0.72/20 1.900s}
+Bxb4 {0.00/13 0.213s} 28. Bxa6 {+0.75/20 1.900s} Bc5 {-0.04/11 0.174s}
+29. Qe2 {+0.92/18 1.905s} Qb6 {-0.07/10 0.166s} 30. Bd3 {+0.85/21 1.904s}
+g5 {-0.16/10 0.164s} 31. g3 {+0.84/19 1.914s} Nd7 {-0.10/12 0.399s}
+32. h3 {+0.73/18 1.901s} Qb4 {-0.17/12 0.219s} 33. Bb5 {+0.64/15 1.907s}
+Nb6 {-0.14/11 0.468s} 34. Kg2 {+0.94/15 1.902s} Qb3 {-0.24/13 0.260s}
+35. Bd3 {+1.02/17 1.907s} Kf8 {-0.25/11 0.297s} 36. Be4 {+0.99/16 1.905s}
+Na4 {-0.12/11 0.265s} 37. Bc2 {+3.82/15 1.907s} Qb4 {-1.38/13 0.489s}
+38. Qd1 {+3.68/15 1.899s} Qxb2 {-1.83/14 0.255s} 39. Qd8+ {+3.35/16 1.910s}
+Kg7 {-1.39/12 0.257s} 40. Qf6+ {+3.20/17 1.939s} Kg8 {-0.89/14 1.067s}
+41. Nxg5 {+3.17/18 1.901s} hxg5 {-1.53/13 0.615s} 42. Qxg5+ {+3.04/17 1.904s}
+Kf8 {-1.47/14 0.804s} 43. Qh6+ {+3.21/16 1.902s} Ke7 {-1.04/12 1.269s}
+44. Qf6+ {+3.27/16 1.965s} Kf8 {-1.30/16 1.506s} 45. Bxa4 {+3.34/18 1.914s}
+Kg8 {-1.42/11 1.011s} 46. Bd1 {+3.45/19 1.918s} Qb7+ {-1.70/14 0.553s}
+47. Bf3 {+3.51/18 1.900s} Qe7 {-1.67/13 0.319s} 48. Qf4 {+4.03/17 1.908s}
+Qf8 {-2.11/12 0.421s} 49. Be4 {+4.40/14 1.913s} Ba3 {-2.44/13 0.573s}
+50. h4 {+4.77/13 1.975s} Bb2 {-1.71/14 0.771s} 51. Qg5+ {+3.65/16 1.909s}
+Qg7 {-1.65/10 0.401s} 52. Qd8+ {+3.26/17 1.900s} Qf8 {-1.92/14 0.399s}
+53. Qa5 {+3.53/16 1.911s} Qa3 {-1.84/12 0.773s} 54. Qxa3 {+3.37/16 1.912s}
+Bxa3 {-1.91/14 0.285s} 55. g4 {+3.57/23 1.909s} Bc1 {-2.26/9 0.275s}
+56. Kg3 {+3.62/26 1.904s} Bd2 {-2.78/12 0.805s} 57. g5 {+3.49/29 1.902s}
+Be1 {-2.55/12 0.139s} 58. h5 {+3.50/26 1.904s} Kf8 {-2.64/13 0.358s}
+59. Bb1 {+3.74/25 1.901s} Kg7 {-2.52/14 0.203s} 60. Kf3 {+4.03/20 1.900s}
+Kf8 {-2.66/12 0.165s} 61. Ke2 {+6.10/20 1.901s} Ba5 {-2.57/13 0.297s}
+62. f4 {+7.82/20 1.900s} Bc3 {-2.63/14 0.108s} 63. h6 {+9.15/21 1.913s}
+Bb2 {-2.75/12 0.133s} 64. Bc2 {+9.30/31 1.900s} Bc3 {-2.75/12 0.132s}
+65. Ba4 {+9.27/31 1.902s} Bd4 {-3.10/13 0.247s} 66. Kf3 {+9.24/29 1.900s}
+Ba1 {-3.26/13 0.263s} 67. Be8 {+13.43/21 1.902s} f6 {-4.41/14 0.217s}
+68. gxf6 {+75.59/21 1.902s} Kg8 {-4.90/15 0.621s} 69. f7+ {+M23/14 0.368s}
+Kf8 {-M14/27 0.233s} 70. h7 {+M21/13 0.088s} Bxe5 {-M12/28 0.074s}
+71. fxe5 {+M17/10 0.012s} Ke7 {-M10/29 0.027s} 72. h8=R {+M11/6 0.001s}
+Kd8 {-M8/33 0.017s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "19"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:02:35"]
+[GameStartTime "2026-07-30T22:53:54 +0200"]
+[GameEndTime "2026-07-30T22:56:30 +0200"]
+[PlyCount "156"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B89"]
+[Opening "Sicilian Defense: Sozin Attack, Main Line"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} Nc6 {book} 3. d4 {book} cxd4 {book}
+4. Nxd4 {book} Nf6 {book} 5. Nc3 {book} d6 {book} 6. Bc4 {book} e6 {book}
+7. Be3 {book} Be7 {book} 8. Bb3 {book} Bd7 {book} 9. Qe2 {+1.18/14 1.900s}
+Rc8 {-0.39/11 0.338s} 10. O-O-O {+1.03/15 1.899s} Na5 {-0.53/12 0.179s}
+11. f3 {+1.42/16 1.913s} a6 {-0.66/13 0.181s} 12. Kb1 {+1.11/15 1.901s}
+h5 {-0.48/11 0.194s} 13. a3 {+1.00/15 1.904s} O-O {-0.45/14 0.186s}
+14. Rhg1 {+0.81/15 1.902s} Rxc3 {-0.41/12 0.234s} 15. bxc3 {+0.47/14 1.902s}
+Qc7 {-0.34/13 0.201s} 16. Bd2 {+1.06/14 1.906s} Rc8 {+0.61/9 0.178s}
+17. g4 {+1.63/16 1.904s} hxg4 {-0.70/8 0.107s} 18. fxg4 {+1.20/16 1.906s}
+Bc6 {-0.60/12 0.236s} 19. Nxe6 {+2.64/15 1.900s} Qb6 {-0.33/11 0.267s}
+20. Be3 {+3.03/15 1.943s} Qb5 {-1.55/14 0.517s} 21. Qxb5 {+2.72/16 1.909s}
+axb5 {-1.60/12 0.268s} 22. Ng5 {+2.23/16 1.910s} Nc4 {-1.74/15 0.359s}
+23. Bd4 {+2.70/16 1.911s} Nxa3+ {-1.56/14 0.411s} 24. Kb2 {+2.64/17 1.906s}
+Nc4+ {-1.61/13 0.302s} 25. Bxc4 {+3.06/16 1.901s} bxc4 {-1.67/15 0.247s}
+26. Rde1 {+2.86/17 1.902s} Ra8 {-1.68/13 0.360s} 27. Rgf1 {+2.83/15 1.982s}
+Ra5 {-1.22/11 0.977s} 28. Rf5 {+3.44/12 1.904s} d5 {-1.58/13 0.507s}
+29. exd5 {+4.40/11 1.910s} Nxd5 {-1.72/11 0.962s} 30. Nxf7 {+2.38/11 1.909s}
+Bd7 {-1.44/13 1.020s} 31. Rff1 {+4.51/12 1.912s} Ba3+ {-1.31/13 1.884s}
+32. Kb1 {+4.65/13 1.899s} Rb5+ {-1.56/12 1.022s} 33. Ka2 {+4.74/15 1.911s}
+Ra5 {-1.22/9 0.859s} 34. Ne5 {+2.41/14 1.906s} Be6 {-1.69/12 0.283s}
+35. Nc6 {+2.80/15 1.915s} bxc6 {-1.09/13 0.554s} 36. Rxe6 {+3.09/16 1.900s}
+Be7+ {-0.96/12 0.633s} 37. Kb1 {+3.56/15 1.911s} Rb5+ {-0.36/14 0.490s}
+38. Kc1 {+2.77/17 1.902s} Bg5+ {-0.40/13 0.431s} 39. Kd1 {+3.04/18 1.906s}
+c5 {-1.31/15 0.357s} 40. Re8+ {+3.24/16 1.919s} Kh7 {-1.80/12 0.718s}
+41. Bg1 {+2.56/19 1.904s} Rb1+ {-1.56/11 0.578s} 42. Ke2 {+2.51/19 1.905s}
+Nf4+ {-1.58/16 1.102s} 43. Rxf4 {+3.92/18 1.912s} Bxf4 {-1.56/13 0.271s}
+44. Bxc5 {+3.41/19 1.914s} Rh1 {-1.55/11 0.407s} 45. Kf3 {+4.17/18 1.906s}
+Bd2 {-1.62/15 0.363s} 46. Bd4 {+3.83/19 1.906s} Rxh2 {-1.71/16 0.215s}
+47. Kg3 {+2.93/18 1.902s} Rh1 {-1.53/15 0.219s} 48. Re2 {+2.79/17 1.903s}
+Bg5 {-0.82/12 0.224s} 49. Kf3 {+3.08/17 1.902s} Rf1+ {-1.29/12 0.264s}
+50. Ke4 {+3.19/17 1.905s} Rf4+ {-1.45/12 0.674s} 51. Kd5 {+3.32/17 1.902s}
+Rxg4 {-1.57/15 0.637s} 52. Kxc4 {+3.82/16 1.901s} Bc1 {-1.19/14 0.367s}
+53. Re1 {+2.80/15 1.900s} Bf4 {-0.97/13 0.266s} 54. Kd3 {+3.33/16 1.901s}
+Rg3+ {-1.17/13 0.271s} 55. Ke4 {+3.37/17 1.901s} Bd2 {-1.18/13 0.234s}
+56. Re2 {+4.79/16 1.902s} Rg4+ {-2.53/16 0.593s} 57. Kd5 {+5.14/17 1.903s}
+Rg5+ {-2.42/16 0.218s} 58. Ke6 {+5.02/17 1.901s} Rg6+ {-2.42/13 0.178s}
+59. Kf7 {+5.71/19 1.905s} Bf4 {-2.60/14 0.128s} 60. Re4 {+6.14/18 1.901s}
+Bg5 {-2.79/13 0.138s} 61. Rg4 {+13.83/21 1.899s} Kh6 {-3.76/14 0.126s}
+62. Rg1 {+14.29/24 1.899s} Kh7 {-4.11/12 0.147s} 63. Rg3 {+17.75/20 1.900s}
+Rc6 {-5.36/16 0.105s} 64. Rxg5 {+19.05/19 1.901s} Rc7+ {-5.57/15 0.075s}
+65. Ke6 {+22.43/19 1.901s} g6 {-5.57/15 0.070s} 66. Rg4 {+22.88/18 1.901s}
+Rc6+ {-5.81/17 0.106s} 67. Kd5 {+24.22/17 1.905s} Ra6 {-6.00/16 0.387s}
+68. c4 {+23.91/16 1.902s} Kh6 {-5.74/17 0.348s} 69. c5 {+24.95/16 1.905s}
+Kh5 {-5.86/15 0.963s} 70. Re4 {+27.18/16 1.908s} g5 {-5.93/14 0.593s}
+71. c6 {+28.44/19 1.903s} Ra8 {-5.99/15 0.441s} 72. c7 {+28.78/18 1.903s}
+g4 {-5.84/15 0.302s} 73. Be5 {+29.58/17 1.903s} Ra5+ {-6.53/14 0.338s}
+74. Kc6 {+43.71/18 1.923s} Ra6+ {-6.57/14 0.425s} 75. Kb7 {+M17/14 1.658s}
+Ra3 {-9.27/14 0.406s} 76. c8=Q {+M13/8 0.054s} Rg3 {-M8/24 0.083s}
+77. Qf5+ {+M11/6 0.007s} Kh4 {-M6/36 0.049s} 78. Bxg3+ {+M9/6 0.007s}
+Kh3 {-M6/36 0.013s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "22"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:02:00"]
+[GameStartTime "2026-07-30T22:55:01 +0200"]
+[GameEndTime "2026-07-30T22:57:02 +0200"]
+[PlyCount "126"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1. e4 {book} c5 {book} 2. Nc3 {book} e6 {book} 3. Nf3 {book} Nc6 {book}
+4. d4 {book} cxd4 {book} 5. Nxd4 {book} Nf6 {book} 6. g3 {book} Bb4 {book}
+7. Bg2 {book} d5 {book} 8. exd5 {book} Nxd5 {book} 9. O-O {+1.60/13 1.902s}
+Bxc3 {-0.74/13 0.248s} 10. Nxc6 {+2.55/16 1.909s} bxc6 {-1.00/10 0.276s}
+11. bxc3 {+3.02/15 1.901s} Qf6 {-1.21/11 0.330s} 12. Ba3 {+3.82/12 1.934s}
+Qxc3 {-1.26/11 0.749s} 13. Qc1 {+3.34/15 1.907s} Rb8 {-1.48/13 0.357s}
+14. Rd1 {+3.38/14 1.901s} f6 {-1.43/14 0.579s} 15. Rd3 {+2.58/14 1.900s}
+Qa5 {-1.25/12 0.781s} 16. Bd6 {+2.92/15 1.903s} Rb7 {-1.20/11 0.492s}
+17. Rb3 {+2.50/13 1.906s} Kf7 {-0.99/11 0.263s} 18. c4 {+3.08/15 1.900s}
+Ne7 {-1.12/11 0.176s} 19. c5 {+2.46/13 1.903s} h6 {-1.15/10 0.213s}
+20. Rab1 {+2.08/13 1.904s} Rxb3 {-0.90/11 0.255s} 21. Rxb3 {+2.73/15 1.900s}
+a6 {-0.88/10 0.173s} 22. Bxe7 {+2.24/16 1.899s} Kxe7 {-0.64/13 0.356s}
+23. Bxc6 {+2.43/17 1.915s} Qxa2 {-0.73/11 0.519s} 24. Rb8 {+2.50/18 1.900s}
+Qe2 {-0.67/11 0.124s} 25. Kg2 {+2.59/17 1.912s} Qe5 {-0.99/13 0.274s}
+26. Ra8 {+2.61/17 1.901s} Qc7 {-0.99/13 0.176s} 27. Bf3 {+2.54/17 1.907s}
+e5 {-1.65/11 0.210s} 28. Kg1 {+2.73/17 1.904s} Rd8 {-1.49/13 0.240s}
+29. c6 {+3.55/15 1.902s} Qb6 {-1.63/13 0.170s} 30. c7 {+3.55/16 1.900s}
+Rf8 {-1.70/12 0.101s} 31. Rb8 {+3.55/15 1.901s} Qd6 {-1.52/15 0.187s}
+32. Qc3 {+3.19/15 1.901s} f5 {-1.53/12 0.128s} 33. Rb1 {+6.00/16 1.901s}
+Kf7 {-1.91/14 0.095s} 34. Rd1 {+5.75/19 1.903s} Qe7 {-1.85/15 0.101s}
+35. Bb7 {+6.13/15 1.902s} Kg6 {-2.55/12 0.109s} 36. Bxc8 {+9.04/16 1.902s}
+Rxc8 {-2.44/13 0.230s} 37. Qc6+ {+8.46/15 1.901s} Kh7 {-2.90/15 0.098s}
+38. Rd7 {+10.12/18 1.903s} Qf8 {-3.18/13 0.200s} 39. Qb6 {+12.25/16 1.904s}
+Qa3 {-2.59/11 0.242s} 40. Qf6 {+13.91/17 1.904s} Qc1+ {-6.12/15 0.264s}
+41. Kg2 {+14.52/19 1.912s} Rg8 {-5.90/12 0.220s} 42. Rxg7+ {+15.03/20 1.922s}
+Rxg7 {-6.03/12 0.314s} 43. Qxf5+ {+15.12/21 1.910s} Rg6 {-5.95/13 0.491s}
+44. c8=Q {+15.04/22 1.903s} Qxc8 {-6.00/13 0.329s} 45. Qxc8 {+15.02/19 1.905s}
+a5 {-5.85/14 0.221s} 46. Qc7+ {+16.80/14 1.902s} Kg8 {-5.84/15 0.271s}
+47. Qxa5 {+17.75/18 1.905s} Rg5 {-5.84/14 0.212s} 48. Qb6 {+19.69/19 1.901s}
+Kg7 {-6.17/14 0.390s} 49. Qe6 {+22.04/19 1.901s} Kh7 {-5.96/15 0.386s}
+50. Qf7+ {+22.19/22 1.903s} Kh8 {-6.34/15 0.142s} 51. Kh3 {+22.73/22 1.900s}
+e4 {-6.46/16 0.171s} 52. Qf8+ {+23.99/20 1.903s} Kh7 {-6.37/14 0.176s}
+53. Qe7+ {+24.33/18 1.899s} Kh8 {-6.25/14 0.159s} 54. Qxe4 {+29.85/20 1.903s}
+Rh5+ {-6.30/14 0.156s} 55. Kg2 {+32.67/22 1.900s} Rg5 {-6.47/15 0.140s}
+56. f4 {+33.88/23 1.901s} Rg4 {-6.52/14 0.182s} 57. Qe5+ {+34.90/19 1.902s}
+Rg7 {-6.65/15 0.314s} 58. Kh3 {+38.74/20 1.906s} Kh7 {-6.66/15 0.627s}
+59. Kh4 {+42.52/22 1.901s} Ra7 {-6.89/15 0.229s} 60. Kh5 {+43.39/20 1.900s}
+Rf7 {-7.36/15 0.457s} 61. Qe4+ {+44.34/15 1.900s} Kg8 {-7.87/14 0.427s}
+62. Kg6 {+83.24/13 1.935s} Rg7+ {-10.17/15 0.653s} 63. Kxh6 {+89.44/15 1.907s}
+Kf8 {-10.32/14 0.232s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "21"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "0-1"]
+[GameDuration "00:02:01"]
+[GameStartTime "2026-07-30T22:55:00 +0200"]
+[GameEndTime "2026-07-30T22:57:03 +0200"]
+[PlyCount "126"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+
+1. Nf3 {book} d5 {book} 2. g3 {book} c6 {book} 3. Bg2 {book} Bg4 {book}
+4. b3 {book} Nd7 {book} 5. Bb2 {book} e6 {book} 6. O-O {book} Ngf6 {book}
+7. d3 {book} Bb4 {book} 8. a3 {book} Ba5 {book} 9. h3 {+0.31/13 0.468s}
+Bh5 {-0.52/13 1.908s} 10. b4 {+0.26/14 0.369s} Bc7 {-0.54/16 1.906s}
+11. Nbd2 {+0.27/15 0.332s} O-O {-0.53/14 1.900s} 12. c4 {+0.34/12 0.248s}
+a5 {-0.64/13 1.900s} 13. Qc2 {+0.43/12 0.432s} h6 {-0.56/13 1.914s}
+14. e4 {+0.42/10 0.316s} Bg6 {-0.34/11 1.968s} 15. Rfe1 {+0.41/13 0.371s}
+axb4 {-0.93/13 1.904s} 16. axb4 {+0.46/15 0.528s} Rxa1 {-0.91/15 1.902s}
+17. Bxa1 {+0.48/14 0.162s} Re8 {-0.92/14 1.902s} 18. e5 {+0.67/10 0.259s}
+Nh7 {-0.94/15 1.904s} 19. Bd4 {+0.32/11 0.270s} f6 {-0.50/14 1.901s}
+20. exf6 {+0.08/9 0.263s} Nhxf6 {0.00/15 1.905s} 21. Nh4 {+0.05/10 0.299s}
+Bf7 {0.00/16 1.917s} 22. Bc3 {+0.02/9 0.230s} e5 {0.00/18 1.905s}
+23. Kh2 {-0.11/9 0.185s} b5 {+0.60/13 1.901s} 24. cxb5 {+0.03/9 0.162s}
+cxb5 {+0.17/14 1.900s} 25. Ndf3 {-0.23/11 0.426s} Bb8 {+0.48/14 1.909s}
+26. Kg1 {-0.41/12 0.215s} Qc7 {+0.88/16 1.904s} 27. Rc1 {-0.15/10 0.166s}
+Be6 {+0.87/18 1.905s} 28. Ne1 {-0.13/8 0.112s} Qb6 {+0.92/13 1.907s}
+29. Ra1 {-0.45/9 0.160s} Nh5 {+1.08/14 1.901s} 30. Kh2 {-1.03/11 0.544s}
+Rc8 {+2.41/16 1.901s} 31. Bd4 {-0.99/11 0.152s} Rxc2 {+2.19/18 1.904s}
+32. Bxb6 {-0.80/11 0.237s} Rb2 {+2.32/19 1.901s} 33. Ba7 {-1.02/12 0.250s}
+Bxa7 {+2.24/20 1.900s} 34. Rxa7 {-1.16/13 0.109s} Kf7 {+2.13/21 1.901s}
+35. Bxd5 {-1.21/14 0.116s} Bxd5 {+2.05/21 1.899s} 36. Rxd7+ {-1.07/15 0.129s}
+Ke6 {+2.21/22 1.902s} 37. Ra7 {-1.14/14 0.187s} Rxf2+ {+2.25/16 1.903s}
+38. Kg1 {-1.05/16 0.163s} Re2 {+1.66/15 1.905s} 39. Nhg2 {-1.07/13 0.147s}
+Kd6 {+2.14/18 1.900s} 40. Ra6+ {-0.91/12 0.246s} Kc7 {+2.24/17 1.903s}
+41. g4 {-1.04/12 0.682s} Nf4 {+2.15/17 1.904s} 42. Nxf4 {-0.95/14 0.385s}
+exf4 {+2.80/16 1.916s} 43. Kf1 {-0.88/18 1.400s} Rb2 {+3.13/15 1.904s}
+44. Rg6 {-0.86/15 1.705s} Rxb4 {+2.56/15 1.903s} 45. Rxg7+ {-0.75/11 0.722s}
+Kd6 {+3.12/14 1.900s} 46. Rg6+ {-1.00/10 0.429s} Kc5 {+3.17/18 1.900s}
+47. Rxh6 {-1.22/12 0.732s} Ra4 {+3.00/18 1.905s} 48. Rh8 {-1.32/13 1.170s}
+b4 {+3.88/16 1.902s} 49. h4 {-1.30/12 0.302s} b3 {+4.04/14 1.900s}
+50. h5 {-1.54/11 0.204s} Bb7 {+5.23/14 1.901s} 51. Rb8 {-1.09/11 0.188s}
+Rb4 {+5.45/16 1.902s} 52. Re8 {-1.87/12 0.187s} b2 {+7.74/18 1.900s}
+53. h6 {-0.69/13 0.304s} Re4 {+8.07/17 1.904s} 54. Rxe4 {-2.59/11 0.232s}
+Bxe4 {+10.01/19 1.910s} 55. dxe4 {-3.33/13 0.334s} b1=Q {+10.67/17 1.900s}
+56. h7 {-3.41/15 0.313s} Qb5+ {+10.31/16 1.900s} 57. Kg1 {-3.32/15 0.433s}
+Qe8 {+11.17/19 1.902s} 58. Nf3 {-2.54/9 0.414s} Qh8 {+12.65/17 1.900s}
+59. Ng5 {-2.77/15 0.560s} Kc4 {+13.80/17 1.900s} 60. Kf2 {-3.66/11 0.370s}
+Qd4+ {+19.26/14 1.929s} 61. Kg2 {-4.26/13 0.758s} Qd2+ {+22.07/18 1.903s}
+62. Kh3 {-4.33/15 0.463s} Qf2 {+M3/6 0.006s} 63. h8=Q {-M2/245 0.005s}
+Qg3# {+M1/6 0.002s, Black mates} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "23"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:01:42"]
+[GameStartTime "2026-07-30T22:55:45 +0200"]
+[GameEndTime "2026-07-30T22:57:27 +0200"]
+[PlyCount "108"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Anti-Noteboom, Stonewall Variation, Portisch Gambit"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. e3 {book} e6 {book}
+4. Nc3 {book} f5 {book} 5. g4 {book} fxg4 {book} 6. Qxg4 {book} Nf6 {book}
+7. Qg2 {book} c5 {book} 8. cxd5 {book} exd5 {book} 9. Nf3 {+0.35/14 1.912s}
+Nc6 {-0.04/12 0.233s} 10. Bd2 {+0.44/14 1.904s} Bf5 {-0.09/9 0.138s}
+11. dxc5 {+0.92/15 1.900s} Qd7 {-0.08/11 0.153s} 12. Nd4 {+1.07/17 1.902s}
+Bg6 {-0.63/10 0.200s} 13. Qg3 {+1.29/16 1.903s} Bxc5 {-1.07/13 0.126s}
+14. Bh3 {+2.92/16 1.900s} Qe7 {-1.28/12 0.107s} 15. Ne6 {+2.39/17 1.906s}
+Bb6 {-1.23/11 0.097s} 16. O-O {+2.08/16 1.903s} Nd8 {-0.99/13 0.081s}
+17. Nf4 {+2.49/18 1.906s} Bf7 {-0.97/16 0.092s} 18. Bg2 {+2.23/19 1.900s}
+Bc7 {-0.68/12 0.085s} 19. Rae1 {+2.42/18 1.900s} Ne4 {-1.11/13 0.147s}
+20. Nxe4 {+2.51/16 1.911s} dxe4 {-1.20/11 0.149s} 21. Qxg7 {+2.64/16 1.901s}
+Be5 {-1.22/12 0.345s} 22. Qh6 {+2.83/15 1.901s} Ne6 {-1.41/11 0.312s}
+23. Rc1 {+2.98/15 1.926s} Rg8 {-0.94/11 0.319s} 24. Kh1 {+3.75/13 1.910s}
+Rg4 {-1.72/11 0.431s} 25. Qxh7 {+3.04/14 1.900s} Rd8 {-1.28/11 0.556s}
+26. Ba5 {+6.58/13 1.904s} b6 {-1.56/12 0.358s} 27. Bb4 {+6.01/13 1.901s}
+Nc5 {-2.56/11 0.314s} 28. Bxc5 {+6.48/15 1.902s} bxc5 {-2.80/14 0.430s}
+29. Rfd1 {+6.18/15 1.904s} Bd6 {-2.93/13 0.496s} 30. Qf5 {+7.08/15 1.903s}
+Rg5 {-3.16/14 0.383s} 31. Qxe4 {+7.04/15 1.906s} Qxe4 {-3.06/14 0.231s}
+32. Bxe4 {+7.19/15 1.908s} Bxa2 {-3.13/15 0.249s} 33. Ra1 {+7.06/15 1.906s}
+Bb3 {-3.21/15 0.296s} 34. Rxa7 {+8.22/15 1.902s} Kf8 {-4.01/14 0.273s}
+35. Rd2 {+9.47/17 1.900s} Bf7 {-3.80/15 0.119s} 36. h4 {+9.78/18 1.901s}
+Rg4 {-4.30/13 0.220s} 37. h5 {+10.94/16 1.902s} c4 {-4.33/15 0.350s}
+38. Bg6 {+13.27/17 1.903s} Bg8 {-4.57/16 0.258s} 39. Bf5 {+15.40/17 1.909s}
+Rg5 {-4.69/15 0.677s} 40. Rd4 {+16.81/18 1.901s} Bc7 {-5.40/15 0.287s}
+41. Ng6+ {+17.59/16 1.942s} Rxg6 {-5.67/15 0.970s} 42. Rxd8+ {+17.56/15 1.951s}
+Bxd8 {-5.52/15 0.732s} 43. Bxg6 {+17.92/15 1.949s} Bd5+ {-5.42/13 0.366s}
+44. e4 {+21.59/16 1.904s} Be6 {-5.54/15 0.286s} 45. Ra8 {+27.40/17 1.906s}
+Ke7 {-5.89/15 0.428s} 46. h6 {+29.30/18 1.901s} Bb6 {-6.25/14 0.306s}
+47. h7 {+34.24/19 1.906s} Bd4 {-6.42/15 0.227s} 48. Re8+ {+35.81/18 1.902s}
+Kd6 {-6.57/15 0.242s} 49. Rd8+ {+36.97/16 1.902s} Bd7 {-6.63/15 0.347s}
+50. Bf5 {+39.71/18 1.905s} Bxb2 {-6.74/15 0.318s} 51. Rxd7+ {+39.15/15 1.903s}
+Kc5 {-7.07/14 0.262s} 52. Kg2 {+44.58/17 1.907s} Kc6 {-7.40/16 0.323s}
+53. Kf3 {+56.26/17 1.911s} Kb6 {-7.48/15 0.552s} 54. Kf4 {+63.99/18 1.904s}
+Bh8 {-7.71/14 0.346s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "20"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1-0"]
+[GameDuration "00:02:48"]
+[GameStartTime "2026-07-30T22:54:41 +0200"]
+[GameEndTime "2026-07-30T22:57:30 +0200"]
+[PlyCount "162"]
+[Termination "adjudication"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A46"]
+[Opening "Indian Defense: Spielmann-Indian"]
+
+1. d4 {book} Nf6 {book} 2. Nf3 {book} c5 {book} 3. c3 {book} d5 {book}
+4. Bf4 {book} e6 {book} 5. e3 {book} Bd6 {book} 6. Bb5+ {book} Nc6 {book}
+7. Qa4 {book} Bxf4 {book} 8. exf4 {book} Qb6 {book} 9. Bxc6+ {-0.12/12 1.911s}
+bxc6 {-0.11/12 1.587s} 10. dxc5 {+0.02/13 1.928s} Qxc5 {+0.12/15 0.858s}
+11. Ne5 {+0.01/15 1.905s} Bb7 {+0.06/11 0.726s} 12. Nd2 {-0.31/14 1.901s}
+O-O {+0.05/13 0.321s} 13. Nb3 {-0.06/14 1.902s} Qb6 {-0.13/10 0.462s}
+14. Qd4 {-0.46/15 1.900s} Rfd8 {-0.19/10 0.277s} 15. f3 {+1.32/13 1.911s}
+Ne8 {-0.50/12 0.865s} 16. O-O-O {+1.18/15 1.923s} Nd6 {-0.74/9 0.614s}
+17. Rhe1 {+1.61/14 1.904s} Rac8 {-0.65/12 0.376s} 18. Nc5 {+1.58/15 1.903s}
+Rc7 {-0.83/12 0.505s} 19. g4 {+1.54/16 1.914s} Ba6 {-0.90/13 0.575s}
+20. Qb4 {+1.30/16 1.906s} Bc8 {-0.84/11 0.389s} 21. a3 {+1.62/14 1.914s}
+Re8 {-0.83/10 0.440s} 22. Rd2 {+1.31/13 1.911s} Nb5 {-0.58/11 0.460s}
+23. Ned3 {+1.31/14 1.901s} a5 {-0.86/14 0.155s} 24. Qa4 {+1.55/16 1.903s}
+Rce7 {-0.39/10 0.314s} 25. g5 {+1.59/15 1.916s} Ba6 {-0.81/11 0.304s}
+26. f5 {+1.02/15 1.903s} exf5 {-0.48/13 0.280s} 27. Rxe7 {+1.37/17 1.903s}
+Rxe7 {-0.57/11 0.516s} 28. Qf4 {+1.64/16 1.903s} Bc8 {-0.84/11 0.210s}
+29. a4 {+1.88/17 1.902s} Nc7 {-0.85/13 0.199s} 30. Qd6 {+1.71/16 1.904s}
+Re8 {-0.65/12 0.253s} 31. b4 {+1.17/15 1.904s} Ne6 {-0.63/14 0.548s}
+32. Re2 {+0.50/14 1.911s} Rd8 {-0.51/12 0.249s} 33. Qe7 {+1.29/15 1.905s}
+Rf8 {-0.58/10 0.243s} 34. Rb2 {+0.86/16 1.907s} d4 {-0.74/11 0.240s}
+35. c4 {+1.18/16 1.900s} axb4 {-1.02/14 0.225s} 36. Rxb4 {+1.52/17 1.905s}
+Qa5 {-0.85/13 0.654s} 37. h4 {+1.95/16 1.904s} Nf4 {-0.75/14 0.187s}
+38. Qd6 {+1.80/17 1.905s} Nxd3+ {-0.81/11 0.200s} 39. Nxd3 {+1.12/19 1.900s}
+Be6 {-0.75/12 0.123s} 40. Qc5 {+2.04/19 1.902s} Qc7 {-0.81/11 0.125s}
+41. f4 {+2.39/19 1.902s} h6 {-0.91/10 0.116s} 42. a5 {+1.55/18 1.900s}
+Ra8 {-0.79/12 0.171s} 43. Rb6 {+1.54/18 1.900s} Qa7 {-0.52/15 0.271s}
+44. g6 {+2.09/18 1.901s} fxg6 {-0.48/14 0.149s} 45. Qxc6 {+0.93/17 1.901s}
+Qxa5 {-0.07/14 0.261s} 46. Qxe6+ {+1.86/16 1.904s} Kh7 {-0.17/11 0.646s}
+47. Kd1 {+1.14/16 1.901s} Qa1+ {-0.10/11 0.517s} 48. Nc1 {+2.96/14 1.904s}
+Qa4+ {-0.57/12 0.203s} 49. Rb3 {+2.91/14 1.901s} Re8 {-0.45/14 0.663s}
+50. Qd5 {+2.31/14 1.905s} h5 {-0.45/12 1.028s} 51. Kd2 {+1.99/15 1.907s}
+Qa1 {-0.04/13 0.658s} 52. Qd6 {+2.02/14 1.909s} Qa5+ {0.00/17 0.358s}
+53. Kc2 {+1.52/15 1.902s} Qe1 {0.00/16 0.363s} 54. c5 {+1.66/13 1.902s}
+Qe4+ {-0.14/9 0.531s} 55. Rd3 {+4.39/14 1.901s} Qg2+ {-1.33/12 0.540s}
+56. Kb1 {+3.68/15 1.902s} Qb7+ {-0.98/13 0.329s} 57. Nb3 {+5.11/14 1.902s}
+Re1+ {-1.52/8 0.329s} 58. Kc2 {+5.09/15 1.903s} Qg2+ {-1.88/13 0.439s}
+59. Nd2 {+5.31/16 1.903s} Qa8 {-1.84/12 0.920s} 60. Qxd4 {+4.90/16 1.900s}
+Qa2+ {-1.75/14 0.158s} 61. Qb2 {+4.90/19 1.901s} Qa4+ {-1.91/15 0.264s}
+62. Qb3 {+5.10/19 1.906s} Qa1 {-1.95/15 0.348s} 63. Qa3 {+5.07/20 1.900s}
+Qd1+ {-1.91/15 0.411s} 64. Kc3 {+4.98/18 1.899s} Re2 {-1.76/14 0.590s}
+65. Qb2 {+5.64/16 1.907s} Re8 {-1.78/12 0.357s} 66. Rd4 {+5.37/12 1.911s}
+Re3+ {-1.96/14 0.689s} 67. Kb4 {+7.00/11 1.912s} Re8 {-2.62/13 1.513s}
+68. Nc4 {+6.26/12 1.908s} Qe1+ {-2.80/11 0.427s} 69. Kb5 {+7.14/14 1.917s}
+Qf1 {-2.70/14 0.680s} 70. Rd6 {+7.24/14 1.899s} Ra8 {-2.75/13 0.493s}
+71. Qd4 {+7.81/16 1.904s} Qb1+ {-2.78/15 0.198s} 72. Kc6 {+7.82/16 1.902s}
+Rc8+ {-2.91/12 0.324s} 73. Kd5 {+8.17/14 1.911s} Qh1+ {-3.27/13 0.398s}
+74. Ke6 {+10.14/14 1.905s} g5 {-4.16/14 0.384s} 75. fxg5 {+13.75/12 1.929s}
+Qb7 {-4.51/14 0.609s} 76. Rd7 {+15.58/13 1.907s} Qa6+ {-5.51/17 0.529s}
+77. Nd6 {+18.56/15 1.913s} Qe2+ {-6.48/16 0.793s} 78. Kf7 {+22.61/18 1.901s}
+Qa2+ {-7.54/16 0.351s} 79. Nc4 {+26.87/20 1.904s} Rf8+ {-9.32/15 0.131s}
+80. Kxf8 {+M19/16 0.360s} Qa8+ {-10.73/16 0.221s} 81. Rd8 {+M17/7 0.004s}
+Qb7 {-10.99/16 0.063s, White wins by adjudication} 1-0
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "22"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:56"]
+[GameStartTime "2026-07-30T22:55:39 +0200"]
+[GameEndTime "2026-07-30T22:57:35 +0200"]
+[PlyCount "121"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+
+1. e4 {book} c5 {book} 2. Nc3 {book} e6 {book} 3. Nf3 {book} Nc6 {book}
+4. d4 {book} cxd4 {book} 5. Nxd4 {book} Nf6 {book} 6. g3 {book} Bb4 {book}
+7. Bg2 {book} d5 {book} 8. exd5 {book} Nxd5 {book} 9. O-O {+0.73/15 0.308s}
+O-O {-2.28/15 1.905s} 10. Nxd5 {+0.90/14 0.196s} exd5 {-1.76/17 1.901s}
+11. Be3 {+0.92/14 0.224s} Ba5 {-1.86/17 1.906s} 12. Qh5 {+1.22/13 0.196s}
+Bb6 {-1.17/17 1.901s} 13. Rad1 {+0.71/12 0.328s} Bxd4 {-1.33/18 1.903s}
+14. Bxd4 {+1.04/10 0.082s} Nxd4 {-1.32/20 1.904s} 15. Rxd4 {+0.55/13 0.127s}
+Qb6 {-1.15/19 1.901s} 16. Rh4 {+0.58/11 0.167s} h6 {-0.99/19 1.901s}
+17. Bxd5 {+0.24/13 0.084s} Qxb2 {-0.74/21 1.899s} 18. Qg6 {+0.21/13 0.101s}
+Qe5 {-0.96/21 1.900s} 19. Rxh6 {+0.21/13 0.104s} Bf5 {-0.73/23 1.902s}
+20. Rh5 {+0.22/16 0.110s} Qxd5 {-0.78/24 1.900s} 21. Qxf5 {+0.22/14 0.107s}
+Qxf5 {-0.75/25 1.905s} 22. Rxf5 {+0.22/14 0.109s} Rac8 {-0.77/24 1.902s}
+23. Rd1 {+0.20/12 0.172s} Rxc2 {-0.80/17 1.911s} 24. Ra5 {+0.21/15 0.448s}
+a6 {-0.67/19 1.905s} 25. Rd7 {+0.23/15 0.302s} Rb2 {-0.77/18 1.903s}
+26. Kg2 {+0.21/12 0.340s} g6 {-0.87/16 1.906s} 27. Ra4 {+0.22/8 0.398s}
+f5 {-0.52/19 1.910s} 28. Rc4 {+0.11/10 0.417s} Rf7 {-0.54/19 1.916s}
+29. Rd6 {+0.03/13 0.548s} Kg7 {-0.27/18 1.908s} 30. a3 {+0.03/11 0.356s}
+Re7 {-0.32/19 1.902s} 31. Rf4 {+0.05/11 0.347s} Rf7 {-0.53/18 1.905s}
+32. a4 {+0.08/13 0.582s} Rf6 {-0.59/18 1.900s} 33. Rd7+ {+0.09/12 0.568s}
+Rf7 {-0.66/22 1.902s} 34. Rd3 {+0.10/12 0.337s} b5 {-0.34/18 1.908s}
+35. Rd6 {+0.07/12 0.288s} Rf6 {-0.28/21 1.905s} 36. Rd7+ {+0.06/15 0.240s}
+Rf7 {-0.28/23 1.901s} 37. Rd6 {+0.08/13 0.140s} Rf6 {0.00/32 1.900s}
+38. Rd5 {+0.06/13 0.148s} Rb6 {-0.27/20 1.901s} 39. Rfd4 {+0.06/12 0.133s}
+Kf7 {-0.20/20 1.901s} 40. h4 {+0.04/11 0.235s} Ke6 {-0.27/17 1.903s}
+41. g4 {-0.02/11 0.234s} Ra2 {0.00/17 1.899s} 42. axb5 {-0.04/12 0.914s}
+axb5 {0.00/17 1.908s} 43. h5 {-0.03/11 0.380s} gxh5 {+0.10/15 1.915s}
+44. gxf5+ {-0.04/12 0.402s} Kf6 {+0.16/17 1.944s} 45. Rb4 {0.00/14 1.631s}
+Ra4 {+0.42/10 1.907s} 46. Rbxb5 {+0.03/12 0.669s} Raa6 {+0.06/15 1.903s}
+47. Kg3 {+0.05/12 0.312s} Rxb5 {0.00/14 1.905s} 48. Rxb5 {+0.07/12 0.430s}
+Ra4 {0.00/19 1.901s} 49. f4 {+0.03/14 0.348s} h4+ {0.00/21 1.904s}
+50. Kg4 {+0.12/10 0.326s} Ra6 {0.00/25 1.899s} 51. Kxh4 {+0.22/11 0.469s}
+Ra1 {0.00/24 1.903s} 52. Kg4 {0.00/14 0.233s} Rg1+ {0.00/27 1.899s}
+53. Kf3 {0.00/15 0.249s} Rf1+ {0.00/27 1.910s} 54. Ke4 {0.00/20 0.330s}
+Re1+ {0.00/24 1.900s} 55. Kf3 {0.00/19 0.277s} Rf1+ {0.00/34 1.902s}
+56. Kg3 {0.00/16 0.281s} Ra1 {0.00/28 1.900s} 57. Rd5 {0.00/12 0.326s}
+Ra2 {0.00/27 1.901s} 58. Rc5 {0.00/16 0.154s} Ra1 {0.00/26 1.900s}
+59. Re5 {0.00/17 0.152s} Ra2 {0.00/32 1.903s} 60. Rd5 {0.00/17 0.229s}
+Ra1 {0.00/26 1.901s} 61. Re5 {0.00/19 0.102s, Draw by adjudication} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "26"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:00:16"]
+[GameStartTime "2026-07-30T22:57:35 +0200"]
+[GameEndTime "2026-07-30T22:57:52 +0200"]
+[PlyCount "31"]
+[Termination "time forfeit"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A13"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1. Nf3 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. g3 {book} a6 {book}
+4. Bg2 {book} b5 {book} 5. b3 {book} Bb7 {book} 6. O-O {book} d6 {book}
+7. d4 {book} Nbd7 {book} 8. Nc3 {book} b4 {book} 9. Na4 {+1.07/16 1.903s}
+Be7 {-0.45/12 0.301s} 10. Ne1 {+0.80/17 1.902s} Bxg2 {-0.39/11 0.139s}
+11. Nxg2 {+0.78/18 1.903s} O-O {-0.30/11 0.098s} 12. Bb2 {+0.68/17 1.900s}
+d5 {-0.20/12 0.104s} 13. c5 {+1.09/18 1.901s} Nb8 {-0.13/10 0.134s}
+14. Qc2 {+0.94/18 1.906s} g6 {-0.52/9 0.155s} 15. Rad1 {+0.72/16 1.901s}
+Nc6 {-0.59/14 0.168s}
+16. Nf4 {+0.78/14 2.036s, White loses on time (36ms overrun)} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "25"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:00:53"]
+[GameStartTime "2026-07-30T22:57:30 +0200"]
+[GameEndTime "2026-07-30T22:58:23 +0200"]
+[PlyCount "66"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+
+1. Nf3 {book} e6 {book} 2. g3 {book} b5 {book} 3. Bg2 {book} Bb7 {book}
+4. d4 {book} Nf6 {book} 5. O-O {book} c5 {book} 6. Na3 {book} b4 {book}
+7. Nc4 {book} cxd4 {book} 8. Qxd4 {book} d5 {book} 9. Nce5 {+0.29/12 0.312s}
+Bd6 {-0.47/13 1.911s} 10. a3 {+0.49/12 0.202s} Qb6 {-0.93/15 1.907s}
+11. Bf4 {+0.53/12 0.230s} Bc5 {-0.60/16 1.902s} 12. Qd1 {+0.52/12 0.159s}
+bxa3 {-0.53/17 1.900s} 13. bxa3 {+0.30/11 0.150s} Qa6 {-0.43/17 1.904s}
+14. c4 {+0.22/9 0.127s} Nbd7 {-1.27/15 1.900s} 15. cxd5 {+0.51/11 0.100s}
+Bxd5 {-0.84/16 1.909s} 16. e4 {+0.77/12 0.309s} Bb7 {-1.74/15 1.899s}
+17. Nxd7 {+0.92/10 0.166s} Nxd7 {-1.84/16 1.905s} 18. Rc1 {+0.88/11 0.152s}
+Rd8 {-0.33/14 1.914s} 19. Qd2 {+1.07/11 0.723s} e5 {-0.95/14 1.905s}
+20. Rfd1 {+1.37/12 0.280s} Be7 {-1.32/12 1.922s} 21. Bf1 {+0.69/10 0.376s}
+Qxa3 {-0.10/15 1.904s} 22. Be3 {+0.34/10 0.519s} O-O {-0.51/18 1.901s}
+23. Ra1 {+0.26/10 0.178s} Qb4 {-0.40/17 1.903s} 24. Qxb4 {+0.05/9 0.159s}
+Bxb4 {-0.09/18 1.901s} 25. Rxa7 {+0.02/12 0.123s} Bxe4 {-0.17/20 1.901s}
+26. Ng5 {+0.07/10 0.137s} Nf6 {-0.38/21 1.902s} 27. Rxd8 {+0.01/14 0.104s}
+Rxd8 {-0.29/23 1.902s} 28. Nxe4 {0.00/15 0.072s} Nxe4 {-0.42/24 1.903s}
+29. Ra4 {0.00/15 0.164s} Rb8 {-0.29/22 1.899s} 30. Ba7 {0.00/17 0.143s}
+Rb7 {-0.07/17 1.899s} 31. Be3 {0.00/18 0.118s} Rb8 {0.00/30 1.902s}
+32. Ba7 {0.00/18 0.138s} Rb7 {0.00/27 1.902s} 33. Be3 {0.00/21 0.111s}
+Rb8 {0.00/33 1.900s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "23"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:02:22"]
+[GameStartTime "2026-07-30T22:56:30 +0200"]
+[GameEndTime "2026-07-30T22:58:53 +0200"]
+[PlyCount "144"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Anti-Noteboom, Stonewall Variation, Portisch Gambit"]
+
+1. d4 {book} d5 {book} 2. c4 {book} c6 {book} 3. e3 {book} e6 {book}
+4. Nc3 {book} f5 {book} 5. g4 {book} fxg4 {book} 6. Qxg4 {book} Nf6 {book}
+7. Qg2 {book} c5 {book} 8. cxd5 {book} exd5 {book} 9. Nge2 {+0.30/10 1.734s}
+Nc6 {-0.63/13 1.900s} 10. Bd2 {+0.01/11 0.134s} Nb4 {-0.97/14 1.908s}
+11. O-O-O {-0.01/10 0.263s} Bf5 {+0.28/13 1.901s} 12. Ng3 {+0.04/12 0.226s}
+cxd4 {+0.13/14 1.902s} 13. exd4 {-0.05/14 0.269s} Qc8 {+0.54/16 1.902s}
+14. Re1+ {-0.07/12 0.154s} Kf7 {+0.73/15 1.903s} 15. Re3 {-0.08/11 0.234s}
+Nxa2+ {+0.28/13 1.904s} 16. Kd1 {0.00/16 0.332s} Nb4 {+0.22/15 1.907s}
+17. Nxf5 {+0.12/11 0.165s} Qxf5 {-0.06/16 1.900s} 18. Bb5 {+0.20/12 0.333s}
+Bd6 {+1.67/15 1.919s} 19. Ba4 {+0.12/12 0.279s} Nd3 {0.00/15 1.934s}
+20. Rg1 {+0.25/15 0.432s} Qg4+ {+1.22/12 1.957s} 21. Qxg4 {+0.32/12 1.868s}
+Nxf2+ {0.00/12 1.909s} 22. Kc1 {+0.16/11 0.512s} N2xg4 {0.00/16 1.907s}
+23. Rf3 {+0.21/14 0.300s} Nxh2 {0.00/17 1.907s} 24. Rf2 {+0.11/10 0.437s}
+h5 {+0.48/16 1.906s} 25. Nxd5 {0.00/10 0.321s} Ng4 {0.00/16 1.908s}
+26. Rff1 {-0.09/11 0.384s} Raf8 {0.00/18 1.902s} 27. Rg2 {+0.05/10 0.581s}
+Kg8 {+0.81/13 1.900s} 28. Bb3 {-0.20/11 0.287s} Nxd5 {+0.21/15 1.913s}
+29. Bxd5+ {-0.25/11 0.519s} Kh7 {+0.32/16 1.907s} 30. Rh1 {-0.24/10 0.288s}
+Kg6 {0.00/16 1.900s} 31. Rhg1 {-0.26/13 0.637s} Rf6 {+0.88/14 1.903s}
+32. Kb1 {-0.19/11 1.059s} Re8 {+0.64/16 1.902s} 33. Bxb7 {-0.03/11 0.202s}
+Bc7 {+0.73/15 1.902s} 34. Bd5 {0.00/15 0.163s} Bb6 {0.00/19 1.926s}
+35. Bb3 {+0.09/14 0.288s} Ref8 {0.00/16 1.903s} 36. Ka2 {+0.21/11 0.272s}
+Rd8 {0.00/18 1.903s} 37. Rh1 {+0.17/13 0.169s} Rc8 {0.00/20 1.900s}
+38. d5 {+0.07/11 0.165s} Rf2 {+0.30/16 1.905s} 39. Rxf2 {0.00/13 0.205s}
+Nxf2 {0.00/19 1.903s} 40. Rh4 {+0.23/11 0.126s} Ng4 {+0.17/15 1.900s}
+41. Rh3 {+0.19/14 0.302s} Bd8 {0.00/18 1.902s} 42. d6 {+0.36/11 0.255s}
+Rc6 {0.00/21 1.902s} 43. Rd3 {+0.09/9 0.150s} Nf6 {0.00/19 1.903s}
+44. Kb1 {0.00/12 0.796s} Kf5 {-0.16/15 1.910s} 45. Bc2 {+0.10/16 0.420s}
+Ke6 {-0.70/14 1.903s} 46. Bb3+ {+0.10/13 0.268s} Kf5 {0.00/33 1.923s}
+47. Bc2 {+0.15/11 0.435s} Ke6 {0.00/27 1.902s} 48. Bb4 {+0.05/12 0.349s}
+g5 {-0.29/16 1.906s} 49. Ba4 {+0.03/11 0.269s} Rb6 {+0.27/15 1.899s}
+50. Bc5 {-0.17/10 0.194s} Rb8 {0.00/18 1.904s} 51. Re3+ {-0.13/13 0.240s}
+Kf7 {+0.33/14 1.901s} 52. Bxa7 {-0.09/12 0.188s} Rb4 {+0.69/18 1.902s}
+53. Bb3+ {-0.07/11 0.125s} Kg7 {+0.32/20 1.902s} 54. Be6 {-0.15/12 0.137s}
+h4 {+0.49/17 1.899s} 55. Bc5 {-0.20/12 0.122s} Rf4 {+0.70/16 1.901s}
+56. d7 {-0.24/11 0.111s} g4 {+0.71/16 1.902s} 57. Re2 {-0.15/14 0.146s}
+Kg6 {+0.75/19 1.900s} 58. Kc2 {-0.06/11 0.160s} h3 {+0.37/20 1.900s}
+59. b4 {-0.12/12 0.141s} Kh5 {+0.58/15 1.903s} 60. b5 {-0.18/13 0.183s}
+Kh4 {0.00/14 1.900s} 61. b6 {0.00/10 0.113s} Nxd7 {+1.19/16 1.900s}
+62. Be3 {-0.09/11 0.116s} Rf6 {0.00/19 1.900s} 63. Bxd7 {0.00/10 0.098s}
+Bxb6 {0.00/21 1.900s} 64. Bd2 {-0.14/11 0.150s} Bc7 {+0.03/20 1.900s}
+65. Re8 {0.00/15 0.103s} h2 {0.00/21 1.902s} 66. Rg8 {0.00/14 0.141s}
+Bf4 {0.00/21 1.901s} 67. Rxg4+ {-0.12/13 0.132s} Kh5 {0.00/24 1.900s}
+68. Bxf4 {0.00/20 0.210s} h1=Q {0.00/25 1.900s} 69. Rg5+ {0.00/31 0.137s}
+Kh4 {0.00/29 1.901s} 70. Rg4+ {0.00/32 0.123s} Kh5 {0.00/34 1.903s}
+71. Rg5+ {0.00/34 0.117s} Kh4 {0.00/36 1.900s} 72. Rg4+ {0.00/39 0.190s}
+Kh5 {0.00/55 1.901s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "26"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "0-1"]
+[GameDuration "00:01:16"]
+[GameStartTime "2026-07-30T22:57:52 +0200"]
+[GameEndTime "2026-07-30T22:59:09 +0200"]
+[PlyCount "99"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "A13"]
+[Opening "English Opening: Romanishin Gambit"]
+
+1. Nf3 {book} Nf6 {book} 2. c4 {book} e6 {book} 3. g3 {book} a6 {book}
+4. Bg2 {book} b5 {book} 5. b3 {book} Bb7 {book} 6. O-O {book} d6 {book}
+7. d4 {book} Nbd7 {book} 8. Nc3 {book} b4 {book} 9. Na4 {+0.43/11 0.232s}
+Be7 {-0.78/14 1.902s} 10. d5 {+0.39/13 0.295s} exd5 {-0.94/15 1.908s}
+11. Nh4 {+0.39/12 0.165s} O-O {-1.24/16 1.935s} 12. cxd5 {+0.56/15 0.512s}
+Re8 {-0.68/17 1.905s} 13. Bb2 {+0.63/12 0.307s} g6 {-0.98/16 1.906s}
+14. Re1 {+0.43/11 0.240s} Bf8 {-0.98/17 1.904s} 15. Rc1 {+0.39/13 0.101s}
+Rc8 {-0.77/16 1.902s} 16. Qd3 {+0.43/11 0.104s} Bg7 {-0.62/16 1.903s}
+17. Rc2 {+0.49/13 0.087s} a5 {-0.43/16 1.902s} 18. Rec1 {+0.49/10 0.075s}
+Nb6 {-0.32/16 1.901s} 19. Bd4 {+0.43/9 0.071s} Nxa4 {-0.67/16 1.902s}
+20. bxa4 {-0.03/14 0.105s} Qd7 {-0.74/17 1.900s} 21. Qb3 {-0.03/13 0.123s}
+Ne4 {-0.65/18 1.904s} 22. Bxg7 {-0.24/10 0.117s} Kxg7 {-0.38/19 1.907s}
+23. Bxe4 {-0.30/13 0.131s} Rxe4 {+1.06/17 1.903s} 24. Ng2 {-0.31/12 0.135s}
+c5 {+0.90/19 1.901s} 25. dxc6 {-0.34/10 0.142s} Rxc6 {+1.08/19 1.900s}
+26. Rxc6 {-0.42/12 0.109s} Bxc6 {+1.17/21 1.901s} 27. Nf4 {-0.41/11 0.128s}
+Re5 {+1.17/22 1.900s} 28. Qb2 {-0.42/13 0.172s} Kg8 {+1.23/22 1.900s}
+29. a3 {-0.39/11 0.127s} bxa3 {+1.26/23 1.900s} 30. Qxa3 {-0.37/12 0.129s}
+Bxa4 {+1.17/20 1.903s} 31. Qf3 {-0.46/11 0.101s} Qb5 {+1.84/16 1.903s}
+32. h4 {-0.65/8 0.133s} Rc5 {+1.85/16 1.903s} 33. Ra1 {-1.13/11 0.116s}
+h5 {+2.08/15 1.903s} 34. Kh2 {-1.39/13 0.126s} Bb3 {+2.36/17 1.901s}
+35. Qa8+ {-1.20/14 0.117s} Kh7 {+2.28/18 1.900s} 36. Qf8 {-1.03/13 0.098s}
+a4 {+2.11/19 1.909s} 37. Nh3 {-1.02/13 0.321s} Be6 {+1.50/15 1.905s}
+38. Ra3 {-0.93/12 0.192s} Bb3 {+2.36/16 1.905s} 39. Ra1 {-1.24/11 0.125s}
+Re5 {+1.38/16 1.902s} 40. Ng5+ {-1.28/12 0.164s} Rxg5 {+3.07/18 1.901s}
+41. hxg5 {-1.63/13 0.116s} Qxe2 {+5.62/19 1.901s} 42. Kg1 {-1.30/12 0.147s}
+Qe4 {+5.36/20 1.900s} 43. Rc1 {-2.03/13 0.124s} Be6 {+5.92/17 1.901s}
+44. Kh2 {-1.78/11 0.118s} Qf3 {+20.70/18 1.899s} 45. Rg1 {-5.38/15 0.089s}
+Bd5 {+24.88/18 1.902s} 46. Kh3 {-5.67/14 0.121s} Qf5+ {+M19/13 0.152s}
+47. g4 {-M14/23 0.073s} hxg4+ {+M13/7 0.007s} 48. Kh4 {-M12/29 0.054s}
+Qxf2+ {+M11/6 0.001s} 49. Rg3 {-M10/32 0.043s} Qh2+ {+M9/6 0.002s}
+50. Kxg4 {-M8/36 0.014s, Black wins by adjudication} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "27"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:12"]
+[GameStartTime "2026-07-30T22:58:23 +0200"]
+[GameEndTime "2026-07-30T22:59:36 +0200"]
+[PlyCount "87"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Qxd4 {book} a6 {book} 5. Bc4 {book} e6 {book} 6. Nc3 {book} Nf6 {book}
+7. Bg5 {book} Be7 {book} 8. Bb3 {book} Nc6 {book} 9. Qd3 {-0.44/15 1.901s}
+O-O {+0.30/13 0.098s} 10. O-O-O {-0.67/15 1.901s} b5 {+0.22/11 0.115s}
+11. Rhe1 {-0.56/16 1.901s} Bb7 {+0.41/14 0.119s} 12. Bxf6 {-0.20/17 1.904s}
+Bxf6 {+0.37/11 0.108s} 13. Qxd6 {-0.35/17 1.906s} Qa5 {+0.37/12 0.098s}
+14. Qd2 {-0.31/16 1.901s} Rad8 {+0.60/11 0.103s} 15. Qe3 {-0.43/16 1.905s}
+Qc7 {+0.57/14 0.095s} 16. a3 {-0.45/17 1.909s} Rxd1+ {+0.46/12 0.089s}
+17. Rxd1 {-0.34/17 1.901s} Rc8 {+0.38/9 0.085s} 18. Kb1 {0.00/17 1.902s}
+h6 {+0.30/11 0.133s} 19. g3 {0.00/19 1.903s} Ba8 {+0.29/11 0.136s}
+20. Rd3 {-0.44/14 1.901s} b4 {+0.29/11 0.129s} 21. axb4 {+0.59/16 1.904s}
+Nxb4 {-0.13/12 0.099s} 22. Rd1 {+0.95/15 1.901s} Rb8 {-0.09/8 0.127s}
+23. Nd2 {+0.32/16 1.900s} a5 {+0.05/10 0.090s} 24. Nc4 {+0.20/17 1.904s}
+Bxc3 {+0.23/13 0.095s} 25. Qxc3 {+0.25/18 1.900s} Bxe4 {-0.07/14 0.103s}
+26. Qe5 {+0.39/19 1.899s} Qxe5 {-0.32/12 0.125s} 27. Nxe5 {0.00/21 1.903s}
+Rc8 {-0.29/13 0.124s} 28. Rd4 {0.00/22 1.900s} Bxc2+ {-0.02/10 0.143s}
+29. Bxc2 {+0.09/23 1.903s} Nxc2 {-0.03/15 0.124s} 30. Rc4 {0.00/25 1.905s}
+Rxc4 {0.00/15 0.160s} 31. Nxc4 {0.00/28 1.902s} Nb4 {-0.04/12 0.120s}
+32. Nxa5 {0.00/28 1.901s} f5 {-0.03/16 0.128s} 33. Nc4 {0.00/28 1.904s}
+Kf7 {0.00/15 0.227s} 34. f3 {0.00/28 1.902s} Kf6 {0.00/13 0.154s}
+35. Kc1 {0.00/28 1.902s} f4 {-0.01/13 0.147s} 36. Kd2 {0.00/26 1.902s}
+fxg3 {+0.03/14 0.113s} 37. hxg3 {0.00/29 1.901s} h5 {0.00/16 0.119s}
+38. Nd6 {0.00/28 1.904s} g5 {+0.01/14 0.122s} 39. Ne4+ {0.00/27 1.902s}
+Kf5 {+0.01/15 0.127s} 40. Ke3 {0.00/26 1.900s} Nd5+ {0.00/16 0.174s}
+41. Kf2 {0.00/29 1.900s} Nb4 {0.00/16 0.118s} 42. Ke3 {0.00/29 1.899s}
+Nd5+ {0.00/17 0.157s} 43. Kf2 {0.00/30 1.904s} Nb4 {0.00/18 0.113s}
+44. Ke3 {0.00/30 1.900s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "28"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1/2-1/2"]
+[GameDuration "00:00:58"]
+[GameStartTime "2026-07-30T22:59:09 +0200"]
+[GameEndTime "2026-07-30T23:00:07 +0200"]
+[PlyCount "73"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1. e4 {book} e6 {book} 2. d4 {book} d5 {book} 3. Nc3 {book} Bb4 {book}
+4. e5 {book} c5 {book} 5. a3 {book} Bxc3+ {book} 6. bxc3 {book} Ne7 {book}
+7. h4 {book} Qc7 {book} 8. h5 {book} cxd4 {book} 9. cxd4 {+1.34/18 1.900s}
+Qc3+ {-0.84/14 0.083s} 10. Bd2 {+0.97/18 1.904s} Qxd4 {-0.78/14 0.111s}
+11. Nf3 {+1.92/17 1.900s} Qe4+ {-0.79/14 0.119s} 12. Be2 {+1.36/17 1.901s}
+Nf5 {-0.75/13 0.107s} 13. Rb1 {+1.33/18 1.901s} Nc6 {-0.77/12 0.110s}
+14. Kf1 {+1.00/19 1.906s} Nxe5 {-0.62/13 0.102s} 15. h6 {+1.70/13 1.900s}
+gxh6 {-0.65/12 0.122s} 16. Nxe5 {+1.50/14 1.902s} Qxe5 {-0.63/14 0.106s}
+17. Rh5 {+0.96/14 1.904s} Qf6 {-0.22/13 0.131s} 18. Bb5+ {+0.51/13 1.899s}
+Bd7 {-0.83/12 0.116s} 19. Bxd7+ {+0.49/13 1.900s} Kxd7 {-0.64/11 0.096s}
+20. Rxf5 {+0.17/15 1.900s} exf5 {-0.12/12 0.078s} 21. Rxb7+ {0.00/18 1.903s}
+Kc8 {0.00/14 0.119s} 22. Rb5 {0.00/21 1.900s} Qc6 {-0.06/11 0.083s}
+23. Qb1 {0.00/17 1.901s} Re8 {+0.43/12 0.087s} 24. c4 {0.00/15 1.900s}
+Qxc4+ {+0.51/11 0.123s} 25. Kg1 {-1.17/15 1.903s} Re6 {+0.49/11 0.116s}
+26. Be3 {0.00/17 1.900s} d4 {0.00/11 0.147s} 27. Qxf5 {0.00/19 1.901s}
+dxe3 {0.00/17 0.176s} 28. Rc5+ {0.00/22 1.903s} Qxc5 {0.00/20 0.086s}
+29. Qxc5+ {0.00/25 1.900s} Kd7 {0.00/24 0.121s} 30. Qd5+ {0.00/27 1.900s}
+Ke7 {0.00/25 0.081s} 31. Qxa8 {0.00/29 1.900s} e2 {0.00/29 0.079s}
+32. Qxa7+ {0.00/32 1.904s} Kf8 {0.00/34 0.055s} 33. Qb8+ {0.00/35 1.901s}
+Kg7 {0.00/39 0.075s} 34. Qg3+ {0.00/40 1.899s} Kf8 {0.00/38 0.059s}
+35. Qb8+ {0.00/44 1.901s} Kg7 {0.00/43 0.091s} 36. Qg3+ {0.00/44 1.901s}
+Kf8 {0.00/51 0.064s} 37. Qb8+ {0.00/47 1.904s, Draw by 3-fold repetition}
+1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "25"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "0-1"]
+[GameDuration "00:03:06"]
+[GameStartTime "2026-07-30T22:57:27 +0200"]
+[GameEndTime "2026-07-30T23:00:34 +0200"]
+[PlyCount "210"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+
+1. Nf3 {book} e6 {book} 2. g3 {book} b5 {book} 3. Bg2 {book} Bb7 {book}
+4. d4 {book} Nf6 {book} 5. O-O {book} c5 {book} 6. Na3 {book} b4 {book}
+7. Nc4 {book} cxd4 {book} 8. Qxd4 {book} d5 {book} 9. Nce5 {+0.47/16 1.901s}
+Bd6 {-0.40/10 0.571s} 10. a3 {+0.38/17 1.901s} Qb6 {-0.43/13 0.235s}
+11. Qxb6 {+0.45/16 1.913s} axb6 {+0.16/13 0.380s} 12. Bf4 {+0.43/17 1.903s}
+bxa3 {+0.18/12 0.135s} 13. Nxf7 {+0.04/17 1.904s} Bxf4 {+0.67/12 0.252s}
+14. Nxh8 {-0.31/19 1.901s} Bd6 {+0.74/12 0.148s} 15. Ng5 {-0.34/19 1.904s}
+axb2 {+0.83/13 0.188s} 16. Rxa8 {-0.79/19 1.923s} Bxa8 {+0.66/16 0.313s}
+17. Nhf7 {-0.69/19 1.903s} Ba3 {+1.10/15 0.191s} 18. Ne5 {-0.80/20 1.901s}
+Nc6 {+0.99/12 0.176s} 19. Nxc6 {-0.65/18 1.918s} Bxc6 {+1.27/12 0.986s}
+20. Nxe6 {-0.88/18 1.904s} Kd7 {+1.34/14 0.355s} 21. Bh3 {-1.15/12 1.921s}
+Kd6 {+1.84/12 0.348s} 22. Nxg7 {-3.13/15 1.931s} Ne4 {+1.90/14 0.459s}
+23. Bf5 {-3.48/16 1.901s} Nc3 {+2.11/14 0.418s} 24. h4 {-3.34/16 1.906s}
+Nxe2+ {+1.85/14 0.298s} 25. Kh2 {-2.91/16 1.904s} h6 {+1.66/10 0.239s}
+26. c3 {-3.56/16 1.903s} Nxc3 {+2.04/13 0.182s} 27. g4 {-3.36/18 1.903s}
+Bd7 {+2.22/11 0.197s} 28. f4 {-4.10/20 1.900s} Bxf5 {+1.88/15 0.145s}
+29. Nxf5+ {-3.86/19 1.903s} Ke6 {+1.93/15 0.152s} 30. Re1+ {-4.03/19 1.905s}
+Kd7 {+1.90/12 0.140s} 31. g5 {-3.70/18 1.900s} b1=Q {+2.13/13 0.164s}
+32. Rxb1 {-3.90/19 1.900s} Nxb1 {+2.08/14 0.215s} 33. Nxh6 {-4.32/19 1.901s}
+d4 {+2.02/13 0.163s} 34. Ng4 {-3.96/17 1.901s} Ke6 {+2.07/16 0.128s}
+35. h5 {-4.30/19 1.901s} d3 {+1.95/15 0.144s} 36. h6 {-4.64/20 1.904s}
+d2 {+2.17/14 0.129s} 37. h7 {-4.66/20 1.901s} d1=Q {+2.15/16 0.122s}
+38. h8=Q {-4.61/17 1.900s} Qc2+ {+2.13/14 0.109s} 39. Kg3 {-4.65/18 1.901s}
+Qc3+ {+2.20/13 0.135s} 40. Qxc3 {-4.33/19 1.901s} Nxc3 {+2.18/14 0.110s}
+41. Kf3 {-4.68/19 1.900s} Bc5 {+2.14/15 0.131s} 42. Ne5 {-4.38/19 1.900s}
+Nd5 {+2.38/15 0.091s} 43. Ng4 {-4.31/21 1.901s} Nc3 {+2.25/15 0.218s}
+44. Ne5 {0.00/43 1.900s} Kf5 {+2.34/13 0.136s} 45. g6 {-4.07/19 1.903s}
+Nd5 {+1.95/15 0.175s} 46. g7 {-3.94/21 1.899s} Ne7 {+2.01/12 0.123s}
+47. Ke2 {-4.34/19 1.903s} Ke4 {+2.09/15 0.147s} 48. Kd2 {-3.66/20 1.900s}
+Bd4 {+2.14/16 0.073s} 49. Nc4 {-5.61/20 1.900s} Ng8 {+2.16/14 0.070s}
+50. Kc2 {-5.71/22 1.900s} Kd5 {+2.44/15 0.073s} 51. Kd3 {-6.31/21 1.901s}
+Nh6 {+2.10/14 0.069s} 52. f5 {-6.94/20 1.900s} Ng8 {+2.07/15 0.068s}
+53. Ne3+ {-7.76/21 1.901s} Kc5 {+2.28/14 0.117s} 54. Ng2 {-7.85/22 1.900s}
+Bxg7 {+3.18/15 0.131s} 55. Nf4 {-8.30/23 1.905s} Bf6 {+3.13/15 0.167s}
+56. Ng6 {-8.06/21 1.902s} b5 {+3.32/14 0.170s} 57. Nf8 {-8.59/24 1.900s}
+Kb4 {+3.33/15 0.168s} 58. Ne6 {-8.82/20 1.901s} Ka3 {+3.27/15 0.193s}
+59. Nc5 {-9.80/19 1.901s} Be7 {+3.31/15 0.234s} 60. Ne4 {-7.43/17 1.902s}
+b4 {+3.18/14 0.132s} 61. Kd4 {-8.93/19 1.900s} Kb3 {+3.19/14 0.134s}
+62. Kd3 {-7.86/18 1.900s} Nh6 {+3.15/14 0.104s} 63. f6 {-7.41/17 1.903s}
+Bf8 {+3.04/16 0.116s} 64. Nf2 {-8.09/16 1.901s} Kb2 {+3.35/15 0.115s}
+65. Kc4 {-6.54/16 1.904s} Kc2 {+3.04/14 0.107s} 66. Nd3 {-9.09/20 1.899s}
+b3 {+3.21/13 0.095s} 67. Ne1+ {-9.87/22 1.900s} Kb2 {+3.22/14 0.098s}
+68. Nd3+ {-9.99/21 1.900s} Kc2 {+3.24/16 0.097s} 69. Ne1+ {-10.13/20 1.899s}
+Kb2 {+3.26/13 0.099s} 70. Nd3+ {0.00/68 1.900s} Ka3 {+3.27/17 0.114s}
+71. Kd5 {-8.31/19 1.900s} Ka4 {+3.33/15 0.091s} 72. Nb2+ {-7.37/16 1.901s}
+Kb4 {+3.35/14 0.130s} 73. Ke6 {-7.54/18 1.902s} Kc3 {+3.77/15 0.167s}
+74. Na4+ {-9.65/17 1.903s} Kd4 {+3.92/15 0.185s} 75. f7 {-9.64/18 1.903s}
+Ba3 {+4.15/15 0.125s} 76. Kf6 {-11.53/17 1.900s} Nxf7 {+5.22/13 0.089s}
+77. Kxf7 {-22.61/17 1.900s} Kc4 {+5.78/16 0.081s} 78. Nb6+ {-27.30/16 1.903s}
+Kb5 {+5.46/12 0.090s} 79. Nd5 {-27.47/18 1.901s} b2 {+5.36/16 0.103s}
+80. Nc3+ {-28.52/17 1.900s} Kc4 {+5.42/16 0.133s} 81. Nb1 {-30.75/19 1.907s}
+Bb4 {+5.55/11 0.073s} 82. Ke6 {-30.86/20 1.901s} Kb3 {+5.61/11 0.078s}
+83. Kd5 {-31.07/20 1.900s} Ka2 {+5.46/14 0.068s} 84. Kc4 {-31.12/20 1.901s}
+Ba5 {+5.49/15 0.080s} 85. Kb5 {-31.08/20 1.900s} Kxb1 {+6.25/15 0.050s}
+86. Kxa5 {-31.08/21 1.903s} Kc2 {+5.85/15 0.086s} 87. Kb6 {-31.08/18 1.899s}
+Kd2 {+5.71/15 0.047s} 88. Kc6 {-M34/21 1.428s} Kc2 {+5.50/15 0.057s}
+89. Kb6 {0.00/127 0.031s} Kd2 {+5.36/14 0.067s} 90. Kc6 {0.00/127 0.014s}
+Ke3 {+5.50/14 0.032s} 91. Kd6 {-M74/15 1.318s} Kd4 {+6.01/14 0.046s}
+92. Ke7 {-M90/17 1.202s} Kc3 {+5.87/14 0.026s} 93. Kf8 {-31.19/16 1.902s}
+Kc4 {+5.72/14 0.031s} 94. Kg7 {-31.27/17 1.902s} Kd5 {+5.60/13 0.031s}
+95. Kh6 {-32.81/16 1.901s} Kd6 {+5.56/15 0.039s} 96. Kh5 {-34.64/16 1.899s}
+Kc6 {+5.57/14 0.050s} 97. Kg4 {-33.24/17 1.901s} Kc5 {+5.96/14 0.046s}
+98. Kg3 {-33.47/15 1.899s} Kc4 {+5.58/14 0.042s} 99. Kf4 {-33.60/15 1.900s}
+Kd5 {+5.38/13 0.038s} 100. Ke3 {-34.54/17 1.900s} b1=Q {+5.64/15 0.055s}
+101. Ke2 {-34.50/14 1.900s} Ke4 {+5.78/14 0.052s} 102. Kf2 {-M16/14 0.183s}
+Qb8 {+5.66/14 0.031s} 103. Kg1 {-M28/12 0.171s} Kf3 {+M5/41 0.005s}
+104. Kh1 {-M6/6 0.000s} Qb2 {+M3/245 0.002s} 105. Kg1 {-M2/6 0.000s}
+Qg2# {+M1/245 0.002s, Black mates} 0-1
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "29"]
+[White "MeikeChess"]
+[Black "SF_20knodes"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:03"]
+[GameStartTime "2026-07-30T23:00:07 +0200"]
+[GameEndTime "2026-07-30T23:01:10 +0200"]
+[PlyCount "80"]
+[Termination "normal"]
+[WhiteTimeControl "2/move"]
+[BlackTimeControl "-"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+
+1. d4 {book} e6 {book} 2. Nf3 {book} c5 {book} 3. c3 {book} Nf6 {book}
+4. e3 {book} b6 {book} 5. Nbd2 {book} Be7 {book} 6. a4 {book} O-O {book}
+7. Bd3 {book} Ba6 {book} 8. Bxa6 {book} Nxa6 {book} 9. Qe2 {-0.07/17 1.906s}
+Nb8 {+0.09/16 0.108s} 10. e4 {-0.09/18 1.904s} Nc6 {+0.13/14 0.128s}
+11. dxc5 {-0.52/19 1.901s} bxc5 {+0.16/14 0.111s} 12. e5 {-0.24/21 1.905s}
+Nd5 {+0.11/14 0.120s} 13. Nc4 {-0.42/19 1.902s} Rb8 {+0.06/13 0.097s}
+14. O-O {-0.09/17 1.903s} f5 {+0.12/13 0.103s} 15. exf6 {-0.09/17 1.906s}
+Bxf6 {+0.17/11 0.115s} 16. a5 {0.00/16 1.902s} h6 {+0.03/9 0.102s}
+17. Ne1 {0.00/16 1.900s} Nc7 {+0.10/12 0.080s} 18. Nd3 {-0.17/16 1.902s}
+d5 {+0.13/15 0.103s} 19. Nce5 {0.00/18 1.899s} Bxe5 {+0.18/13 0.089s}
+20. Nxe5 {+0.19/19 1.903s} Qd6 {+0.23/11 0.092s} 21. Nxc6 {0.00/20 1.904s}
+Qxc6 {+0.14/12 0.083s} 22. g3 {+0.03/19 1.904s} Nb5 {-0.01/10 0.147s}
+23. Bf4 {+0.16/19 1.901s} Rbe8 {-0.20/12 0.093s} 24. Rfe1 {+0.39/19 1.901s}
+Nd6 {-0.14/12 0.120s} 25. Qg4 {0.00/20 1.901s} Nf7 {0.00/10 0.131s}
+26. Be5 {0.00/20 1.903s} Nxe5 {+0.01/13 0.118s} 27. Rxe5 {0.00/21 1.908s}
+Qb5 {-0.01/15 0.200s} 28. Rxe6 {0.00/20 1.904s} Qxb2 {0.00/16 0.149s}
+29. Rf1 {0.00/22 1.903s} Qxc3 {0.00/16 0.160s} 30. Rxe8 {0.00/24 1.900s}
+Rxe8 {0.00/19 0.150s} 31. Qd7 {0.00/25 1.901s} Re1 {0.00/20 0.172s}
+32. Qxd5+ {0.00/24 1.904s} Kh8 {0.00/20 0.270s} 33. Qa8+ {0.00/25 1.903s}
+Kh7 {0.00/18 0.262s} 34. Qxa7 {0.00/29 1.903s} Rxf1+ {0.00/21 0.137s}
+35. Kxf1 {0.00/32 1.902s} Qd3+ {0.00/24 0.142s} 36. Kg2 {0.00/32 1.901s}
+Qe4+ {0.00/26 0.068s} 37. Kg1 {0.00/32 1.900s} Qb1+ {0.00/26 0.103s}
+38. Kg2 {0.00/38 1.899s} Qe4+ {0.00/24 0.079s} 39. Kg1 {0.00/35 1.902s}
+Qb1+ {0.00/32 0.113s} 40. Kg2 {0.00/127 0.000s}
+Qe4+ {0.00/36 0.041s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "28"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1/2-1/2"]
+[GameDuration "00:01:37"]
+[GameStartTime "2026-07-30T22:59:36 +0200"]
+[GameEndTime "2026-07-30T23:01:14 +0200"]
+[PlyCount "113"]
+[Termination "normal"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+
+1. e4 {book} e6 {book} 2. d4 {book} d5 {book} 3. Nc3 {book} Bb4 {book}
+4. e5 {book} c5 {book} 5. a3 {book} Bxc3+ {book} 6. bxc3 {book} Ne7 {book}
+7. h4 {book} Qc7 {book} 8. h5 {book} cxd4 {book} 9. cxd4 {+0.95/14 0.064s}
+Qc3+ {-1.70/16 1.904s} 10. Bd2 {+0.74/11 0.129s} Qxd4 {-0.91/15 1.902s}
+11. Nf3 {+0.66/13 0.134s} Qe4+ {-1.18/16 1.902s} 12. Be2 {+0.79/15 0.137s}
+Nf5 {-1.35/16 1.903s} 13. Kf1 {+0.85/12 0.124s} b6 {-0.20/15 1.903s}
+14. Bb5+ {+0.48/10 0.110s} Nd7 {-0.57/16 1.904s} 15. Kg1 {+0.47/11 0.098s}
+h6 {-0.85/17 1.904s} 16. Bb4 {+0.88/13 0.090s} Bb7 {-0.73/15 1.900s}
+17. Rh3 {+1.03/11 0.122s} a5 {-1.10/16 1.901s} 18. Bd3 {+1.28/13 0.099s}
+Qf4 {-2.43/18 1.903s} 19. Bd6 {+0.96/12 0.096s} Nxd6 {-2.70/19 1.900s}
+20. Rh4 {+0.99/12 0.099s} Qxh4 {-2.61/17 1.902s} 21. Nxh4 {+1.22/16 0.114s}
+Nxe5 {-2.32/18 1.902s} 22. Qe2 {+1.29/14 0.087s} Nxd3 {-2.18/18 1.902s}
+23. cxd3 {+1.15/16 0.118s} O-O {-2.34/20 1.903s} 24. Rb1 {+1.13/13 0.100s}
+b5 {-1.39/16 1.901s} 25. Qe5 {+1.03/15 0.089s} Rfd8 {-1.89/17 1.901s}
+26. g4 {+0.99/10 0.113s} d4 {-1.91/18 1.903s} 27. f4 {+0.85/14 0.093s}
+b4 {-0.98/16 1.902s} 28. g5 {+1.07/13 0.113s} bxa3 {-0.98/17 1.902s}
+29. Kh2 {+1.34/11 0.107s} Bd5 {-1.28/15 1.905s} 30. Rg1 {+1.18/13 0.099s}
+Kf8 {-1.37/15 1.900s} 31. f5 {+1.02/12 0.102s} Nxf5 {-1.43/16 1.901s}
+32. Nxf5 {+0.57/8 0.072s} exf5 {-1.40/15 1.904s} 33. gxh6 {+0.54/12 0.124s}
+gxh6 {-0.26/15 1.903s} 34. Qf6 {+0.51/11 0.098s} Be6 {-1.35/15 1.899s}
+35. Qxh6+ {+0.42/15 0.091s} Ke7 {-0.39/17 1.902s} 36. Qg5+ {+0.46/14 0.107s}
+Kd7 {-0.72/18 1.902s} 37. h6 {+0.38/11 0.083s} a2 {0.00/17 1.902s}
+38. h7 {+0.36/11 0.412s} Rdb8 {0.00/15 1.903s} 39. Qg2 {+0.53/9 0.140s}
+Ke7 {-1.43/14 1.902s} 40. Ra1 {+0.58/13 0.108s} Kf6 {-1.89/16 1.903s}
+41. Re1 {+0.77/12 0.077s} Rh8 {-1.55/15 1.903s} 42. Qh3 {+0.98/14 0.144s}
+Ke7 {-1.66/13 1.903s} 43. Qh4+ {+0.92/14 0.260s} Ke8 {-0.93/16 1.904s}
+44. Rg1 {+1.03/16 0.119s} f4 {0.00/14 1.905s} 45. Kg2 {+0.51/12 0.142s}
+Kd7 {-0.47/15 1.909s} 46. Kf3 {+0.48/13 0.196s} Rab8 {-0.64/16 1.901s}
+47. Qf6 {+0.26/14 0.126s} Rxh7 {0.00/15 1.908s} 48. Qxd4+ {+0.46/8 0.560s}
+Kc6 {0.00/19 1.905s} 49. Rc1+ {+0.38/12 0.219s} Kb7 {0.00/21 1.900s}
+50. Qe5 {0.00/15 0.170s} Rh3+ {0.00/22 1.901s} 51. Kf2 {+0.12/15 0.095s}
+Rc8 {0.00/24 1.900s} 52. Qb5+ {0.00/22 0.073s} Ka7 {0.00/25 1.901s}
+53. Qxa5+ {0.00/27 0.119s} Kb7 {0.00/26 1.904s} 54. Qb5+ {0.00/27 0.100s}
+Ka7 {0.00/27 1.902s} 55. Qa5+ {0.00/30 0.081s} Kb7 {0.00/29 1.900s}
+56. Qb5+ {0.00/28 0.078s} Ka7 {0.00/46 1.903s}
+57. Qa5+ {0.00/33 0.108s, Draw by 3-fold repetition} 1/2-1/2
+
+[Event "Fastchess Tournament"]
+[Site "?"]
+[Date "2026.07.30"]
+[Round "27"]
+[White "SF_20knodes"]
+[Black "MeikeChess"]
+[Result "1-0"]
+[GameDuration "00:02:24"]
+[GameStartTime "2026-07-30T22:58:53 +0200"]
+[GameEndTime "2026-07-30T23:01:18 +0200"]
+[PlyCount "216"]
+[Termination "adjudication"]
+[WhiteTimeControl "-"]
+[BlackTimeControl "2/move"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+
+1. e4 {book} c5 {book} 2. Nf3 {book} d6 {book} 3. d4 {book} cxd4 {book}
+4. Qxd4 {book} a6 {book} 5. Bc4 {book} e6 {book} 6. Nc3 {book} Nf6 {book}
+7. Bg5 {book} Be7 {book} 8. Bb3 {book} Nc6 {book} 9. Qd3 {+0.01/11 0.070s}
+b5 {+0.55/15 1.901s} 10. O-O-O {-0.10/11 0.086s} O-O {+0.64/16 1.902s}
+11. Bxf6 {-0.29/11 0.096s} Bxf6 {+1.03/15 1.903s} 12. Qxd6 {-0.20/13 0.094s}
+Qb6 {+1.60/16 1.900s} 13. Nd5 {+0.29/13 0.106s} exd5 {+0.06/17 1.904s}
+14. exd5 {+0.12/12 0.151s} Bg4 {+0.01/17 1.899s} 15. dxc6 {+0.12/13 0.130s}
+Bxf3 {-0.17/19 1.903s} 16. gxf3 {+0.06/12 0.131s} Rad8 {-0.25/20 1.901s}
+17. Qf4 {0.00/16 0.159s} Qxc6 {-0.30/19 1.900s} 18. c3 {-0.02/11 0.133s}
+g6 {-0.36/19 1.901s} 19. h4 {+0.10/13 0.141s} h5 {-0.06/16 1.901s}
+20. Rxd8 {+0.20/11 0.159s} Bxd8 {-0.06/19 1.901s} 21. Qh6 {+2.24/16 0.082s}
+Re8 {-4.67/14 1.902s} 22. Rg1 {+2.39/17 0.127s} Re6 {-4.90/17 1.903s}
+23. Bxe6 {+2.40/14 0.110s} Qxe6 {-4.92/18 1.903s} 24. Qxh5 {+2.56/16 0.093s}
+b4 {-4.74/17 1.905s} 25. Qc5 {+2.68/16 0.096s} Qxa2 {-5.15/15 1.903s}
+26. Rg4 {+3.03/15 0.109s} Qa1+ {-5.84/14 1.901s} 27. Kc2 {+3.31/16 0.115s}
+Qa4+ {-6.42/14 1.899s} 28. Kd2 {+3.34/15 0.103s} bxc3+ {-7.03/16 1.900s}
+29. Qxc3 {+3.54/16 0.138s} Qb5 {-6.85/18 1.901s} 30. Re4 {+3.40/16 0.127s}
+Kh7 {-6.84/18 1.900s} 31. Ke1 {+3.50/16 0.125s} Qf5 {-6.49/17 1.900s}
+32. b3 {+3.16/14 0.128s} Bf6 {-6.95/16 1.905s} 33. Qd3 {+3.30/15 0.116s}
+Kg7 {-7.16/16 1.902s} 34. Ke2 {+3.33/16 0.146s} a5 {-6.73/16 1.901s}
+35. Qc4 {+3.32/15 0.106s} Kf8 {-7.31/16 1.900s} 36. Rf4 {+3.58/15 0.101s}
+Qb1 {-7.36/18 1.900s} 37. Re4 {+3.68/14 0.112s} Kg7 {-6.83/14 1.900s}
+38. Qd5 {+4.02/16 0.131s} Qa1 {-7.46/16 1.901s} 39. h5 {+4.14/16 0.151s}
+g5 {-9.11/14 1.901s} 40. Qd1 {+4.31/14 0.125s} Qxd1+ {-9.04/16 1.900s}
+41. Kxd1 {+4.40/17 0.116s} Kh6 {-8.78/27 1.904s} 42. Rc4 {+4.05/16 0.093s}
+Kxh5 {-8.80/28 1.901s} 43. Ke2 {+3.95/14 0.103s} Be7 {-8.76/31 1.899s}
+44. Rc7 {+3.65/14 0.128s} Bb4 {-8.77/32 1.903s} 45. Rxf7 {+3.67/16 0.109s}
+Kg6 {-8.81/32 1.901s} 46. Rd7 {+3.83/17 0.090s} Kf5 {-9.16/31 1.902s}
+47. Rd4 {+3.59/15 0.113s} Ke5 {-8.76/31 1.901s} 48. Rc4 {+3.60/15 0.077s}
+Bd6 {-9.24/29 1.902s} 49. Re4+ {+3.50/15 0.091s} Kf5 {-9.22/32 1.901s}
+50. Rc4 {+3.47/15 0.089s} Ke5 {0.00/63 1.902s} 51. Re4+ {+3.55/14 0.100s}
+Kf5 {0.00/81 1.899s} 52. Kf1 {+3.49/16 0.082s} Bb4 {-9.06/29 1.899s}
+53. Kg2 {+3.55/14 0.107s} Bc5 {-9.06/28 1.900s} 54. Rc4 {+3.96/15 0.136s}
+Ba3 {-10.29/23 1.900s} 55. f4 {+4.15/15 0.090s} gxf4 {-10.53/23 1.901s}
+56. Kf3 {+4.32/15 0.105s} Bd6 {-10.77/25 1.899s} 57. Rd4 {+4.05/12 0.082s}
+Ke6 {-11.25/23 1.901s} 58. Rxf4 {+4.65/15 0.077s} Kd5 {-11.48/22 1.899s}
+59. Rf5+ {+4.86/15 0.119s} Be5 {-11.89/22 1.900s} 60. Rxe5+ {+5.38/14 0.101s}
+Kxe5 {-15.04/25 1.900s} 61. Ke3 {+5.80/14 0.066s} Kd5 {-17.47/24 1.900s}
+62. f4 {+5.94/14 0.057s} Kc6 {-17.34/25 1.900s} 63. f5 {+5.99/14 0.055s}
+Kd7 {-17.57/24 1.901s} 64. Kd3 {+6.62/15 0.095s} Ke7 {-14.94/20 1.902s}
+65. Kc4 {+6.03/14 0.101s} Kf6 {-25.77/23 1.900s} 66. Kb5 {+5.94/18 0.074s}
+Kxf5 {-28.06/21 1.900s} 67. Kxa5 {+5.76/18 0.074s} Ke6 {-29.81/21 1.900s}
+68. b4 {+5.76/17 0.113s} Kd6 {-30.29/19 1.900s} 69. Kb6 {+5.54/15 0.084s}
+Ke5 {-30.76/19 1.902s} 70. Kc5 {+6.54/16 0.259s} Ke6 {-30.67/20 1.901s}
+71. Kc6 {+5.74/15 0.081s} Ke7 {-31.08/21 1.900s} 72. b5 {+5.82/16 0.054s}
+Kd8 {-28.90/17 1.899s} 73. Kb7 {+5.45/15 0.059s} Ke7 {-31.07/18 1.901s}
+74. Kc7 {+5.67/16 0.059s} Kf6 {-31.26/24 1.902s} 75. Kd6 {+5.95/15 0.042s}
+Kg5 {-31.26/23 1.901s} 76. Ke5 {+6.36/14 0.048s} Kh5 {-31.26/22 1.901s}
+77. Kf5 {+6.48/14 0.055s} Kh4 {-M34/23 1.718s} 78. b6 {+6.40/17 0.059s}
+Kg3 {-M26/21 0.160s} 79. Ke5 {+6.51/15 0.009s} Kf2 {-31.26/18 1.902s}
+80. Kd5 {+6.48/15 0.022s} Kf1 {-M62/22 1.653s} 81. Kd6 {+6.41/15 0.017s}
+Ke2 {-M98/15 0.494s} 82. Kc5 {+6.39/14 0.015s} Ke3 {-M74/16 0.306s}
+83. Kc4 {+6.37/15 0.015s} Kf4 {-M114/20 0.334s} 84. Kd5 {+6.03/14 0.028s}
+Kg5 {-M76/17 0.178s} 85. Ke6 {+6.10/14 0.033s} Kf4 {-M86/13 0.032s}
+86. Kd5 {+5.65/15 0.027s} Kg5 {0.00/127 0.070s} 87. Ke5 {+5.83/15 0.018s}
+Kg4 {-M96/12 0.011s} 88. Ke4 {+5.69/15 0.014s} Kh3 {-M106/13 0.063s}
+89. Kf3 {+6.22/14 0.011s} Kh4 {-M100/13 0.027s} 90. Kf4 {+5.81/14 0.012s}
+Kh3 {-M102/7 0.002s} 91. b7 {+5.81/15 0.011s} Kg2 {-M98/6 0.001s}
+92. Ke5 {+5.94/14 0.006s} Kf3 {-M94/6 0.000s} 93. Kd4 {+5.72/15 0.007s}
+Kf4 {-M114/11 0.017s} 94. Kd5 {+5.63/16 0.010s} Kg4 {-M74/7 0.001s}
+95. Ke4 {+5.76/14 0.007s} Kg5 {-M76/9 0.005s} 96. Ke5 {+5.67/15 0.011s}
+Kg6 {-M82/11 0.010s} 97. Ke6 {+5.66/14 0.011s} Kg5 {-M84/6 0.000s}
+98. Ke5 {+5.50/14 0.008s} Kg6 {0.00/127 0.011s} 99. Kf4 {+5.70/15 0.011s}
+Kf6 {-M110/13 0.168s} 100. b8=Q {+5.61/15 0.008s} Ke6 {-M82/12 0.057s}
+101. Qe5+ {+5.58/14 0.010s} Kd7 {-M86/10 0.060s} 102. Qd5+ {+5.54/14 0.009s}
+Kc7 {-M92/14 0.341s} 103. Kg3 {+5.58/14 0.023s} Kb6 {-M88/11 0.039s}
+104. Kf4 {+5.79/15 0.014s} Kc7 {0.00/127 0.001s} 105. Ke5 {+M9/24 0.013s}
+Kb8 {-M92/6 0.009s} 106. Kd6 {+M7/28 0.007s} Ka7 {-M6/6 0.003s}
+107. Kc6 {+M5/42 0.006s} Ka8 {-M4/6 0.000s} 108. Kc7+ {+M3/245 0.003s}
+Ka7 {-M2/6 0.000s, White wins by adjudication} 1-0
+

@@ -1,0 +1,25 @@
+{
+  "iter": 150,
+  "theta": {
+    "RfpMargin": 76.2030951238681,
+    "RfpMarginImp": 54.443622850496546,
+    "NullBase": 5.166380583245782,
+    "NullDepthDiv": 5.394011072528055,
+    "NullEvalDiv": 162.2578319611013,
+    "ProbCutMargin": 249.57134150459416,
+    "ProbCutImp": 66.62948050545461,
+    "FutBase": 158.383722544836,
+    "FutScale": 86.42985334127552,
+    "HistPruneMul": 4133.7349999791295,
+    "SeeCapMul": 63.81180524270546,
+    "SeeQuietMul": 60.15484558567108,
+    "LmrHistDiv": 7140.875330197874,
+    "LmrDivX100": 215.82844817731575,
+    "AspDelta": 13.033444924796617,
+    "HistBonusMul": 5.403658184435117,
+    "HistBonusMax": 7050.880111345258,
+    "SingularMul": 2.4597471775504562,
+    "LmpBase": 3.6873890455304617,
+    "LmpImpBase": 4.088055657701738
+  }
+}

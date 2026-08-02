@@ -1,0 +1,21 @@
+.DS_Store
+build/
+src/*.o
+src/fathom/*.o
+tools/fastchess/
+tools/baselines/
+tools/books/
+tools/ref/
+config.json
+
+# Syzygy: vendored Fathom objects + installed tablebase data (large).
+# Anchor the data dir to the repo root so it does NOT match src/syzygy/ (code).
+src/syzygy/*.o
+/syzygy/
+
+# NNUE embedded-weights object
+src/nnue/*.o
+
+# Editor / tooling artifacts
+.vscode/
+.clangd

@@ -1,0 +1,816 @@
+SPRT: dev=/Users/titojr/Documents/closed testing/Nature(v2)/engine-src/build/carelesschess
+      base=/Users/titojr/Documents/closed testing/Nature(v2)/engine-src/tools/baselines/cc-c2-probcut
+      tc=8+0.08  bounds=[0, 10]  alpha=0.05  beta=0.05
+      rounds<=2000  concurrency=4  hash=64MB  threads=1
+
+Indexing opening suite...
+Started game 1 of 4000 (dev vs base)
+Started game 3 of 4000 (dev vs base)
+Started game 2 of 4000 (base vs dev)
+Started game 4 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move g3g4 from dev
+Info; info depth 19 score cp 0 nodes 11303 nps 869461 time 13 pv e3f2
+Position; startpos
+Moves; g1f3 g8f6 c2c4 e7e6 g2g3 d7d5 f1g2 f8e7 d2d4 c7c6 e1g1 b8d7 d1c2 b7b6 f1d1 c8a6 b2b3 e8g8 b1d2 c6c5 c1b2 a8c8 a1c1 c5d4 f3d4 b6b5 c2b1 b5c4 b3c4 d8b6 c4d5 f6d5 b1a1 d7f6 g2f3 h7h5 d4b3 h5h4 b2d4 b6b4 d4a7 b4a3 c1c8 f8c8 d1c1 c8c1 a1c1 a3a2 a7c5 e7c5 c1c5 a2a4 g1g2 h4g3 h2g3 f6d7 c5a7 a6b5 a7a4 b5a4 f3d5 e6d5 b3d4 g8f8 d2b1 d7f6 f2f3 a4d7 d4b3 g7g6 g2f2 f8e7 b1c3 e7d6 f2e3 f6h5 e3f2 h5f6 f2e3 f6h5
+Finished game 1 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 5 of 4000 (dev vs base)
+Finished game 2 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 6 of 4000 (base vs dev)
+Finished game 4 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 7 of 4000 (dev vs base)
+Finished game 3 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 8 of 4000 (base vs dev)
+Finished game 5 (dev vs base): 1-0 {White wins by adjudication}
+Started game 9 of 4000 (dev vs base)
+Finished game 8 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 10 of 4000 (base vs dev)
+Finished game 6 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 11 of 4000 (dev vs base)
+Finished game 7 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 12 of 4000 (base vs dev)
+Finished game 10 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 13 of 4000 (dev vs base)
+Finished game 12 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 14 of 4000 (base vs dev)
+Finished game 9 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 15 of 4000 (dev vs base)
+Finished game 14 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 16 of 4000 (base vs dev)
+Finished game 13 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 17 of 4000 (dev vs base)
+Finished game 11 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 18 of 4000 (base vs dev)
+Finished game 15 (dev vs base): 1-0 {White wins by adjudication}
+Started game 19 of 4000 (dev vs base)
+Finished game 16 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 20 of 4000 (base vs dev)
+Finished game 17 (dev vs base): 1-0 {White wins by adjudication}
+Started game 21 of 4000 (dev vs base)
+Finished game 18 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 22 of 4000 (base vs dev)
+Finished game 20 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 23 of 4000 (dev vs base)
+Finished game 19 (dev vs base): 1-0 {White wins by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 88.74 +/- 78.61, nElo: 183.11 +/- 152.27
+LOS: 99.08 %, DrawRatio: 60.00 %, PairsRatio: inf
+Games: 20, Wins: 5, Losses: 0, Draws: 15, Points: 12.5 (62.50 %)
+Ptnml(0-2): [0, 0, 6, 3, 1], WL/DD Ratio: 0.00
+LLR: 0.20 (6.7%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 24 of 4000 (base vs dev)
+Finished game 21 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 25 of 4000 (dev vs base)
+Finished game 22 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 26 of 4000 (base vs dev)
+Finished game 23 (dev vs base): 1-0 {White wins by adjudication}
+Started game 27 of 4000 (dev vs base)
+Finished game 24 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 28 of 4000 (base vs dev)
+Finished game 25 (dev vs base): 1-0 {White wins by adjudication}
+Started game 29 of 4000 (dev vs base)
+Finished game 27 (dev vs base): 1-0 {White wins by adjudication}
+Started game 30 of 4000 (base vs dev)
+Finished game 28 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 31 of 4000 (dev vs base)
+Finished game 30 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 32 of 4000 (base vs dev)
+Finished game 26 (base vs dev): 1/2-1/2 {Draw by fifty moves rule}
+Started game 33 of 4000 (dev vs base)
+Finished game 31 (dev vs base): 1-0 {White wins by adjudication}
+Started game 34 of 4000 (base vs dev)
+Finished game 32 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 35 of 4000 (dev vs base)
+Finished game 29 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 36 of 4000 (base vs dev)
+Finished game 33 (dev vs base): 0-1 {Black wins by adjudication}
+Started game 37 of 4000 (dev vs base)
+Finished game 34 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 38 of 4000 (base vs dev)
+Finished game 36 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 39 of 4000 (dev vs base)
+Finished game 35 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 40 of 4000 (base vs dev)
+Finished game 37 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 41 of 4000 (dev vs base)
+Finished game 38 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 42 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move a8b8 from dev
+Info; info depth 16 score cp -87 nodes 90563 nps 642290 time 141 pv a7a6 a2a4 g5d8 e1g1 a8b8 d1h5 c8e6 g2g3 c6a5 c4d5 a5c6 d5c4 c6a5 h5e2 d8d7 c4e6 f7e6
+Position; startpos
+Moves; e2e4 c7c5 b1c3 d7d6 g1e2 e7e5 c3d5 f8e7 e2c3 g8f6 f1c4 e8g8 d2d3 f6d5 c3d5 e7g5 c1g5 d8g5 d5e3 b8c6 c2c3
+Finished game 40 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 43 of 4000 (dev vs base)
+Finished game 39 (dev vs base): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 88.74 +/- 60.96, nElo: 165.63 +/- 107.67
+LOS: 99.87 %, DrawRatio: 50.00 %, PairsRatio: 9.00
+Games: 40, Wins: 11, Losses: 1, Draws: 28, Points: 25.0 (62.50 %)
+Ptnml(0-2): [0, 1, 10, 7, 2], WL/DD Ratio: 0.00
+LLR: 0.39 (13.3%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 44 of 4000 (base vs dev)
+Finished game 42 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 45 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move g2h3 from dev
+Info; info depth 19 score cp 89 nodes 57699 nps 1227638 time 47 pv e8h8 f6g6 h8c8 g6f6 c8c6 g5f5 c6a8 f5g5 a8a6 f6f7 a6c4 f7f6 g2f2 f6f7 c4c6 g5f5 c6e4 f7f6 f2g1 e6g5
+Position; startpos
+Moves; e2e4 c7c5 b1c3 d7d6 g1e2 e7e5 c3d5 f8e7 e2c3 g8f6 f1c4 e8g8 d2d3 f6d5 c3d5 e7g5 c1g5 d8g5 d1f3 g5d8 c2c3 b8c6 e1g1 c6e7 d5e3 c8e6 a2a4 d8d7 c4b5 d7c7 b5c4 a8d8 h2h4 c7d7 c4b5 d7c8 b5c4 h7h6 h4h5 c8c6 c4e6 f7e6 f3e2 c6d7 g2g3 f8f6 e3g2 a7a6 g2h4 g8h7 b2b3 d8f8 a1b1 a6a5 b1d1 b7b6 d1d2 d7c8 e2d1 c8c7 d3d4 c5d4 c3d4 e5d4 d2d4 e6e5 d4d2 c7c6 f1e1 b6b5 g1g2 b5a4 b3a4 c6e8 e1f1 e8f7 g2h2 f8c8 d1e2 c8c4 h2g2 c4a4 f1d1 e7c8 e2g4 c8e7 g4e2 e7c8 d2d5 f7c7 h4f5 c8e7 d5d6 e7f5 d6f6 g7f6 e2g4 f5g7 d1d7 c7d7 g4d7 a4e4 d7f7 e4g4 f7f6 g4g5 g2g1 g5h5 f6f3 h5f5 f3e4 h6h5 e4a4 h7g6 a4c6 g6h7 c6c2 a5a4 c2a4 h7g6 a4d7 f5f6 d7d3 g6f7 d3e3 f6f5 e3a7 f7f6 a7c7 g7e6 c7h7 e6g7 h7h8 f6f7 h8c8 g7e6 g1f1 f7f6 c8c6 f5g5 c6d7 g5f5 d7h7 e6g7 h7h6 f6f7 h6c6 g7e6 c6b7 f7g6 b7b6 g6f7 f1g2 e6g5 b6h6 g5e6 h6h8 e6f8 g2g1 f8e6 g1f1 e6g7 h8c8 g7e6 f1g2 f5g5 c8h8 f7g6 g2f1 g5f5 h8g8 g6f6 g8e8 f5g5 e8h8 f6g6 h8g8 g6f6 g8h7 g5f5 h7h6 f6f7 f1e1 e6g7 h6d6 g7e6 d6d7 f7f6 d7c6 f6f7 c6a6 e6g5 a6h6 g5e6 e1e2 e6g7 h6c6 g7e6 c6d7 f7f6 d7e8 e6d4 e2f1 d4e6 f1g2 f5g5 f2f3 e6f4 g2h2 f4e6 h2g2 e6f4 g2f2 f4e6 e8h8 f6g6 h8g8 g6f6 g8e8 g5f5 e8h8 f6f7 f2g1 f5g5 g1g2 g5f5 h8h6 e6g7 h6h7 f7f6 h7h8 f6f7 h8h6 g7e6 h6h7 f7f6 h7g8 f5g5 g8a8 g5f5 a8a6 f6e7 a6c6 e7f7 c6d7 f7f6 d7e8 f5g5
+Finished game 43 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 46 of 4000 (base vs dev)
+Finished game 45 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 47 of 4000 (dev vs base)
+Finished game 44 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 48 of 4000 (base vs dev)
+Finished game 41 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 49 of 4000 (dev vs base)
+Finished game 46 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 50 of 4000 (base vs dev)
+Finished game 47 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 51 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move a2a4 from dev
+Info; info depth 17 score cp 0 nodes 4846 nps 692285 time 7 pv d2d3
+Position; startpos
+Moves; e2e4 c7c6 d2d4 d7d5 e4e5 c8f5 b1c3 e7e6 g2g4 f5g6 g1e2 c6c5 h2h4 c5d4 e2d4 h7h5 f1b5 b8d7 c1g5 f8e7 f2f4 h5g4 g5e7 g8e7 d1g4 g6h5 g4g7 h8g8 g7h7 d8b6 h7h5 b6d4 h5f3 e7g6 a1d1 d4f4 f3f4 g6f4 e1d2 g8g2 d2c1 f4g6 d1e1 a7a6 b5d7 e8d7 h4h5 g6e7 e1f1 g2g7 c3e2 e7c6 h5h6 g7h7 h1h5 a8h8 c1d2 d7e8 f1h1 c6e7 e2d4 e7g8 h1g1 e8d7 h5g5 g8h6 b2b3 d7e7 g1g3 e7d7 d2d3 d7e7 d3d2 e7d7
+Finished game 50 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 52 of 4000 (base vs dev)
+Finished game 49 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 53 of 4000 (dev vs base)
+Finished game 48 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 54 of 4000 (base vs dev)
+Finished game 53 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 55 of 4000 (dev vs base)
+Finished game 51 (dev vs base): 1/2-1/2 {Draw by adjudication}
+Started game 56 of 4000 (base vs dev)
+Finished game 54 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 57 of 4000 (dev vs base)
+Finished game 55 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 58 of 4000 (base vs dev)
+Finished game 52 (base vs dev): 1/2-1/2 {Draw by fifty moves rule}
+Started game 59 of 4000 (dev vs base)
+Finished game 58 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 60 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move c4f4 from dev
+Info; info depth 17 score cp 0 nodes 25576 nps 710444 time 36 pv g2f3
+Position; startpos
+Moves; d2d4 d7d5 c2c4 d5c4 g1f3 e7e6 e2e3 c7c5 f1c4 a7a6 e1g1 g8f6 c4b3 b7b5 a2a4 b5b4 b1d2 f8e7 e3e4 c8b7 e4e5 f6d7 d2c4 e8g8 c1f4 b8c6 b3c2 c6a5 c4d6 b7d5 d1d3 g7g6 d4c5 d7c5 d3e3 c5b7 d6b7 d5b7 f4h6 a5c4 e3e2 b7f3 g2f3 d8d4 f1d1 d4h4 h6f8 a8f8 e2e4 h4g5 e4g4 g5g4 f3g4 c4e5 c2d3 a6a5 d3e2 e7g5 d1d6 f8c8 d6a6 c8c5 a1d1 g5f4 h2h4 h7h6 g1f1 g6g5 h4h5 g8g7 b2b3 g7f6 a6a8 f6e7 a8a7 e7f6 a7a6 f6e7 d1d4 c5c1 f1g2 e7f6 d4e4 c1c5 a6a8 f6g7 e2b5 e5g4 a8a5 g4f6 e4c4 c5d5 a5a7 d5d2 g2f3 d2d3 f3g2 d3d2
+Warning; Bestmove does not match beginning of last PV - move e4h1 from dev
+Info; info depth 23 score cp 297 nodes 63662 nps 1818914 time 35 pv e3d4 d6e6 e4f3 e6f5 f3g2 f5f4 g2b7 f4g4 d4d3 g4f4 b7d5 f4g4 d5a8 g4f5 a8f3 f5e5 f3e4 e5f4 e4b7 f4f5 b7g2 f5g5 d3c4 g5f4
+Position; startpos
+Moves; d2d4 d7d5 c2c4 d5c4 g1f3 e7e6 e2e3 c7c5 f1c4 a7a6 e1g1 g8f6 c4b3 b7b5 a2a4 b5b4 b1d2 f8e7 e3e4 c8b7 e4e5 f6d7 d2c4 e8g8 c1f4 b8c6 b3c2 c6a5 c4d6 b7d5 d1d3 g7g6 d4c5 d7c5 d3e3 c5b7 d6b7 d5b7 f4h6 a5c4 e3e2 b7f3 g2f3 d8d4 f1d1 d4h4 h6f8 a8f8 e2e4 h4g5 e4g4 g5g4 f3g4 c4e5 c2d3 a6a5 d3e2 e7g5 d1d6 f8c8 d6a6 c8c5 a1d1 g5f4 h2h4 h7h6 g1f1 g6g5 h4h5 g8g7 b2b3 g7f6 a6a8 f6e7 a8a7 e7f6 a7a6 f6e7 d1d4 c5c1 f1g2 e7f6 d4e4 c1c5 a6a8 f6g7 e2b5 e5g4 a8a5 g4f6 e4c4 c5d5 a5a7 d5d2 g2f3 d2d3 f3g2 d3d2 c4f4 g5f4 g2f3 f6h5 a4a5 h5f6 a5a6 d2c2 f3f4 c2f2 f4e3 f2a2 b5a4 f6d5 e3d4 d5c3 a4e8 g7f8 e8c6 h6h5 d4c5 h5h4 c5b6 h4h3 a7d7 h3h2 a6a7 c3d5 d7d5 e6d5 c6d5 a2a7 b6a7 f8e7 a7b6 e7f6 b6c5 f6f5 d5c6 f5f4 c5d4 f4g3 d4e3 g3g4 c6f3 g4g3 f3h1 g3g4 h1d5 g4f5 d5f3 f5e5 f3e4 e5d6
+Finished game 57 (dev vs base): 1-0 {White wins by adjudication}
+Started game 61 of 4000 (dev vs base)
+Finished game 56 (base vs dev): 1/2-1/2 {Draw by fifty moves rule}
+Started game 62 of 4000 (base vs dev)
+Finished game 60 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 63 of 4000 (dev vs base)
+Finished game 59 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 70.44 +/- 43.20, nElo: 148.15 +/- 87.91
+LOS: 99.95 %, DrawRatio: 60.00 %, PairsRatio: 11.00
+Games: 60, Wins: 13, Losses: 1, Draws: 46, Points: 36.0 (60.00 %)
+Ptnml(0-2): [0, 1, 18, 9, 2], WL/DD Ratio: 0.00
+LLR: 0.52 (17.8%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 64 of 4000 (base vs dev)
+Finished game 62 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 65 of 4000 (dev vs base)
+Finished game 61 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 66 of 4000 (base vs dev)
+Finished game 63 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 67 of 4000 (dev vs base)
+Finished game 64 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 68 of 4000 (base vs dev)
+Finished game 65 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 69 of 4000 (dev vs base)
+Finished game 67 (dev vs base): 1-0 {White wins by adjudication}
+Started game 70 of 4000 (base vs dev)
+Finished game 69 (dev vs base): 1-0 {White wins by adjudication}
+Started game 71 of 4000 (dev vs base)
+Finished game 66 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 72 of 4000 (base vs dev)
+Finished game 68 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 73 of 4000 (dev vs base)
+Finished game 70 (base vs dev): 1-0 {White wins by adjudication}
+Started game 74 of 4000 (base vs dev)
+Finished game 71 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 75 of 4000 (dev vs base)
+Finished game 72 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 76 of 4000 (base vs dev)
+Finished game 74 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 77 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move e7e6 from dev
+Info; info depth 16 score cp 0 nodes 52363 nps 630879 time 83 pv c6b7
+Position; startpos
+Moves; d2d4 g7g6 g1f3 f8g7 c2c3 g8f6 c1g5 b7b6 b1d2 c8b7 e2e3 d7d6 a2a4 a7a6 f1d3 e8g8 e1g1 c7c5 g5h4 c5d4 e3d4 d8c7 f1e1 f8e8 h2h3 b8d7 d2c4 g7h6 d3f1 h6f4 d1d3 b7c6 d3d1
+Finished game 73 (dev vs base): 1-0 {White wins by adjudication}
+Started game 78 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move d8g8 from base
+Info; info depth 15 score cp 0 nodes 15044 nps 366926 time 41 pv g4g7
+Position; startpos
+Moves; d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 e8g8 f1e2 d7d6 c1g5 h7h6 g5h4 c7c5 d4d5 a7a6 f2f4 b7b5 d1c2 b8d7 g1f3 f6h5 c2d2 d7b6 f4f5 g6g5 f3g5 h6g5 h4g5 h5f6 e1g1 f6h7 f1f3 g8h8 f3h3 f8g8 a1f1 b6d7 f1f3 g7d4 g1h1 g8g7 g5h6 g7g4 h6e3 g4g7 e3h6 g7g4 h6e3
+Warning; Bestmove does not match beginning of last PV - move d7b6 from dev
+Info; info depth 16 score cp 0 nodes 14745 nps 670227 time 22 pv d8e8
+Position; startpos
+Moves; d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 e8g8 f1e2 d7d6 c1g5 h7h6 g5h4 c7c5 d4d5 a7a6 f2f4 b7b5 d1c2 b8d7 g1f3 d7b6 e1g1 b6c4 e2c4 b5c4 a1e1 f6h5 c2c1 a8b8 h2h3 g7d4 h4f2 d4g7 g2g4 h5f6 f2h4 a6a5 c1d2 a5a4 f1f2 a4a3 b2a3 c8b7 a3a4 f6d7 e1e3 d8e8 e3e1 e8d8 e1e3
+Warning; Bestmove does not match beginning of last PV - move c2c5 from base
+Info; info depth 14 score cp -361 nodes 27361 nps 1140041 time 24 pv c2h2 d5d4 a3a4 d3c3 h2h6 d4d3 h6c6 c3d4 c6d6 d4e3 d6e6 e3f2 e6d6 f2e2 d6e6 e2d1 a4a5 d3d2 a5a6 d1c2
+Position; startpos
+Moves; d2d4 g7g6 g1f3 f8g7 c2c3 g8f6 c1g5 b7b6 b1d2 c8b7 e2e3 d7d6 a2a4 a7a6 f1d3 e8g8 e1g1 c7c5 g5h4 c5d4 e3d4 d8c7 f1e1 f8e8 h2h3 b8d7 d2c4 g7h6 d3f1 h6f4 d1d3 b7c6 d3d1 e7e6 c4a3 f6e4 a3c2 c6b7 c2b4 f7f5 b4d3 f4h6 d3b4 d7f6 h4f6 e4f6 d1b3 f6e4 f1d3 g8h8 a1d1 e8e7 e1e2 h6f4 b3c4 c7c4 d3c4 h8g7 f3e1 g7f6 h3h4 h7h5 b4c2 f4h6 e1f3 g6g5 h4g5 h6g5 d4d5 e6e5 c4d3 e4c5 f3g5 f6g5 f2f4 g5f6 f4e5 e7e5 e2f2 a8e8 g1h2 e5d5 c2d4 c5d3 d1d3 e8e4 d3h3 h5h4 d4f3 e4a4 f3d4 a4d4 c3d4 d5d4 h3a3 d4b4 h2h3 a6a5 a3d3 f6e5 d3e3 b7e4 h3h4 d6d5 g2g4 f5g4 h4g4 b6b5 f2h2 b4c4 g4g3 b5b4 e3e2 b4b3 g3f2 a5a4 h2h5 e5d6 f2e3 a4a3 b2a3 c4c3 e3f4 c3f3 f4g4 f3f8 h5h6 d6c5 e2b2 e4c2 h6h2 c5c4 h2c2 b3c2 b2c2 c4d3
+Finished game 76 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 79 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move g1f1 from base
+Info; info depth 11 score cp -40 nodes 19502 nps 650066 time 30 pv g1h2 e3f2 f4g2 d4d3 b5d3 d7f6 d6e5 a8d5 d3g3 f2f1 e5d4 d5g2 g3b8 g8h7 d4f6 f1f6 h2g2
+Position; startpos
+Moves; d2d4 g8f6 c2c4 g7g6 b1c3 f8g7 e2e4 e8g8 f1e2 d7d6 c1g5 h7h6 g5h4 c7c5 d4d5 a7a6 f2f4 b7b5 d1c2 b8d7 g1f3 d7b6 e1g1 b6c4 e2c4 b5c4 a1e1 f6h5 c2c1 a8b8 h2h3 g7d4 h4f2 d4g7 g2g4 h5f6 f2h4 a6a5 c1d2 a5a4 f1f2 a4a3 b2a3 c8b7 a3a4 f6d7 e1e3 d8e8 e3e1 e8d8 e1e3 d7b6 f2f1 d8e8 f1e1 b7a8 a4a5 b6d7 e1d1 b8b4 d2e2 g7c3 e3c3 e7e6 e2c2 e6d5 e4d5 e8b8 c3e3 f8e8 e3e6 d7f8 e6e1 c4c3 c2c3 e8e1 f3e1 b4f4 h4g3 f4a4 c3b3 b8e8 e1g2 a4d4 d1d4 c5d4 g3d6 e8e4 g2f4 f8d7 b3b5 e4e3
+Finished game 77 (dev vs base): 1-0 {White wins by adjudication}
+Started game 80 of 4000 (base vs dev)
+Finished game 75 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 81 of 4000 (dev vs base)
+Finished game 78 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 82 of 4000 (base vs dev)
+Finished game 81 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 83 of 4000 (dev vs base)
+Finished game 82 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 84 of 4000 (base vs dev)
+Finished game 79 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 85 of 4000 (dev vs base)
+Finished game 83 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 86 of 4000 (base vs dev)
+Finished game 80 (base vs dev): 0-1 {Black wins by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 81.99 +/- 37.60, nElo: 170.90 +/- 75.20
+LOS: 100.00 %, DrawRatio: 56.10 %, PairsRatio: 17.00
+Games: 82, Wins: 21, Losses: 2, Draws: 59, Points: 50.5 (61.59 %)
+Ptnml(0-2): [0, 1, 23, 14, 3], WL/DD Ratio: 0.05
+LLR: 0.77 (26.3%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 87 of 4000 (dev vs base)
+Finished game 84 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 88 of 4000 (base vs dev)
+Finished game 87 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 89 of 4000 (dev vs base)
+Finished game 85 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 90 of 4000 (base vs dev)
+Finished game 86 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 91 of 4000 (dev vs base)
+Finished game 88 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 92 of 4000 (base vs dev)
+Finished game 89 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 93 of 4000 (dev vs base)
+Finished game 91 (dev vs base): 1-0 {White wins by adjudication}
+Started game 94 of 4000 (base vs dev)
+Finished game 90 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 95 of 4000 (dev vs base)
+Finished game 92 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 96 of 4000 (base vs dev)
+Finished game 93 (dev vs base): 1-0 {White wins by adjudication}
+Started game 97 of 4000 (dev vs base)
+Finished game 94 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 98 of 4000 (base vs dev)
+Finished game 95 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 99 of 4000 (dev vs base)
+Finished game 96 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 100 of 4000 (base vs dev)
+Finished game 98 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 101 of 4000 (dev vs base)
+Finished game 97 (dev vs base): 1-0 {White wins by adjudication}
+Started game 102 of 4000 (base vs dev)
+Finished game 99 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 103 of 4000 (dev vs base)
+Finished game 100 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 88.74 +/- 33.00, nElo: 191.84 +/- 68.10
+LOS: 100.00 %, DrawRatio: 52.00 %, PairsRatio: 23.00
+Games: 100, Wins: 27, Losses: 2, Draws: 71, Points: 62.5 (62.50 %)
+Ptnml(0-2): [0, 1, 26, 20, 3], WL/DD Ratio: 0.04
+LLR: 0.98 (33.3%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 104 of 4000 (base vs dev)
+Finished game 102 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 105 of 4000 (dev vs base)
+Finished game 101 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 106 of 4000 (base vs dev)
+Finished game 105 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 107 of 4000 (dev vs base)
+Finished game 103 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 108 of 4000 (base vs dev)
+Finished game 104 (base vs dev): 1/2-1/2 {Draw by adjudication}
+Started game 109 of 4000 (dev vs base)
+Finished game 108 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 110 of 4000 (base vs dev)
+Finished game 107 (dev vs base): 0-1 {Black wins by adjudication}
+Started game 111 of 4000 (dev vs base)
+Finished game 106 (base vs dev): 1/2-1/2 {Draw by insufficient mating material}
+Started game 112 of 4000 (base vs dev)
+Finished game 109 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 113 of 4000 (dev vs base)
+Finished game 112 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 114 of 4000 (base vs dev)
+Finished game 110 (base vs dev): 1/2-1/2 {Draw by insufficient mating material}
+Started game 115 of 4000 (dev vs base)
+Finished game 114 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 116 of 4000 (base vs dev)
+Finished game 113 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 117 of 4000 (dev vs base)
+Finished game 111 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 118 of 4000 (base vs dev)
+Finished game 115 (dev vs base): 1-0 {White wins by adjudication}
+Started game 119 of 4000 (dev vs base)
+Finished game 117 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 120 of 4000 (base vs dev)
+Finished game 116 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 121 of 4000 (dev vs base)
+Finished game 118 (base vs dev): 1-0 {White wins by adjudication}
+Started game 122 of 4000 (base vs dev)
+Finished game 121 (dev vs base): 1-0 {White wins by adjudication}
+Started game 123 of 4000 (dev vs base)
+Finished game 120 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 124 of 4000 (base vs dev)
+Finished game 119 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 82.59 +/- 32.39, nElo: 165.10 +/- 62.16
+LOS: 100.00 %, DrawRatio: 50.00 %, PairsRatio: 9.00
+Games: 120, Wins: 32, Losses: 4, Draws: 84, Points: 74.0 (61.67 %)
+Ptnml(0-2): [0, 3, 30, 23, 4], WL/DD Ratio: 0.03
+LLR: 1.14 (38.6%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 125 of 4000 (dev vs base)
+Finished game 122 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 126 of 4000 (base vs dev)
+Finished game 123 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 127 of 4000 (dev vs base)
+Finished game 125 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 128 of 4000 (base vs dev)
+Finished game 124 (base vs dev): 1/2-1/2 {Draw by fifty moves rule}
+Started game 129 of 4000 (dev vs base)
+Finished game 126 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 130 of 4000 (base vs dev)
+Finished game 127 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 131 of 4000 (dev vs base)
+Finished game 129 (dev vs base): 1-0 {White wins by adjudication}
+Started game 132 of 4000 (base vs dev)
+Finished game 130 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 133 of 4000 (dev vs base)
+Finished game 131 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 134 of 4000 (base vs dev)
+Finished game 128 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 135 of 4000 (dev vs base)
+Finished game 133 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 136 of 4000 (base vs dev)
+Finished game 134 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 137 of 4000 (dev vs base)
+Finished game 132 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 138 of 4000 (base vs dev)
+Finished game 135 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 139 of 4000 (dev vs base)
+Finished game 139 (dev vs base): 1-0 {White wins by adjudication}
+Started game 140 of 4000 (base vs dev)
+Finished game 138 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 141 of 4000 (dev vs base)
+Finished game 136 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 142 of 4000 (base vs dev)
+Finished game 137 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 143 of 4000 (dev vs base)
+Finished game 140 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 78.23 +/- 28.68, nElo: 162.78 +/- 57.55
+LOS: 100.00 %, DrawRatio: 52.86 %, PairsRatio: 10.00
+Games: 140, Wins: 35, Losses: 4, Draws: 101, Points: 85.5 (61.07 %)
+Ptnml(0-2): [0, 3, 37, 26, 4], WL/DD Ratio: 0.03
+LLR: 1.29 (43.8%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 144 of 4000 (base vs dev)
+Finished game 141 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 145 of 4000 (dev vs base)
+Finished game 142 (base vs dev): 1-0 {White wins by adjudication}
+Started game 146 of 4000 (base vs dev)
+Finished game 143 (dev vs base): 1-0 {White mates}
+Started game 147 of 4000 (dev vs base)
+Finished game 145 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 148 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move b8a7 from dev
+Info; info depth 21 score cp 0 nodes 22259 nps 674515 time 33 pv h7e7
+Position; startpos
+Moves; d2d4 g8f6 c2c4 e7e6 b1c3 f8b4 f2f3 c7c5 d4d5 b4c3 b2c3 d7d6 e2e4 e6e5 f1d3 b8d7 a2a4 a7a5 a1a2 h7h6 a2b2 d8e7 g1e2 e8d8 e2g3 g7g6 e1g1 d8c7 f3f4 e5f4 c1f4 a8a6 d1f3 d7e5 f4e5 d6e5 f1b1 f6e8 g3f1 h6h5 f1d2 b7b6 f3f2 g6g5 d2f1 h8h6 f1e3 e8d6 e3f5 d6f5 e4f5 h5h4 b1f1 f7f6 f1b1 c8d7 f2c2 h6h8 h2h3 e7d6 d3e4 h8b8 g1f2 b8b7 b1a1 a6a8 f2e3 a8h8 c2d1 h8h7 a1a2 c7b8 d1b1 b8a7 b1d3 d7c8 b2b1 b7b8 e3f3 h7b7 d3e3 b7e7 e3f2 e7h7 f2e2 c8a6 f3f2 h7d7 f2e3 d6f8 a2b2 b8b7 e3d3 f8d8 d3c2 d7d6 c2b3 b7h7 e2g4 a7b8 e4f3 d8c7 b3a3 a6c8 g4e4 h7e7 e4g4 e7h7 g4e4
+Finished game 144 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 149 of 4000 (dev vs base)
+Finished game 147 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 150 of 4000 (base vs dev)
+Finished game 146 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 151 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move d5c7 from base
+Info; info depth 21 score cp 0 nodes 1134 nps 0 time 0 pv e6f4
+Position; startpos
+Moves; d2d4 g8f6 g2g3 g7g6 f1g2 f8g7 e2e4 d7d6 g1e2 e8g8 e1g1 e7e5 c2c3 f8e8 d4e5 d6e5 d1c2 c8e6 f1d1 d8c8 b2b3 e8d8 d1d8 c8d8 b1d2 a7a5 d2f3 a5a4 a1b1 b8c6 f3e1 a4b3 a2b3 d8d7 f2f3 f6e8 c1e3 e8d6 b1d1 a8a3 e2c1 b7b6 g2f1 h7h5 c2b2 a3a8 b2c2 f7f5 e4f5 e6f5 f1d3 d7e6 d3f5 d6f5 c2e4 f5e3 e4e3 e5e4 e1d3 a8d8 e3e4 e6e4 f3e4 g7c3 c1e2 c3g7 e2f4 c6d4 d3f2 g8f7 g1f1 d8a8 f2h3 g7e5 h3g5 f7f6 g5h7 f6g7 h7g5 a8a2 d1d4 e5d4 g5e6 g7f6 e6d4 f6e5 d4e2 a2a3 f4g6 e5e4 e2c3 e4d3 c3b5 a3b3 b5c7 d3e4 f1g2 b3c3 c7b5 c3c5 b5d6 e4d5 d6f5 c5c3 g6f4 d5e5 f5h4 e5e4 f4h5 b6b5 h5f6 e4d3 f6d5 c3c5 h4g6 d3e4 g6f4 c5c2 g2h3 e4f3 f4e6 f3e4 e6f4 e4f3 f4e6 f3e4
+Finished game 148 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 152 of 4000 (base vs dev)
+Finished game 149 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 153 of 4000 (dev vs base)
+Finished game 150 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 154 of 4000 (base vs dev)
+Finished game 151 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 155 of 4000 (dev vs base)
+Finished game 153 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 156 of 4000 (base vs dev)
+Finished game 152 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 157 of 4000 (dev vs base)
+Finished game 154 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 158 of 4000 (base vs dev)
+Finished game 156 (base vs dev): 1/2-1/2 {Draw by insufficient mating material}
+Started game 159 of 4000 (dev vs base)
+Finished game 158 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 160 of 4000 (base vs dev)
+Finished game 157 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 161 of 4000 (dev vs base)
+Finished game 155 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 162 of 4000 (base vs dev)
+Finished game 159 (dev vs base): 0-1 {Black wins by adjudication}
+Started game 163 of 4000 (dev vs base)
+Finished game 160 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 72.70 +/- 27.24, nElo: 148.24 +/- 53.83
+LOS: 100.00 %, DrawRatio: 51.25 %, PairsRatio: 6.80
+Games: 160, Wins: 39, Losses: 6, Draws: 115, Points: 96.5 (60.31 %)
+Ptnml(0-2): [0, 5, 41, 30, 4], WL/DD Ratio: 0.03
+LLR: 1.42 (48.3%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 164 of 4000 (base vs dev)
+Finished game 162 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 165 of 4000 (dev vs base)
+Finished game 161 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 166 of 4000 (base vs dev)
+Finished game 164 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 167 of 4000 (dev vs base)
+Finished game 165 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 168 of 4000 (base vs dev)
+Finished game 163 (dev vs base): 1-0 {White wins by adjudication}
+Started game 169 of 4000 (dev vs base)
+Finished game 166 (base vs dev): 1-0 {White wins by adjudication}
+Started game 170 of 4000 (base vs dev)
+Finished game 167 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 171 of 4000 (dev vs base)
+Finished game 170 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 172 of 4000 (base vs dev)
+Finished game 168 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 173 of 4000 (dev vs base)
+Finished game 169 (dev vs base): 1-0 {White wins by adjudication}
+Started game 174 of 4000 (base vs dev)
+Finished game 171 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 175 of 4000 (dev vs base)
+Finished game 173 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 176 of 4000 (base vs dev)
+Finished game 175 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 177 of 4000 (dev vs base)
+Finished game 172 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 178 of 4000 (base vs dev)
+Finished game 174 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 179 of 4000 (dev vs base)
+Finished game 177 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 180 of 4000 (base vs dev)
+Finished game 176 (base vs dev): 1/2-1/2 {Draw by adjudication}
+Started game 181 of 4000 (dev vs base)
+Finished game 178 (base vs dev): 1-0 {White wins by adjudication}
+Started game 182 of 4000 (base vs dev)
+Finished game 180 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 183 of 4000 (dev vs base)
+Finished game 179 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 68.43 +/- 25.95, nElo: 137.60 +/- 50.76
+LOS: 100.00 %, DrawRatio: 50.00 %, PairsRatio: 5.43
+Games: 180, Wins: 43, Losses: 8, Draws: 129, Points: 107.5 (59.72 %)
+Ptnml(0-2): [0, 7, 45, 34, 4], WL/DD Ratio: 0.02
+LLR: 1.55 (52.7%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 184 of 4000 (base vs dev)
+Finished game 181 (dev vs base): 1-0 {White wins by adjudication}
+Started game 185 of 4000 (dev vs base)
+Finished game 184 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 186 of 4000 (base vs dev)
+Finished game 185 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 187 of 4000 (dev vs base)
+Finished game 183 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 188 of 4000 (base vs dev)
+Finished game 182 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 189 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move c1d1 from base
+Info; info depth 16 score cp 0 nodes 32314 nps 343765 time 94 pv h4f3 d7f5
+Position; startpos
+Moves; d2d4 g8f6 g1f3 g7g6 g2g3 f8g7 f1g2 e8g8 e1g1 d7d6 b1c3 b8c6 c1f4 f6d7 d1d2 e7e5 d4e5 d6e5 f4h6 d7f6 d2d8 f8d8 h6g7 g8g7 f1c1 c8f5 f3h4 f5d7
+Finished game 186 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 190 of 4000 (base vs dev)
+Finished game 188 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 191 of 4000 (dev vs base)
+Finished game 189 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 192 of 4000 (base vs dev)
+Finished game 187 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 193 of 4000 (dev vs base)
+Finished game 191 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 194 of 4000 (base vs dev)
+Finished game 190 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 195 of 4000 (dev vs base)
+Finished game 192 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 196 of 4000 (base vs dev)
+Finished game 195 (dev vs base): 0-1 {Black wins by adjudication}
+Started game 197 of 4000 (dev vs base)
+Finished game 193 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 198 of 4000 (base vs dev)
+Finished game 194 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 199 of 4000 (dev vs base)
+Finished game 198 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 200 of 4000 (base vs dev)
+Finished game 197 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 201 of 4000 (dev vs base)
+Finished game 200 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 202 of 4000 (base vs dev)
+Finished game 199 (dev vs base): 0-1 {Black wins by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 65.70 +/- 24.52, nElo: 133.02 +/- 48.39
+LOS: 100.00 %, DrawRatio: 50.51 %, PairsRatio: 5.12
+Games: 198, Wins: 46, Losses: 9, Draws: 143, Points: 117.5 (59.34 %)
+Ptnml(0-2): [0, 8, 50, 37, 4], WL/DD Ratio: 0.02
+LLR: 1.67 (56.8%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 203 of 4000 (dev vs base)
+Finished game 196 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 204 of 4000 (base vs dev)
+Finished game 202 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 205 of 4000 (dev vs base)
+Finished game 203 (dev vs base): 1-0 {White wins by adjudication}
+Started game 206 of 4000 (base vs dev)
+Finished game 201 (dev vs base): 1-0 {White wins by adjudication}
+Started game 207 of 4000 (dev vs base)
+Finished game 204 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 208 of 4000 (base vs dev)
+Finished game 205 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 209 of 4000 (dev vs base)
+Finished game 206 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 210 of 4000 (base vs dev)
+Finished game 207 (dev vs base): 0-1 {Black wins by adjudication}
+Started game 211 of 4000 (dev vs base)
+Finished game 208 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 212 of 4000 (base vs dev)
+Finished game 210 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 213 of 4000 (dev vs base)
+Finished game 209 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 214 of 4000 (base vs dev)
+Finished game 214 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 215 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move g6f6 from base
+Info; info depth 12 score cp -253 nodes 33752 nps 803619 time 42 pv g6h6 g4g5 b3b2 g2h3 b2b1 g5b5 b4b3 h4h5 h6h7 h3g4 b3b2 b5b6 h7g7
+Position; startpos
+Moves; e2e4 e7e5 g1f3 b8c6 f1c4 f8c5 c2c3 g8f6 d2d3 a7a6 c4b3 c5a7 h2h3 h7h6 b1d2 d7d5 e4d5 f6d5 d2c4 e8g8 e1g1 f7f6 d3d4 e5d4 f1e1 b7b5 c4e3 c8e6 e3d5 e6d5 c1h6 g7h6 f3h4 f8f7 h4f5 f7h7 d1f3 d5b3 a2b3 c6e5 e1e5 f6e5 a1a6 d4c3 f3g3 g8f8 a6g6 f8f7 f5h6 h7h6 g6h6 a7f2 g3f2 f7g7 h6c6 a8a1 g1h2 c3b2 f2b2 d8d4 c6c7 g7f6 c7c3 d4f4 g2g3 f4f1 c3c6 f6f7 b2g2 f1g2 h2g2 a1a3 c6c3 b5b4 c3e3 e5e4 h3h4 f7f6 e3e4 a3b3 e4f4 f6g6 f4g4
+Finished game 211 (dev vs base): 1-0 {White wins by adjudication}
+Started game 216 of 4000 (base vs dev)
+Finished game 212 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 217 of 4000 (dev vs base)
+Finished game 213 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 218 of 4000 (base vs dev)
+Finished game 215 (dev vs base): 1-0 {White wins by adjudication}
+Started game 219 of 4000 (dev vs base)
+Finished game 217 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 220 of 4000 (base vs dev)
+Finished game 216 (base vs dev): 1/2-1/2 {Draw by fifty moves rule}
+Started game 221 of 4000 (dev vs base)
+Finished game 218 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 222 of 4000 (base vs dev)
+Finished game 219 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 223 of 4000 (dev vs base)
+Finished game 220 (base vs dev): 0-1 {Black wins by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 72.08 +/- 24.35, nElo: 140.12 +/- 45.91
+LOS: 100.00 %, DrawRatio: 48.18 %, PairsRatio: 5.33
+Games: 220, Wins: 56, Losses: 11, Draws: 153, Points: 132.5 (60.23 %)
+Ptnml(0-2): [0, 9, 53, 42, 6], WL/DD Ratio: 0.04
+LLR: 1.95 (66.2%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 224 of 4000 (base vs dev)
+Finished game 222 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 225 of 4000 (dev vs base)
+Finished game 221 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 226 of 4000 (base vs dev)
+Finished game 223 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 227 of 4000 (dev vs base)
+Finished game 225 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 228 of 4000 (base vs dev)
+Finished game 226 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 229 of 4000 (dev vs base)
+Finished game 224 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 230 of 4000 (base vs dev)
+Finished game 227 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 231 of 4000 (dev vs base)
+Finished game 229 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 232 of 4000 (base vs dev)
+Finished game 228 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 233 of 4000 (dev vs base)
+Finished game 231 (dev vs base): 1-0 {White wins by adjudication}
+Started game 234 of 4000 (base vs dev)
+Finished game 230 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 235 of 4000 (dev vs base)
+Finished game 232 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 236 of 4000 (base vs dev)
+Finished game 236 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 237 of 4000 (dev vs base)
+Finished game 233 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 238 of 4000 (base vs dev)
+Finished game 235 (dev vs base): 1/2-1/2 {Draw by insufficient mating material}
+Started game 239 of 4000 (dev vs base)
+Finished game 239 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 240 of 4000 (base vs dev)
+Finished game 237 (dev vs base): 1-0 {White wins by adjudication}
+Started game 241 of 4000 (dev vs base)
+Finished game 234 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 242 of 4000 (base vs dev)
+Finished game 238 (base vs dev): 1/2-1/2 {Draw by adjudication}
+Started game 243 of 4000 (dev vs base)
+Finished game 240 (base vs dev): 1-0 {White wins by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 68.93 +/- 23.00, nElo: 135.41 +/- 43.96
+LOS: 100.00 %, DrawRatio: 49.17 %, PairsRatio: 5.10
+Games: 240, Wins: 59, Losses: 12, Draws: 169, Points: 143.5 (59.79 %)
+Ptnml(0-2): [0, 10, 59, 45, 6], WL/DD Ratio: 0.04
+LLR: 2.08 (70.6%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 244 of 4000 (base vs dev)
+Finished game 243 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 245 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move f3d5 from base
+Info; info depth 15 score cp 0 nodes 29073 nps 548547 time 53 pv f3a8 b5e2 a8f3 e2b5
+Position; startpos
+Moves; d2d4 g8f6 g1f3 e7e6 c1g5 h7h6 g5h4 b7b6 e2e3 c8b7 b1d2 c7c5 c2c3 c5d4 e3d4 f8e7 f1e2 d7d6 e1g1 e8g8 f1e1 f6h5 h4e7 d8e7 d2c4 h5f4 e2f1 b8d7 a2a4 d7f6 f3d2 e7d7 c4e3 d7c6 f1b5 c6c7 h2h3 e6e5 b5f1 a8e8 a4a5 c7c6 d2f3 f4h3 g2h3 c6f3 d1f3 b7f3 e3f5 e8e6 f5d6 e5d4 e1e6 f7e6 c3d4 b6a5 a1a5 f8d8 d6b5 d8c8 b5c3 f6e4 a5a3 e4d2 a3a7 c8b8 f1b5
+Warning; Bestmove does not match beginning of last PV - move b1a3 from base
+Info; info depth 15 score cp 0 nodes 21726 nps 282155 time 77 pv b1c3 c4a5 b3a3 a5c4 a3b3 c4a5
+Position; startpos
+Moves; d2d4 d7d5 c2c4 c7c6 g1f3 g8f6 e2e3 g7g6 f1e2 f8g7 e1g1 d5c4 e2c4 b8d7 c4f7 e8f7 d1b3 f7e8 f3g5 f6d5 e3e4 d7b6 e4d5 d8d5 b3g3 d5d4 f1e1 d4g4 g3d6 g4d7 d6c5 g7d4 c5a3 h8f8 g5f3 b6c4 a3b3 d7g4 f3d4 g4d4 e1f1 b7b5
+Finished game 242 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 246 of 4000 (base vs dev)
+Finished game 241 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 247 of 4000 (dev vs base)
+Finished game 244 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 248 of 4000 (base vs dev)
+Finished game 245 (dev vs base): 0-1 {Black wins by adjudication}
+Started game 249 of 4000 (dev vs base)
+Finished game 248 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 250 of 4000 (base vs dev)
+Finished game 247 (dev vs base): 1-0 {White wins by adjudication}
+Started game 251 of 4000 (dev vs base)
+Finished game 249 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 252 of 4000 (base vs dev)
+Finished game 246 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 253 of 4000 (dev vs base)
+Finished game 251 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 254 of 4000 (base vs dev)
+Finished game 250 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 255 of 4000 (dev vs base)
+Warning; Bestmove does not match beginning of last PV - move g1h1 from base
+Info; info depth 17 score cp 0 nodes 6502 nps 433466 time 15 pv g1h2
+Position; startpos
+Moves; g1f3 g7g6 d2d4 g8f6 g2g3 f8g7 f1g2 e8g8 e1g1 c7c6 b2b3 a7a5 c1b2 d7d5 b1d2 b8d7 a2a4 d7b8 e2e3 c8f5 h2h3 b8a6 g3g4 f5c8 f3e5 f6d7 f2f4 d7e5 d4e5 f7f6 d2f3 a6c5 a1c1 a8b8 b2a3 b7b6 e5f6 g7f6 f3d4 c8d7 c2c4 e7e6 d4f3 g6g5 d1e2 c5b3 c1d1 b3c5 f4g5 f6g7 h3h4 d8c7 a3b2 g7b2 e2b2 c7g3 f3e5 f8f1 d1f1 g3e3 g1h2 b8f8 f1f8 g8f8 e5f3 e6e5 b2b6 e3f4 h2g1 f4e3 g1h2 e3f4 h2g1 f4e3
+Finished game 252 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 256 of 4000 (base vs dev)
+Finished game 253 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 257 of 4000 (dev vs base)
+Finished game 254 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 258 of 4000 (base vs dev)
+Finished game 256 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 259 of 4000 (dev vs base)
+Finished game 255 (dev vs base): 1-0 {White wins by adjudication}
+Started game 260 of 4000 (base vs dev)
+Finished game 260 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 261 of 4000 (dev vs base)
+Finished game 257 (dev vs base): 1-0 {White wins by adjudication}
+Started game 262 of 4000 (base vs dev)
+Finished game 258 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 263 of 4000 (dev vs base)
+Finished game 259 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 67.66 +/- 21.92, nElo: 133.87 +/- 42.23
+LOS: 100.00 %, DrawRatio: 49.23 %, PairsRatio: 5.00
+Games: 260, Wins: 63, Losses: 13, Draws: 184, Points: 155.0 (59.62 %)
+Ptnml(0-2): [0, 11, 64, 49, 6], WL/DD Ratio: 0.03
+LLR: 2.23 (75.8%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 264 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move d8c7 from dev
+Info; info depth 10 score cp -64 nodes 24478 nps 169986 time 144 pv a7a6 a2a4 d8b8 e2f1 f8c8 e3e4 c5d4 c3d4 e7e5 f4h2
+Position; startpos
+Moves; d2d4 g8f6 g1f3 g7g6 c1f4 f8g7 c2c3 e8g8 b1d2 d7d6 e2e3 b8d7 h2h3 c7c5 f1e2 b7b6 e1g1 c8b7 f1e1
+Finished game 263 (dev vs base): 1-0 {White wins by adjudication}
+Started game 265 of 4000 (dev vs base)
+Finished game 261 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 266 of 4000 (base vs dev)
+Finished game 262 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 267 of 4000 (dev vs base)
+Finished game 264 (base vs dev): 1-0 {White wins by adjudication}
+Started game 268 of 4000 (base vs dev)
+Finished game 266 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 269 of 4000 (dev vs base)
+Finished game 267 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 270 of 4000 (base vs dev)
+Finished game 268 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 271 of 4000 (dev vs base)
+Finished game 265 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 272 of 4000 (base vs dev)
+Finished game 270 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 273 of 4000 (dev vs base)
+Finished game 269 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 274 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move b5b6 from base
+Info; info depth 16 score cp 0 nodes 10085 nps 1260625 time 8 pv h4h5 a2f2 b5b6 f6f5 b6b7 f5f6 b7b6
+Position; startpos
+Moves; c2c4 e7e5 b1c3 b8c6 g2g3 f7f5 f1g2 g8f6 e2e3 g7g6 g1e2 f8g7 d2d3 e8g8 e1g1 a7a5 c3d5 d7d6 c1d2 g8h8 a1c1 g6g5 f2f4 g5f4 e3f4 f6d5 c4d5 c6e7 g1h1 a5a4 a2a3 c8d7 f4e5 d6e5 d2g5 a8a6 d1c2 a6g6 g5e7 d8e7 c2c7 g7h6 c1c4 b7b5 c4c6 h6e3 e2c3 g6g7 c3b5 f5f4 c7d6 e7d8 b5c3 d7c6 d6d8 f8d8 d5c6 d8d3 c3d5 d3d2 g2e4 d2d4 e4f3 e3d2 c6c7 d4c4 f3e2 c4c7 d5c7 g7c7 g3f4 d2f4 e2d1 f4c1 d1a4 c1b2 f1f2 c7c4 f2b2 c4a4 b2b6 h8g7 b6e6 e5e4 h1g2 h7h5 h2h4 g7f7 e6e5 f7f6 e5h5 a4a3 h5b5 a3a2 g2g3 e4e3
+Finished game 272 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 275 of 4000 (dev vs base)
+Finished game 273 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 276 of 4000 (base vs dev)
+Finished game 271 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 277 of 4000 (dev vs base)
+Finished game 274 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 278 of 4000 (base vs dev)
+Finished game 276 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 279 of 4000 (dev vs base)
+Finished game 275 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 280 of 4000 (base vs dev)
+Finished game 277 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 281 of 4000 (dev vs base)
+Finished game 281 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 282 of 4000 (base vs dev)
+Finished game 279 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 283 of 4000 (dev vs base)
+Finished game 280 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 65.76 +/- 20.73, nElo: 132.83 +/- 40.84
+LOS: 100.00 %, DrawRatio: 51.08 %, PairsRatio: 5.18
+Games: 278, Wins: 66, Losses: 14, Draws: 198, Points: 165.0 (59.35 %)
+Ptnml(0-2): [0, 11, 71, 51, 6], WL/DD Ratio: 0.04
+LLR: 2.35 (79.9%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 284 of 4000 (base vs dev)
+Finished game 278 (base vs dev): 1/2-1/2 {Draw by fifty moves rule}
+Started game 285 of 4000 (dev vs base)
+Finished game 282 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 286 of 4000 (base vs dev)
+Finished game 284 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 287 of 4000 (dev vs base)
+Finished game 286 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 288 of 4000 (base vs dev)
+Finished game 283 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 289 of 4000 (dev vs base)
+Finished game 287 (dev vs base): 1-0 {White wins by adjudication}
+Started game 290 of 4000 (base vs dev)
+Finished game 285 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 291 of 4000 (dev vs base)
+Finished game 288 (base vs dev): 0-1 {Black wins by adjudication}
+Started game 292 of 4000 (base vs dev)
+Finished game 289 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 293 of 4000 (dev vs base)
+Finished game 292 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 294 of 4000 (base vs dev)
+Finished game 291 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 295 of 4000 (dev vs base)
+Finished game 290 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 296 of 4000 (base vs dev)
+Warning; Bestmove does not match beginning of last PV - move d7d6 from dev
+Info; info depth 10 score cp -14 nodes 52280 nps 235495 time 222 pv c5d4 d1d3 b7b5 c4b5 d8e6 c3d4 g8f6 e4e5 f6d5 b1c3
+Position; startpos
+Moves; e2e4 c7c5 g1f3 b8c6 c2c3 e7e5 f1c4 d8c7 e1g1 f8e7 f3g5 c6d8 f2f4 e5f4 g5h3 g7g5 d2d4
+Finished game 293 (dev vs base): 1-0 {White wins by adjudication}
+Started game 297 of 4000 (dev vs base)
+Finished game 294 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 298 of 4000 (base vs dev)
+Finished game 295 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 299 of 4000 (dev vs base)
+Finished game 296 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 300 of 4000 (base vs dev)
+Finished game 298 (base vs dev): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 301 of 4000 (dev vs base)
+Finished game 299 (dev vs base): 1-0 {White wins by adjudication}
+Started game 302 of 4000 (base vs dev)
+Finished game 297 (dev vs base): 1/2-1/2 {Draw by fifty moves rule}
+Started game 303 of 4000 (dev vs base)
+Finished game 300 (base vs dev): 1/2-1/2 {Draw by adjudication}
+--------------------------------------------------
+Results of dev vs base (8+0.08, 1t, 64MB, 8moves_v3.pgn):
+Elo: 65.62 +/- 19.85, nElo: 133.23 +/- 39.32
+LOS: 100.00 %, DrawRatio: 52.67 %, PairsRatio: 5.45
+Games: 300, Wins: 70, Losses: 14, Draws: 216, Points: 178.0 (59.33 %)
+Ptnml(0-2): [0, 11, 79, 53, 7], WL/DD Ratio: 0.04
+LLR: 2.53 (86.1%) (-2.94, 2.94) [0.00, 10.00]
+--------------------------------------------------
+Started game 304 of 4000 (base vs dev)
+Finished game 303 (dev vs base): 1/2-1/2 {Draw by 3-fold repetition}
+Started game 305 of 4000 (dev vs base)

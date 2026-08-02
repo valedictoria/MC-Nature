@@ -1,0 +1,15 @@
+CarelessChess NNUE — third-party network provenance
+====================================================
+
+The embedded default network `net.bin` and the inference scheme in
+`nnue.{h,cpp}` are a port of the NNUE from the akimbo chess engine by
+Jamie Whiting (https://github.com/jw1912/akimbo), used under the MIT
+License (see LICENSE-akimbo). The network was trained by the akimbo
+author with the `bullet` trainer; CarelessChess does not train it.
+
+Architecture: (768 -> 1024)x2 -> 1, 4 king-input buckets with horizontal
+mirroring, SCReLU activation, QA=255 QB=64 SCALE=400, plus akimbo's
+material output scaling.
+
+No modification was made to the network weights; only the inference was
+re-implemented in C++ for this engine.

@@ -1,0 +1,14 @@
+# CarelessChess bench signatures
+#
+# `./build/carelesschess bench` runs a reproducible fixed-depth (13) search over
+# a fixed 12-position set and prints "Nodes searched : <total>". The total is
+# DETERMINISTIC: a no-op refactor must reproduce it byte-for-byte; a real
+# search/eval change moves it. Record each new signature here when a feature
+# legitimately changes it.
+#
+# tag                         nodes       notes
+# --------------------------  ----------  -------------------------------------
+cc-capthist-step6 (HEAD)      1951738     capture history; branch campaign/hce-search-gains
+cc-phase1-final (1a corrhist + 1c singular): 2592283
+cc-phase2-syzygy (Phase1 + Fathom Syzygy integ, probing off): 2592283
+cc-phase3-nnue (akimbo bullet NNUE embedded, replaces HCE): 1995761
