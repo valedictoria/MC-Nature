@@ -9,7 +9,7 @@ OBJ      := $(SRC:.cpp=.o)
 TB_OBJ   := src/syzygy/tbprobe.o
 # Embedded default NNUE weights (incbin.s pulls in src/nnue/net.bin).
 NNUE_OBJ := src/nnue/incbin.o
-BIN      := build/carelesschess
+BIN      := build/MC-Nature
 INSTALL_DIR := ../lichess-bot/engines
 
 .PHONY: all clean install perft debug
@@ -34,15 +34,15 @@ $(NNUE_OBJ): src/nnue/incbin.s src/nnue/net.bin
 
 install: $(BIN)
 	@mkdir -p $(INSTALL_DIR)
-	cp $(BIN) $(INSTALL_DIR)/carelesschess
+	cp $(BIN) $(INSTALL_DIR)/MC-Nature
 	@# macOS Sequoia flags freshly-compiled binaries with com.apple.provenance,
 	@# which causes lichess-bot's subprocess spawn to be SIGKILL'd. Strip attrs
 	@# and re-sign so the OS is happy.
 	@if [ "$$(uname)" = "Darwin" ]; then \
-		xattr -c $(INSTALL_DIR)/carelesschess 2>/dev/null || true; \
-		codesign --force -s - $(INSTALL_DIR)/carelesschess 2>/dev/null || true; \
+		xattr -c $(INSTALL_DIR)/MC-Nature 2>/dev/null || true; \
+		codesign --force -s - $(INSTALL_DIR)/MC-Nature 2>/dev/null || true; \
 	fi
-	@echo "Installed to $(INSTALL_DIR)/carelesschess"
+	@echo "Installed to $(INSTALL_DIR)/MC-Nature"
 
 perft: $(BIN)
 	./$(BIN) perft

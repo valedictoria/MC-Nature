@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# SPRT wrapper around fastchess for CarelessChess dev vs baseline.
+# SPRT wrapper around fastchess for MC-Nature dev vs baseline.
 #
 # Usage:
-#   tools/sprt.sh snapshot [tag]     save current build/carelesschess as baseline (tools/baselines/cc-<tag>)
+#   tools/sprt.sh snapshot [tag]     save current build/MC-Nature as baseline (tools/baselines/cc-<tag>)
 #   tools/sprt.sh list               list saved baselines
-#   tools/sprt.sh [options]          run SPRT: build/carelesschess (dev) vs baseline (base)
+#   tools/sprt.sh [options]          run SPRT: build/MC-Nature (dev) vs baseline (base)
 #
 # Options (env vars override defaults):
 #   TC=8+0.08        time control (campaign convention)
@@ -28,7 +28,7 @@ FASTCHESS="$SCRIPT_DIR/fastchess/fastchess"
 BASELINES_DIR="$SCRIPT_DIR/baselines"
 # Baseline files are named "<PREFIX>-<tag>" (e.g. cc-capthist-step6).
 PREFIX="${PREFIX:-cc}"
-DEV_BIN="${DEV_BIN:-$ENGINE_DIR/build/carelesschess}"
+DEV_BIN="${DEV_BIN:-$ENGINE_DIR/build/MC-Nature}"
 DEFAULT_BOOK="$SCRIPT_DIR/books/8moves_v3.pgn"
 
 mkdir -p "$BASELINES_DIR"

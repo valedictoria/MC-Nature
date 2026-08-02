@@ -38,7 +38,7 @@ constexpr int BUCKETS[64] = {
     3, 3, 3, 3, 7, 7, 7, 7,
 };
 
-// akimbo SEE values (index by CarelessChess PieceType) for the material scale.
+// akimbo SEE values (index by MC-Nature PieceType) for the material scale.
 constexpr int SeeVal[PIECE_TYPE_NB] = { 0, 100, 450, 450, 650, 1250, 0, 0 };
 
 // ---- Loaded network (views into embedded bytes or a heap buffer) ----

@@ -1,6 +1,6 @@
 #pragma once
 // Thin C++ glue over the vendored Fathom probing library (tbprobe.c).
-// Converts a CarelessChess Position into Fathom's bitboard arguments and maps
+// Converts a MC-Nature Position into Fathom's bitboard arguments and maps
 // results back into engine types. All probing is a no-op unless a SyzygyPath
 // has been loaded (MaxPieces > 0), so default builds are unaffected.
 
