@@ -1,42 +1,15 @@
-# MeikeChess
-
-A UCI-compliant C++ chess engine.
-
-## Build
-
-Note, GlobeBot is the name for the product while developing.
-
-Requires only `clang++` (comes with Xcode Command Line Tools) and `make`.
-
-```sh
-make            # builds build/globebot
-make perft      # builds and runs the perft verification suite
-make install    # copies build/globebot to ../lichess-bot/engines/globebot
-make clean
-``` Then in `lichess-bot/config.yml` set:
-
-```yaml
-engine:
-  name: globebot
-  protocol: uci
-  uci_options:
-    EvalFile: engines/globebot.nnue   # optional; HCE used if absent
-```
-
-## Verify movegen (perft)
-
-```sh
-./build/globebot perft
-```
-
-Runs the standard six perft positions to depth 5 and reports pass/fail against known node counts.
-
-## UCI usage
-
-```sh
-./build/globebot
-uci
-isready
-position startpos moves e2e4 e7e5
-go depth 8
-```
+# MC-Nature
+This code is part of the MeikeChess saga. A series of chess engines.
+# What distinguishes Nature from other MC engines?
+Nature uses a pre-installed open-source NNUE, as where BravoBlue (in development) uses PyTorch for a self-training NNUE. Think of it as a "DeepBlue" engine.
+# Description of MC-Nature
+A chess engine written in C++, using an akimbo bullet NNUE net, Native 3·4·5 SyZyGy database, with HCE as a fallback.
+The engine is also known as PsiOmicron, named after the greek alphabet components, but mainly, this name is used to represent what generation the engine is, independently of the version.
+## Version 2.0
+Fixed issues where HCE was most commonly used, because of a bucket failure in the NNUE
+Added GitHub repository
+Fixed eval issues, noted in middle games and open games.
+(dev) Added SPRT and SPSA functionality.
+Added time-man.cpp, time-man.h and time-man.o for time management.
+## What will be released in version 2.1?
+Most likely, we'll be adding native databases, such as an opening book, and slight optimizations.
