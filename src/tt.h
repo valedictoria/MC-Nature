@@ -7,6 +7,12 @@
 enum Bound { BOUND_NONE, BOUND_UPPER, BOUND_LOWER, BOUND_EXACT };
 
 struct TTEntry {
+    // key16 stores (true key low bits) XOR (mix of the fields below), not the
+    // raw key. Lazy-SMP lockless check: a torn concurrent read/write (one
+    // thread's key half combined with another thread's data half) recombines
+    // to the wrong value here and self-corrects to a probe miss instead of a
+    // corrupted hit. Single-threaded behaviour is unchanged (the XOR cancels
+    // out on a clean read), so the bench signature is unaffected.
     uint16_t key16;
     uint16_t move16;
     int16_t  value16;
@@ -21,6 +27,12 @@ struct TTEntry {
     Bound bound() const { return Bound(genBound8 & 0x3); }
 
     void save(uint64_t key, Value v, Bound b, int d, Move m, Value ev, uint8_t generation);
+
+    static uint16_t data_mix(uint16_t move16, int16_t value16, int16_t eval16,
+                              int8_t depth8, uint8_t genBound8) {
+        return move16 ^ uint16_t(value16) ^ uint16_t(eval16)
+             ^ uint16_t(uint16_t(uint8_t(depth8)) << 8) ^ genBound8;
+    }
 };
 
 constexpr int ClusterSize = 3;
@@ -40,6 +52,9 @@ public:
 
     // Returns the matching entry (found=true) or the replacement target.
     TTEntry* probe(uint64_t key, bool& found) const;
+
+    // Per-mille of sampled entries written this generation (UCI "hashfull").
+    int hashfull() const;
 
 private:
     void free_mem();

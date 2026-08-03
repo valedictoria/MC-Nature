@@ -12,3 +12,16 @@ cc-capthist-step6 (HEAD)      1951738     capture history; branch campaign/hce-s
 cc-phase1-final (1a corrhist + 1c singular): 2592283
 cc-phase2-syzygy (Phase1 + Fathom Syzygy integ, probing off): 2592283
 cc-phase3-nnue (akimbo bullet NNUE embedded, replaces HCE): 1995761
+
+# ---- SIMD/timeman/usability/Lazy-SMP campaign (2026-08-02/03) ----
+cc-usability-round1     1933988     NEON SIMD + score-drop timeman + MultiPV/seldepth/hashfull/ponder (SPSA-tuned defaults baseline)
+cc-searchmoves-ponder   1933988     go searchmoves + graceful go ponder handling (correctness-only, no-op)
+cc-corrhist-expansion   1605316     non-pawn/material + continuation correction-history keys
+cc-corrhist-noking      1625091     corrhist expansion tuned (king-safety key dropped after regressing)
+cc-razoring             1703779     razoring (depth<=3, RazorMargin tunable); quick-gate +34.9 +/-75.1 Elo, 55.0% (inconclusive but kept)
+cc-tt-xor               1703779     TT XOR-trick lockless sync for Lazy SMP (bit-identical no-op)
+cc-searchworker-refactor 1703779    ~13 global search-state vars -> per-thread SearchWorker struct (bit-identical no-op)
+cc-nnue-threadlocal     1703779     NNUE accumulator state made thread_local (discovered blocker; bit-identical no-op)
+cc-lazysmp-2t           1703779     2nd Lazy-SMP worker thread + Threads UCI option (max 2); Position made copyable (2nd blocker fix)
+                                     quick-gate Threads=2 vs Threads=1: +46.6 +/-39.8 Elo, 56.67%, LOS 99.0%
+cc-skill-contempt       1703779     Skill Level (depth cap) + Contempt (draw-score bias) options (correctness-only, no-op at defaults)

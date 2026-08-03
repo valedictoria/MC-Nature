@@ -15,6 +15,20 @@ struct Limits {
     int64_t moveOverhead = 100;
     bool    infinite = false;
     bool    useTimeManager = false; // true iff a game clock was given
+
+    // `go searchmoves <m1> <m2> ...`: restrict the root to these moves only
+    // (empty = no restriction). Populated by the UCI layer, which has the
+    // Position needed to parse move strings.
+    Move searchMoves[MAX_MOVES];
+    int  searchMovesCount = 0;
+
+    // True for `go ponder`. Handled as a plain infinite search (run until an
+    // external `stop`, or a fresh `position`+`go`) — this engine doesn't
+    // implement true ponderhit continuation, so this is the minimally
+    // correct behavior: it stops the engine from treating the opponent's
+    // clock as its own move-decision budget and returning an immediate
+    // bestmove mid-ponder, without pretending to do more than that.
+    bool ponder = false;
 };
 
 class TimeManager {

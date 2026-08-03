@@ -17,6 +17,19 @@ extern std::atomic<bool> stop;
 extern TimeManager Time;
 extern int64_t nodes;
 
+// UCI MultiPV option (1..8, default 1). Setting it above 1 has zero effect on
+// the bench signature or single-line search until it's actually raised.
+void set_multipv(int n);
+
+// UCI Threads option (1 or 2). 2 spawns a Lazy-SMP helper worker alongside
+// the reporting thread for every think() call; default 1 is unchanged.
+void set_threads(int n);
+
+// Weaker-play / draw-bias polish for an external GUI. Both are no-ops at
+// their defaults (SkillLevel 20, Contempt 0) — no Elo claim, correctness only.
+void set_skill_level(int n);
+void set_contempt(int n);
+
 void init();            // precompute reduction table
 void clear();           // reset history / killers / TT generation between games
 

@@ -145,8 +145,17 @@ Threads/Ponder are accepted-and-ignored; unknown options silently ignored.
 ## Engine style
 No exceptions, no RTTI (enforced by flags), C++20. Hot paths (`do_move`,
 `legal`, movegen, attack lookups) avoid heap allocation; `StateInfo` lives on
-the search stack. Single-threaded by design; Lazy SMP, MultiPV, and chess960 are
-explicit non-goals.
+the search stack. Chess960 remains an explicit non-goal. **Lazy SMP (2
+threads) and MultiPV have landed** — `Threads` is a UCI spin option
+(`min 1 max 2`); at `Threads=2`, `Search::think()` spawns a second
+`SearchWorker` (its own history tables/PV/limits, its own `Position` copy) that
+searches alongside the reporting thread, sharing only `TT` (now XOR-protected
+for lockless concurrent access), the read-only `Reductions` table, and the
+read-mostly `Tune::*` SPSA params. `Position` is copyable (verified-safe
+shallow copy — see `position.h`'s comment on why) and the NNUE accumulator
+state is `thread_local`, both fixed during this campaign as prerequisites
+discovered along the way. `Threads=1` remains bit-identical to the
+pre-Lazy-SMP engine.
 
 ## In-flight WIP (2026-07-31) — SPSA search-param tuning (UNVERIFIED)
 
@@ -180,3 +189,28 @@ proven; do not treat the current tree as a confirmed improvement.**
   SeeCapMul 50, LmrHistDiv 8192, LmrDivX100 210, AspDelta 12, HistBonusMul 4,
   HistBonusMax 8000, LmpBase 3; others already at default) and rebuild → bench
   returns to 1842508. Nothing was `make install`ed, so the live bot is unchanged.
+
+## SIMD / time-management / usability / Lazy SMP campaign (2026-08-02/03) — DONE
+
+Full plan: `/Users/titojr/.claude/plans/cryptic-wondering-giraffe.md`. Results
+write-up: `tools/CAMPAIGN_RESULTS_2026-08.md`. Decided **against** integrating
+a Stockfish BT4-style net (HalfKAv2_hm feature set is architecturally
+incompatible with this engine's flat-768/king-bucketed NNUE at every level —
+accumulator refresh semantics, quantization, no SIMD to make a much-wider net
+fast enough; would be a full second NNUE implementation, not a "swap"). Logged
+as a separate future project, not part of this campaign.
+
+All eight planned steps landed (NEON SIMD, score-drop time management,
+MultiPV/seldepth/hashfull/ponder, `go searchmoves`/`go ponder`, correction-
+history expansion, razoring, Lazy SMP 2-threads, Skill Level/Contempt). Two
+real architectural blockers were discovered and fixed along the way, neither
+in the original plan: the NNUE accumulator state was a single global (not
+thread-safe — see the NNUE section above) and `Position`'s copy constructor
+was `delete`d while repetition detection depends on a `StateInfo` chain a
+naive FEN-reconstruction would truncate (see `position.h`). **Final bench:
+`1703779`** (every step from razoring onward is a verified no-op on top of
+that). Razoring (+34.9 ±75.1 Elo) and Lazy SMP 2-thread (+46.6 ±39.8 Elo,
+LOS 99%) are both only 30-game quick-gates — directionally positive but not
+yet run through a longer confirmatory SPRT; do that before either is trusted
+as a real Elo claim or shipped via `make install`. Nothing from this campaign
+has been `make install`ed — the live bot is unaffected.

@@ -32,8 +32,16 @@ struct StateInfo {
 class Position {
 public:
     Position() = default;
-    Position(const Position&) = delete;
-    Position& operator=(const Position&) = delete;
+    // Every member is either a plain value (board/bitboards/counters) or the
+    // `st` StateInfo-chain pointer. do_move never mutates an existing
+    // StateInfo node in place — it only ever links a *new* one supplied by
+    // the caller on top of the current chain — so a shallow copy safely
+    // shares the (immutable) ancestor history with the original and then
+    // diverges cleanly the moment either copy makes its own move. This is
+    // what lets a Lazy-SMP helper thread get its own independent search
+    // root without truncating repetition/50-move history.
+    Position(const Position&) = default;
+    Position& operator=(const Position&) = default;
 
     void set(const std::string& fen, StateInfo* si);
     std::string fen() const;

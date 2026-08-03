@@ -95,7 +95,18 @@ void go(Position& pos, std::istringstream& is) {
         else if (token == "depth")     is >> limits.depth;
         else if (token == "nodes")     is >> limits.nodes;
         else if (token == "infinite")  limits.infinite = true;
+        else if (token == "ponder")    limits.ponder = true;
         else if (token == "perft")     is >> perftDepth;
+        else if (token == "searchmoves") {
+            // Always the last go-parameter per the UCI spec: consume every
+            // remaining token as a move string, converting with the Position
+            // we already have (uci_to_move needs it to resolve legality).
+            while (is >> token) {
+                Move m = uci_to_move(pos, token);
+                if (m != MOVE_NONE && limits.searchMovesCount < MAX_MOVES)
+                    limits.searchMoves[limits.searchMovesCount++] = m;
+            }
+        }
     }
 
     if (perftDepth > 0) {
@@ -104,6 +115,8 @@ void go(Position& pos, std::istringstream& is) {
     }
 
     limits.useTimeManager = (limits.time[WHITE] || limits.time[BLACK]);
+    if (limits.ponder)
+        limits.infinite = true; // see the comment on Limits::ponder in timeman.h
 
     join_search();
     g_searchThread = std::thread([&pos, limits]() { Search::think(pos, limits); });
@@ -128,9 +141,12 @@ void uci_loop() {
             std::cout << "id name MC-Nature\n"
                       << "id author valedictoria\n"
                       << "option name Hash type spin default 64 min 1 max 65536\n"
-                      << "option name Threads type spin default 1 min 1 max 1\n"
+                      << "option name Threads type spin default 1 min 1 max 2\n"
+                      << "option name MultiPV type spin default 1 min 1 max 8\n"
                       << "option name Move Overhead type spin default 100 min 0 max 5000\n"
                       << "option name Ponder type check default false\n"
+                      << "option name Skill Level type spin default 20 min 0 max 20\n"
+                      << "option name Contempt type spin default 0 min -100 max 100\n"
                       << "option name SyzygyPath type string default <empty>\n"
                       << "option name EvalFile type string default <internal>\n";
             Search::print_tune_options(std::cout);
@@ -147,6 +163,10 @@ void uci_loop() {
                 while (is >> token) value += " " + token;
             }
             if (name == "Hash") { g_hashMb = std::max(1, std::stoi(value)); TT.resize(g_hashMb); }
+            else if (name == "MultiPV") Search::set_multipv(std::stoi(value));
+            else if (name == "Threads") Search::set_threads(std::stoi(value));
+            else if (name == "Skill Level") Search::set_skill_level(std::stoi(value));
+            else if (name == "Contempt") Search::set_contempt(std::stoi(value));
             else if (name == "Move Overhead") g_moveOverhead = std::stoi(value);
             else if (name == "SyzygyPath") Syzygy::init(value);
             else if (name == "EvalFile") {
@@ -155,7 +175,7 @@ void uci_loop() {
                     NNUE::load_file(value);
             }
             // Otherwise try a tunable search parameter (SPSA). Unknown names —
-            // including Threads / Ponder — are accepted and ignored.
+            // including Ponder — are accepted and ignored.
             else Search::set_tune(name, std::atoi(value.c_str()));
         } else if (token == "ucinewgame") {
             join_search();
